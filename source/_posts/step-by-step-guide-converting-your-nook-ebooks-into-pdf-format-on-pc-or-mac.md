@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting Your NOOK eBooks Into PDF Format on PC or Mac"
-date: 2024-08-19 20:16:42
-updated: 2024-08-21 11:23:23
+date: 2024-08-20T09:43:08.160Z
+updated: 2024-08-21T09:43:08.160Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be14848998b4f825537e8b545d45.jpg
@@ -40,12 +40,22 @@ Nook for Windows App is no longer available for new downloads from the Microsoft
 
 [Download Epubor Nook Converter for Win](https://tools.techidaily.com/epubor/nook-converter/) [Download Epubor Nook Converter for Mac](https://tools.techidaily.com/epubor/nook-converter/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Secondly, install and configure the Android Studio
 
 After you install the right version of Android Studio on your computer, please follow this GIF to set up Android Studio
 
 ![setup emulator](https://www.epubor.com/images/uppic/setup-emulator.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Thirdly, download Nook books to computer
 
 Install Nook for Android APK into Android emulator and tap the icon to run Nook app. 
@@ -56,12 +66,18 @@ Log into your Nook account and download the Nook books from Nook Library.
 
 ![nook books download android](https://www.epubor.com/images/uppic/nook-books-download-android.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Next, remove DRM from Nook books
 
 After your Nook books are downloaded via Nook for Android, run Epubor Nook Converter and click "Refresh" button, these books will automatically show up under the Book Library in Nook Converter.
 
 ![nook converter main interface](https://www.epubor.com/images/uppic/nook-converter-main-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Drag and drop the books from left to the right area to remove DRM from your Nook books.
 
 Note: Don't forget to input your Nook account information to generate the Nook key file for decryption. For more steps and details you need to pay attention to, please read the [Epubor Nook Converter user guide](https://tools.techidaily.com/epubor/nook-converter/).
@@ -72,6 +88,9 @@ With the help of Epubor Nook Converter, you can get DRM-free Nook books in EPUB 
 
 ![drm nook to pdf](https://www.epubor.com/images/uppic/nook-to-pdf-2023.png)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Job done. Now what we need to do is to find the converted PDF books from output folder and enjoy reading your PDF files. We can also transfer them to iBooks, Kindle or Kobo eReader, etc and view eBooks without any restrictions.
 
 ![nook epub pdf converter](https://www.epubor.com/images/uppic/nook-epub-to-pdf.png)

@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Digital Reads: The Ultimate Tutorial on Backing Up eBooks From Kobo"
-date: 2024-08-18 18:21:40
-updated: 2024-08-21 11:28:22
+date: 2024-08-20T09:43:08.711Z
+updated: 2024-08-21T09:43:08.711Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f2115976dbfc26ef5bc200fbe009cd.jpg
@@ -29,6 +29,9 @@ As I have mentioned above, considering the safety of our Kobo books, back up our
 
 Besides, we cannot make sure Kobo eBook store will be in good running condition all the time either. We need to take measures to protect our books. If we back up Kobo books to computer, we need not to worry that we will lose them even Kobo store will shut down in the future. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ###  How to back up Kobo books
 
 Have learned the reasons that we need to back up Kobo books, I guess you have no doubt to make backup of Kobo books? But how to? In fact, most of our downloaded Kobo books are DRM protected, removing DRM from Kobo books and then saved the copy of DRM free Kobo books on your computer drive is the best way. You may ask me cannot I just copy the DRMed files to another folder? Actually, if Kobo has delete your books, they may cannot be opened at all, because Kobo may tell the server that you are not the owner of these books. So the only step to back up your Kobo books is removing DRM.
@@ -47,12 +50,18 @@ Download [Kobo desktop](https://www.kobo.com/desktop), install Kobo desktop on y
 
 ![sync kobo books via kobo desktop](http://www.epubor.com/images/uppic/sync-your-kobo-books-via-kobo-desktop.png)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step2: Remove DRM from Kobo books**
 
 After you have synced Kobo books successfully, now we can start to remove DRM from Kobo books. Just launch this DRM removal tool, it will detect and upload your Kobo books automatically. All of our downloaded Kobo books will show up on the left side bar under "Kobo" icon. Simply drag books from the left column to the main area, then all your Kobo books will be decrypted soon. You can refer to the guide [remove DRM from Kobo](https://tools.techidaily.com/epubor/products/) to learn more details about unlocking Kobo books.
 
 ![remove drm from kobo books](http://www.epubor.com/images/uppic/remove-drm-from-kobo-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### For books from Kobo eReader
 
 If you have a Kobo eReader, you need not to sync your Kobo books via Kobo desktop. This software can help us remove DRM directly from Kobo reader. 
@@ -61,6 +70,9 @@ You can just connect your Kobo eReader to your computer, and the tool will also 
 
 ![remove drm from kobo books](http://www.epubor.com/images/uppic/remove-drm-from-kobo-e-ink-reader.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 After your Kobo books have been decrypted successfully, they will be saved as EPUB format. You can click File-->open decrypted folder or just right-click your added books, select "Explore decrypted folder" to see your decrypted Kobo books.
 
 #### Another easier method to make DRM-free copies of Kobo books to computer
@@ -73,6 +85,9 @@ It's easy to use. Simply connect your Kobo to computer, then the tool will autom
 
 ![back up kobo books to computer](http://www.epubor.com/images/uppic/transfer-kobo-books-to-computer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Now we have made DRM-free copies of Kobo books and save them to the path we like permanently. If you are interested in backing up Google Play books, please read this guide [How to Back up Google Play Books](https://tools.techidaily.com/epubor/products/). 
 
 Start my free trial today
@@ -83,6 +98,9 @@ Back up your Kobo books and make them 100% safe
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

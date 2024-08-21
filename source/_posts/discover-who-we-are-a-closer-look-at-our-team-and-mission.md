@@ -1,7 +1,7 @@
 ---
 title: "Discover Who We Are: A Closer Look at Our Team and Mission"
-date: 2024-08-20 10:26:49
-updated: 2024-08-21 10:20:17
+date: 2024-08-20T09:43:08.194Z
+updated: 2024-08-21T09:43:08.194Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9fcfecf39700de5889b22829e.jpg
@@ -106,3 +106,13 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->

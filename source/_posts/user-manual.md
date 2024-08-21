@@ -1,7 +1,7 @@
 ---
 title: User Manual.
-date: 2024-08-18 11:45:34
-updated: 2024-08-21 11:45:30
+date: 2024-08-20T09:43:08.373Z
+updated: 2024-08-21T09:43:08.373Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c8336694d98304c7450ff8c427.png
@@ -53,6 +53,9 @@ Support Center
 * **[Remove Adobe EPUB/PDF DRM](https://tools.techidaily.com/epubor/products/)**
 * **[Remove Nook DRM](https://tools.techidaily.com/epubor/products/)**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Remove Kindle DRM
 
 First of all, please make sure you are using the latest version of our program, here is the download links: <https://www.epubor.com/software-upgrade-policy.html>
@@ -79,6 +82,9 @@ Drag & drop Kindle books from default Kindle content folder to software's main w
 
 ![remove kindle drm](http://www.epubor.com/images/uppic/epubor-ultimate-1108.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **If you have an E-Ink Kindle:**
 
 1**Connect Kindle to computer with USB cable**
@@ -87,6 +93,9 @@ Our program will detect your connected Kindle, then you will see your Kindle dis
 
 ![detect kindle device](http://www.epubor.com/images/detect-kindle-connect.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2**Directly drag the books from rightside column into leftside main window**
 
 Kindle DRM Removal will process the books automatically. And all the decrypted books will save in computer's hard drive. No harm to Kindle device or the books saved in Kindle.
@@ -94,6 +103,9 @@ Kindle DRM Removal will process the books automatically. And all the decrypted b
 [Back to top](https://tools.techidaily.com/epubor/products/)
 
   
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Remove Adobe EPUB/PDF DRM
 
 For removing DRM from your Adobe Adept books, we need some "keys" to decrypt them. And the keys are generated once your purchased Adobe Adept books are synced by Adobe Digital Editions.
@@ -121,6 +133,9 @@ Drag & drop Adept EPUB&PDF books from default ADE content folder to software's m
 [Back to top](https://tools.techidaily.com/epubor/products/)
 
   
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Remove Nook DRM
 
 Nook has changed the DRM since 2015, the billing name and credit number method is not working any longer.
@@ -166,6 +181,9 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 ![mcafee badge](http://www.epubor.com/images/mcafee-secure.png)![norton badge](http://www.epubor.com/images/norton-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"

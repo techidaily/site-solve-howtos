@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Removing E-Books From Your Kindle Device"
-date: 2024-08-19 22:22:47
-updated: 2024-08-21 10:36:19
+date: 2024-08-20T09:43:08.574Z
+updated: 2024-08-21T09:43:08.574Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e9201916667eb608e7a9ffd3.jpg
@@ -59,16 +59,26 @@ To delete Kindle books in batch, you need to go to **Home — Menu — Settings 
 
 ![manual removal](https://www.epubor.com/images/uppic/manual-removal.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 Or you can also go to **Home — Menu — Settings — Device Options — Advanced Options — Storage management — Quick Archive** to quickly remove content from this device that has not been opened for the last 1/3/6 months, 1 year or more.
 
 ![quick archive](https://www.epubor.com/images/uppic/quick-archive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Amazon adds storage management to the new firmware, though it’s a small function, it’s really convenient for Kindle users who need to clean their storage frequently. Compared to Manual deletion, Quick Archive will easily your contents by accident. If you can’t remember all the contents in your kindle local disk, please don’t try this method.
 
 If you want to delete books from Kindle devices in batch, make sure the Kindle firmware is 5.9.2.0.1 or above version. You can automatically update software firmware to 5.9.2.0.1 version or above on your Kindle device or download Firmware 5.9.2.0.1 manually from Amazon website.
 
 **Notice:** All the methods above just delete the books from your device. If you want to delete them completely, you need to [remove them from Kindle Cloud](https://tools.techidaily.com/epubor/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Delete kindle books from Kindle app(Android, iOS, Windows, Mac)
 
 #### **Delete kindle books from Kindle Android app**
@@ -105,6 +115,9 @@ Please keep in mind that this will remove all the contents from your device. You
 
 ![deregister yes](https://www.epubor.com/images/uppic/deregister-yes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Delete books from Kindle Unlimited
 
 With Kindle Unlimited we can borrow books (up to ten books) but no need to pay for them. But once finished reading, they will be still saved in our account. In this situation we can delete them from Kindle Unlimited history.
@@ -119,6 +132,9 @@ Tips:
 
 2\. Books will be gone when you cancel your Kindle Unlimited subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Delete books from Kindle Cloud: delete kindle books permanently
 
 **Update:** If your Kindle firmware was updated to 5.12.5, there’s also the option to permanently delete purchased ebooks and personal documents from the Kindle itself. 
@@ -137,10 +153,16 @@ If you navigate to this part, I can see you really have a pretty strong mind to 
 
 ![delete from kindle cloud warning](https://www.epubor.com/images/uppic/delete-from-kindle-cloud-warning.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  **Wrapped up:** 
 
 If you delete books from your library/cloud/archive, you can never have the books back. This means that you have to purchase for a second time if you want to read them again. Still want to delete kindle books from your Kindle account but need a back-up? Please use [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/) tool which helps remove the drm from your Kindle books and back up them to your computer for good.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Delete Rented Kindle Books
 
 For users borrowing ebooks from the library, typically, rented books are automatically returned to the library when the Kindle book lending period expires. However, the expired Kindle Books may still appear on your Kindle device or reading app, and they cannot be opened. To delete such Kindle books, please follow the steps below.
@@ -151,6 +173,9 @@ For users borrowing ebooks from the library, typically, rented books are automat
 
 ![delete from expired rented library kindle books](https://www.epubor.com/images/uppic/delete-expired-rented-kindle-books.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 #### Make sure your kindle books are backed up before permanently deleting them 
 
 If you are determined to delete your purchased Kindle books, ensure that they are safely backed up on your computer. To help yourself back up kindle books, please follow this guide: [How to Back up Your Kindle Books to Computer](https://tools.techidaily.com/epubor/products/). To get this task finished, Epubor Ultimate is the best tool.

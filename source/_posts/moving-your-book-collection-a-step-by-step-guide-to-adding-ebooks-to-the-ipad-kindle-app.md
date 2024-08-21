@@ -1,7 +1,7 @@
 ---
 title: "Moving Your Book Collection: A Step-by-Step Guide to Adding Ebooks to the iPad Kindle App"
-date: 2024-08-18 19:28:41
-updated: 2024-08-21 11:38:12
+date: 2024-08-20T09:43:08.297Z
+updated: 2024-08-21T09:43:08.297Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e5621bb73a4e4cfe01264003.jpg
@@ -43,10 +43,16 @@ After getting this step ready, you can follow the guide below. Just choose the "
 
 \--If your books are purchased from non-kindle stores, consult [Part 2](https://tools.techidaily.com/epubor/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 1: Transfer kindle books to iPad kindle app
 
 Before buying any books from amazon, you should first register an account. Then your paid books will be showed up in the content of your Amazon store. Use your existing Amazon account e-mail address and password to register your kindle app. Log in and you will see the books you have purchased from Amazon. Click on them to download and they will sync to your kindle app automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Part 2: Transfer non-kindle books to iPad kindle app
 
 This part is written for you if your books are purchased from non-kindle online ebook stores, such as Nook, Sony, Kobo, Google Play, etc. These non-kindle books are probably protected from their special DRMs. If you want to transfer them to your iPad kindle app, the first thing you should do is to remove their DRMs. Besides, you should make sure the file format is mobi which is permitted by kindle app. To solve these two problems, the [Ultimate converter--Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/) may help you for it can one-click to decrypt eBooks purchased from Nook, Sony, Kobo, Google Play, Lulu and Smashwords online eBook stores in batch and can convert file format into epub, pdf and mobi.
@@ -63,10 +69,16 @@ After installing the ultimate converter, here I will show you how to remove DRM 
 
 ![remove drm from non-kindle books](http://www.epubor.com/images/uppic/remove-drm-from-non-kindle-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2.** Finishing this, you can start to convert the file format. Choose "mobi" as the output format in the central buttom.Then click the "convert to mobi" button to start the conversion process. Within a few minutes, the books will show the state of "succeeded". Hit " folder" icon at the bottom and you will get your converted books with mobi format. 
 
 ![convert file format before transferring books to iPad kindle app](http://www.epubor.com/images/uppic/Convert-file-format-into-mobi.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The last is to transfer non-kindle books to iPad kindle app. I will give detailed information about how to transfer books bought from different online stores to it. 
 
 #### Step 2: Three methods for you to transfer books to iPad kindle app
@@ -83,10 +95,16 @@ This mothod is mostly common used among ipad users, I think.
 
 ![click "Apps" at the iTunes panel](http://www.epubor.com/images/uppic/click-apps-in-iTunes-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **3.** Scroll to the left bottom and you will find "Kindle" in "Apps". Click the "Add file" button and choose the books you want to transfer. Within seconds your books will appear in the list of Kindle Document.
 
 ![add books to kindle document](http://www.epubor.com/images/uppic/add-books-to-kindle-document.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 **4.** Click "Sync" at the bottom right corner and your books will snyc to your iPad kindle app automatically. 
 
 ##### **Method Two:** Transfer with kindle app
