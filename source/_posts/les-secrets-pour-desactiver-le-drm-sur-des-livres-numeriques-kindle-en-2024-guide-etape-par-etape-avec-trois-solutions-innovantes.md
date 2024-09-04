@@ -1,7 +1,7 @@
 ---
 title: "Les Secrets Pour Désactiver Le DRM Sur Des Livres Numériques Kindle en 2024 : Guide Étape Par Étape Avec Trois Solutions Innovantes"
-date: 2024-08-25T20:14:46.856Z
-updated: 2024-08-26T20:14:46.856Z
+date: 2024-09-03T22:33:37.336Z
+updated: 2024-09-04T22:33:37.336Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc16390627944ff76ebd8df97376a974.jpg
@@ -33,10 +33,6 @@ Mais comment faire? Vous vous êtes peut-être demandé ce problème pendant lon
 
 Pour commencer, je vous recommande fortement de préparer vos livres Kindle sur votre ordinateur. Si vous avez le périphérique e-ink Kindle, vous pouvez simplement télécharger des livres Kindle via votre appareil Kindle. Si vous n'avez pas d'appareil Kindle, vous devez installer Kindle pour PC ou Mac. Ouvrez l’application Kindle, connectez-vous avec votre propre compte amazon, puis tous les fichiers que vous avez achetés dans kindle store seront synchronisés. Choisissez les fichiers que vous souhaitez obtenir, double-cliquez sur la couverture du livre, puis le téléchargement commence. Ensuite, vous pouvez fermer l’application, trouver les fichiers de livres téléchargés dans le dossier de destination: [Où sont enregistrés les ebooks du Kindle](https://tools.techidaily.com/epubor/products/). 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Méthode 1: supprimez DRM des livres Kindle avec Calibre Plugin
 
 Calibre est un excellent outil de gestion de bibliothèque de livres électroniques, un logiciel à code source ouvert, qui vous permet de supprimer le DRM de livre et de convertir le format.
@@ -57,6 +53,12 @@ Sélectionnez le fichier "DeDRM\_plugin.zip". Plus d'informations s'il vous pla�
 
 ![](https://epubor.com/images/uppic/des-drm-avec-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Étape 3: Importer des livres DRMed dans Calibre
 
 Si vos kindle books sont téléchargés via l'application de bureau Kindle, importez vos livres Kindle téléchargés dans Calibre, le DRM sera automatiquement supprimé. Mais si vous avez déjà ajouté des livres de calibre limités par DRM, vous feriez mieux de les importer à nouveau. Travail fait, vous pouvez cliquer sur "cliquez pour ouvrir" sur le côté droit pour obtenir un aperçu de la bibliothèque de calibre.
@@ -66,7 +68,10 @@ Si vos kindle books sont téléchargés via Kindle eReaders, vous devez personna
 ![des drm avec calibre](https://epubor.com/images/uppic/kindle-dedrm-ksn.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Nouvelles informations:** 
 
@@ -76,9 +81,6 @@ Vous pouvez rencontrer une erreur lorsque vous essayez de télécharger le calib
 
 Les plugins Calibre DeDRM ne fonctionneront plus avec les livres Kindle KFX si l'application Kindle pour PC a été mise à jour vers la version 2.4.1 (70946). Réinstallez la version 2.4.70904, qui fonctionne comme avant, ou vous pouvez également essayer d'utiliser Epubor Ultimate comme meilleure alternative. 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Méthode 2: supprimez DRM des livres Kindle avec Shareware
 
 Cette méthode est appliquée aux débutants et aux experts. Et je vous recommande vivement de l’obtenir avec un essai gratuit. Je crois qu'après avoir essayé, vous tomberez amoureux de ce programme.
@@ -104,13 +106,18 @@ Téléchargez à nouveau les livres Kindle pour supprimer les DRM.
 ![Epubor Ultimate la revue](https://www.epubor.com/images/uppic/ultimate-review-trustpilot.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Conseils:** Une fois l’ancienne version installée, vous devez accéder à “Outils”, puis désactiver la mise à jour automatique.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Méthode 3: Téléchargez des livres Kindle via le simulateur Android sur Windows/Mac (prend en charge les livres Kindle publiés en 2023)
 
@@ -123,8 +130,10 @@ Pour utiliser cette méthode, vous aurez besoin du logiciel Epubor nouvellement 
 ![convertir des livres kindle android sur mac](http://www.epubor.com/images/uppic/epubor-kindleconverter-2023.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 
@@ -135,6 +144,18 @@ Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!

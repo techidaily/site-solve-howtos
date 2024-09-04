@@ -1,7 +1,7 @@
 ---
 title: How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide
-date: 2024-08-25T20:15:29.174Z
-updated: 2024-08-26T20:15:29.174Z
+date: 2024-09-03T22:33:38.050Z
+updated: 2024-09-04T22:33:38.050Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de84f78ea466db32363417497.jpg
@@ -40,7 +40,10 @@ Ma come si fa? Scommetto che cerchi una soluzione da molto tempo. Non ti preoccu
 La primissima cosa da fare è quella di scaricare i libri Kindle sul computer. Se hai un lettore Kindle ti basterà collegare il lettore al pc e scaricare i libri. Se non hai il lettore Kindle, installa il programma Kindle per PC o Mac. Lancia l’app Kindle, fai il login con il tuo account Amazon e attendi che l’app sincronizza tutti i libri che hai comprato. Ti basterà fare doppio clic su ogni libro per scaricarlo. Una volta che tutti i libri sono stati scaricati nell’app Kindle, puoi chiuderla e troverai i files dei libri nelle seguenti cartelle: [Dove sono memorizzati i libri Kindle su PC / MAC / Android.](https://tools.techidaily.com/epubor/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Metodo 1: Rimuovere DRM dagli ebooks Kindle con un plugin di Calibre
 
@@ -59,7 +62,16 @@ Dopo aver avuto successo, il plug-in è stato installato. Calibre aggiungerà qu
 ![plugin Tipo di file](https://epubor.com/images/uppic/plugin-tipo-di-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<span id="1265663">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### Passo 2: Importa gli ebooks protetti su Calibre.
 
@@ -75,9 +87,6 @@ Per convertire i libri Kindle, è necessario aggiungere a Calibre non solo il pl
 
 I plugin Calibre DeDRM non funzioneranno più con i libri Kindle KFX se l'app Kindle per PC viene aggiornata alla versione 2.4.1 (70946). Reinstalla 2.4.70904, che funziona come prima, oppure puoi anche provare a usare Epubor Ultimate come alternativa migliore. 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Metodo 2: Rimuovi il DRM da un libro Kindle con Shareware
 
 Questo metodo può essere usato da tutti, sia novizi che esperti. E’ il metodo che io raccomando; iniziare con un programma di prova e credo che te ne innamorerai.
@@ -92,6 +101,12 @@ Passo 2 Avvia Epubor Ultimate sul tuo computer. Una volta aperto, vedrai tutti i
 
 ![kindle drm 2019](https://epubor.com/images/uppic/kindle-drm-2019.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Nota: Epubor Ultimate per Mac non funziona per tutti i libri Kindle scaricati tramite l'app Kindle per Mac perché alcuni di essi saranno in formato .kcr, non .azw. Nella maggior parte dei casi, questi libri sono manga o fumetti kindle. 
 
 Per [convertire i fumetti kindle in pdf/epub su Mac](https://tools.techidaily.com/epubor/products/), è meglio utilizzare Epubor Kindle Converter. 
@@ -105,7 +120,16 @@ Passo 3 Aggiungi gli ebooks kindle dalla colonna di sinistra alla finestra princ
 ![epubor kcr rimozione del drm](https://epubor.com/images/uppic/rimozione-del-drm-epubor-kcr.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Rimuovi Kindle DRM dai recenti libri Kindle pubblicati nel 2023 
 
@@ -116,7 +140,10 @@ Per utilizzare questo metodo, avrai bisogno del software Epubor appena rilasciat
 ![convertire i libri kindle con successo Android su mac](http://www.epubor.com/images/uppic/convert-kindle-successfully-2023-android-mac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Per utilizzare questo metodo, attenersi alla seguente procedura: 
 
@@ -127,9 +154,6 @@ Per utilizzare questo metodo, attenersi alla seguente procedura:
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
 SHARING IS GREAT!
