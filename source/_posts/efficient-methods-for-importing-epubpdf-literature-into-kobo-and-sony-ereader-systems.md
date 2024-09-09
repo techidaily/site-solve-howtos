@@ -1,14 +1,26 @@
 ---
 title: Efficient Methods for Importing EPUB/PDF Literature Into Kobo and Sony eReader Systems
-date: 2024-09-03T22:33:37.312Z
-updated: 2024-09-04T22:33:37.312Z
+date: 2024-09-08T23:28:05.019Z
+updated: 2024-09-09T23:28:05.019Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d686083b4e65611b76c354c55e2c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Efficient Methods for Importing EPUB/PDF Literature Into Kobo and Sony eReader Systems
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add EPUB and PDF Books to Kobo and Sony eReaders
 
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/23/2018 4:21:06 PM.
@@ -45,22 +57,28 @@ If it is an ACSM file, double-click the file and the full EPUB book will be down
 
 ![Add EPUB books to Kobo eReader with Adobe Digital Editions](https://www.epubor.com/images/uppic/kobot_kobo_transfer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Eject your Kobo eReader and wait until the finish of sync. Head to "My Books" category on Kobo to enjoy your newly transferred books. 
 
 This method enables users to add both DRM-free books from torrent sites and purchased DRM-protected books from Sony, Google Play and other stores to Kobo Touch, Kobo Mini, Kobo Glo and other kobo eReaders. For DRM-free books, you can also [connect the Kobo eReader to computer using USB and drag & drop to transfer books](http://www.slideshare.net/AdaWyy/add-books-to-kobo-glo-kobo-touch). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to add books to Sony eReader
 
 Books can be transferred to Sony eReader via USB or Sony Reader software. When transferring books with the drag & drop method (via USB), the added EPUB and PDF files might not be displayed. So Sony officially recommends users to transfer books to Sony with Reader Software.
 
 **![Add books to Sony eReader with Sony Reader Library](https://www.epubor.com/images/uppic/kobot_sony_transfer.png)Step 1:** Connect the Sony eReader to computer with the supplied USB cable and the eReader will be in "Data Transfer Mode". Two drives ("SETTING" and "READER") will show on the computer afterwards. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step2:** Go to "SETTING" drive, double-click “Setup Reader for PC” to install eReader software on your PC.
 
 For Mac users, double-click "SETTING" drive on desktop, then double-click “Setup Reader for Mac” to install. 
@@ -69,6 +87,18 @@ For Mac users, double-click "SETTING" drive on desktop, then double-click “Set
 
 Eject your Sony eReader, you will find the added books on the device after syncing.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Video guide about how to add EPUB and PDF books to Sony eReader. 
 
   
@@ -77,12 +107,6 @@ Eject your Sony eReader, you will find the added books on the device after synci
 **Method2:** Add books to Sony eReader with supplied USB cable.  
 
   
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### More about adding books to Kobo and Sony eReaders
 
   
@@ -91,10 +115,10 @@ Eject your Sony eReader, you will find the added books on the device after synci
 ![Add Kobo books to Sony - Kobo icon](https://www.epubor.com/images/uppic/Kobot_kobo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sony and Kobo eReaders support the same eBook formats (EPUB and PDF) and books from both stores are Adobe DRM protected, so people sometimes purchase books from one store and read on another eReader. Part 1 explains how to transfer both DRM-free and DRM-protected eBooks to Kobo, so here is how to add books from other stores to Sony eReader. I take Kobo books for example.
 
@@ -113,16 +137,10 @@ Sony and Kobo eReaders support the same eBook formats (EPUB and PDF) and books f
 ![Add Kindle books to Kobo/Sony - Kindle icon](https://www.epubor.com/images/uppic/kobot_kindle.jpg)   
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Many people like to purchase eBooks from Amazon Kindle eBook store due to its more diversified titles at cheaper prices, although Kindle books come in exclusive Kindle formats and are protected with another DRM scheme. To add Kindle books to Kobo or Sony eReaders, we have to first strip Kindle DRM protection from the books, then convert Kindle formats to Kobo and Sony supported EPUB or PDF. 
 
@@ -138,12 +156,6 @@ Here is[how to read Kindle books on Kobo Vox](https://tools.techidaily.com/epubo
 
 ![Add books to Kobo iPad/iPhone/Android app - Kobo icon](https://www.epubor.com/images/uppic/kobot_ipad.png)Purchased Kobo books will be synced on Kobo for Android app or Kobo for iOS app automatically. For side loaded books, however, you don't have to transfer them to Kobo for Android/iOS app (I personally don't think them awesome) since there have been many good 3rd-party reader apps on Android and iOS. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are [how to read eBooks on Android (with Aldiko)](http://ebookconverter.blogspot.com/2012/07/aldiko-book-reader-free-android-ebook.html) and [how to transfer books to iPad](https://tools.techidaily.com/epubor/products/). 
 
   
@@ -156,18 +168,6 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

@@ -1,27 +1,57 @@
 ---
 title: "Guide Complet: Comment Accéder Et Lire Des Livres Google en Mode Ebook Sur Amazon Fire"
-date: 2024-09-03T22:33:38.029Z
-updated: 2024-09-04T22:33:38.029Z
+date: 2024-09-08T23:28:05.673Z
+updated: 2024-09-09T23:28:05.673Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f904615df4dae698bbf74beb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Guide Complet: Comment Accéder Et Lire Des Livres Google en Mode Ebook Sur Amazon Fire
 
 [Accueil](http://www.epubor.com/fr/) \> [Guide](https://tools.techidaily.com/epubor/products/) \> [Comment Lire Google eBooks sur Kindle Fire](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comment Lire Google eBooks sur Kindle Fire
 
 ![](https://www.epubor.com/images/remote/D4/1D/D41D8C_s31-250x250.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google a ouvert son magasin des eBooks au Royaume-Uni, le magasin comprend eBooks viennent de Hachette Maison, Random et Penguin, ainsi que plus de deux millions eBooks de domaine public. Il est prévu d'ouvrir son eBookStore dans plus de pays, dont le Canada et l'Australie dans les prochains mois. Google eBooks ne peuvent pas être lus sur l'appareil populaire Amazon Kindl, parce que le Kindle ne reconnaît pas le format ePub adoptée par Google. Google annonce leur livres utilisent le **DRM d'Adobe Adepte**. Si vous voulez lire des Google eBooks sur le Kindle Fire, vous devriez [supprimer les DRM](https://tools.techidaily.com/epubor/products/)premièrement, puis convertir le ePub.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Comment lire Google eBooks sur Kindle Fire
 
 **Etape 1:** Exécutez le logiciel [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)pour supprimer les DRM des Google eBooks. Cliquez "Browse" pour choisir votre Google eBooks / Entrée Dossier. Vous le trouverez dans "Mes Documents \\ My Digital Editions".  
 ![ADE ePUB&PDF DRM Removal](https://www.epubor.com/images/adobedrmremoval.jpg "epub&pdf drm removal")
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Etape 2**: Après que vous sélectionnez les fichiers, cliquez "unDRM directory", vous pouvez obtenir les fichiers sans DRM.
 
 **Etape 3**: **Convertir ePub fichier à Mobi.**
@@ -38,10 +68,16 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
 * [Supprimer DRM iBooks](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Appareils de lecture supportés par Google eBookStore:
 
@@ -55,12 +91,6 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
 
 ![PDF/><a href=](https://www.epubor.com/images/remote/D4/1D/D41D8C_5F5pdf_icon.gif)[comment-lire-google-ebooks-sur-kindle-fire.pdf](https://www.epubor.com/images/uppic/comment-lire-google-ebooks-sur-kindle-fire.pdf)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
 Copyright © 2011-2021 www.epubor.com. Tous droits réservés. 
 
