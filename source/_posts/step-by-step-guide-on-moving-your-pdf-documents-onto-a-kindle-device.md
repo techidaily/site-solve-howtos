@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Moving Your PDF Documents Onto a Kindle Device
-date: 2024-09-08T23:28:05.840Z
-updated: 2024-09-09T23:28:05.840Z
+date: 2024-09-12T19:21:10.307Z
+updated: 2024-09-14T23:18:33.654Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e72814dc3723834abc073685ea0d.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 7/25/2019 2:17:41 PM.
 
 5 [(1 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -37,12 +35,6 @@ Before teaching you how to transfer PDF to Kindle, I do really want to stress so
 
 To begin with, I want to say something about PDF's good points. Just because of those features we desire to read a pdf with a Kindle, yes? What's more, as a matter of fact, at the same time these features also will bring us some ![pdf portable](http://www.epubor.com/images/uppic/pdf-portable.png)"inconvenience" after we finished the transferring. It means that, for some PDFs, the result of transferring is not as good as what we supposed. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 PDF is portable, keeps the original layout. So we can't resize or edit them, on any reader apps or eReaders.
 
 It's widely used on business and education books. So most of them are not "freely" to open.
@@ -71,12 +63,6 @@ Password protected PDF documents can't be opened on Kindle devices, too. As what
 
 ![password protected pdf on kindle](http://www.epubor.com/images/uppic/password-protected-pdf-on-kindle.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 So, how to solve these problems? We spend time transferring pdf to kindle because we want to read them with a portable ereader, but if finally we can't open them on our Kindle, it's a waste of time!
 
 Here I will recommend you open PDF on computer with Kindle app before transferring. This is a good resolution to check whether your PDFs are readable or not on Kindle, Kindle Fire.
@@ -85,12 +71,6 @@ Transfer PDF to kindle app on a computer is easy, but here my suggestion is, **c
 
 ![copy pdf to my kindle content](http://www.epubor.com/images/uppic/copy-pdf-to-kindle-computer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then get Kindle app started, click on "Sync" icon, you will see those new added PDF files soon in your kindle library.![check pdf readable or not on computer with kindle app](http://www.epubor.com/images/uppic/check-pdf-readalbe-or-not.png)
 
 Click on the cover to check whether you can open them or not. This will save your time much more than check them later on Kindle. You know, if finished the transferring onto Kindle devices and found they are unable to be opened, you need to delete them and transfer again.
@@ -117,12 +97,6 @@ Find an useful USB, then using it to connect your Kindle to computer. Soon you w
 
 ![connect kindle via usb](http://www.epubor.com/images/uppic/connect-kindle-via-usb.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 3: Copy PDF to "Documents".
 
 Click on "Kindle" to open the folder, then you will see some files and a folder named "Documents". This is the place where your books will be stored.
@@ -133,12 +107,6 @@ Copy your PDF, no matter eBooks or personal documents, from computer to this Kin
 
 Disconnect your Kindle from computer by clicking on the "Safety remove hardware" icon and select "Eject Amazon Kindle". 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Enjoy your PDFs on Kindle
 
 Now you can unplug your kindle from your computer.
@@ -148,25 +116,21 @@ On your Kindle, the newly added PDF files will appear under the "Docs" list (not
 ![pdf in docs](http://www.epubor.com/images/uppic/pdf-in-docs.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Q: I can see the pdf file on Kindle, but it doesn't open.
 
 A: Mostly is because of the DRM or password problem, go back to the [ABCs part](https://tools.techidaily.com/epubor/products/) please.
@@ -183,18 +147,6 @@ A: This is a problem we couldn't avoid and couldn't resolve, because this depend
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -202,8 +154,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/transfer/) 
-
-
 
 1 Comments
 
@@ -241,8 +191,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,45 +200,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-game-recording-steam-edition-techniques/"><u>[New] In 2024, Mastering Game Recording  Steam Edition Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2023-guide-selecting-no-charge-fb-video-and-photo-artists-for-2024/"><u>[Updated] 2023 Guide  Selecting No-Charge FB Video & Photo Artists for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle/"><u>[Updated] Chuckle & Cry  The Top Instagram Memes that Make You Giggle</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom-for-2024/"><u>[Updated] Podcaster's Playground  Unleashing Full Potential in Video and Audio Recording on Zoom for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-do-youtubers-get-paid-monthly/"><u>2024 Approved  Do YouTubers Get Paid Monthly?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-dark-and-light-iphone-silhouette-tips/"><u>2024 Approved  Master the Dark & Light  IPhone Silhouette Tips</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comprehensive-guide-understanding-the-meaning-and-significance-of-requiem-qanda/"><u>Comprehensive Guide: Understanding the Meaning and Significance of Requiem - Q&A</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/da-vinci-3-crafting-new-visual-wonders-30-exploratory-prompts/"><u>Da Vinci 3: Crafting New Visual Wonders – 30 Exploratory Prompts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/download-and-enjoy-free-audiobooks-anytime-anywhere-best-apps-for-android-devices/"><u>Download & Enjoy Free Audiobooks Anytime, Anywhere: Best Apps for Android Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/efficient-methods-for-converting-and-sending-e-books-directly-to-your-amazon-kindle-reader/"><u>Efficient Methods for Converting and Sending E-Books Directly to Your Amazon Kindle Reader</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-for-the-best-playstation-and-nintendo-handhelds-this-year/"><u>Expert Picks for the Best PlayStation and Nintendo Handhelds This Year</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/exploring-unknown-drm-understanding-digital-rights-management-secrets/"><u>Exploring Unknown DRM: Understanding Digital Rights Management Secrets</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/find-and-order-classic-literature-through-the-google-books-library-collection/"><u>Find and Order Classic Literature Through the Google Books Library Collection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-ideal-apple-watch-at-a-bargain-price-today/"><u>Get Your Ideal Apple Watch at a Bargain Price Today</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-paso-a-paso-para-deshabilitar-la-proteccion-drm-en-sus-libros-electronicos-de-kindle-azw/"><u>Guía Paso a Paso Para Deshabilitar La Protección DRM en Sus Libros Electrónicos De Kindle (.AZW)</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guide-complet-comment-acceder-et-lire-des-livres-google-en-mode-ebook-sur-amazon-fire/"><u>Guide Complet: Comment Accéder Et Lire Des Livres Google en Mode Ebook Sur Amazon Fire</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-pro-4gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 Pro 4Gwith/without a PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-eliminate-lag-and-improve-performance-in-v-on-your-computer/"><u>How to Eliminate Lag and Improve Performance in V on Your Computer</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-free-ebooks-from-drm-on-your-kindle-device-step-by-step-guide/"><u>How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-2-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 2 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-creating-engaging-content-through-discord-streams/"><u>In 2024, Creating Engaging Content Through Discord Streams</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>In 2024, Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-the-new-kid-on-the-block-googles-gemini-ai-better-than-chatgpt/"><u>Is the New Kid on the Block, Google's Gemini AI, Better Than ChatGPT?</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/latest-version-of-no-cost-calibre-extension-for-amazon-kindle-drm-removal-effortless-library-unlocking/"><u>Latest Version of No-Cost Calibre Extension for Amazon Kindle DRM Removal – Effortless Library Unlocking!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-the-art-of-nokia-nook-restoration-a-comprehensive-walkthrough-for-total-refreshment/"><u>Mastering the Art of NOKIA NOOK Restoration: A Comprehensive Walkthrough for Total Refreshment</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-the-art-of-streaming-audiobooks-your-ultimate-guide-to-using-audible-with-a-kindle/"><u>Mastering the Art of Streaming Audiobooks: Your Ultimate Guide to Using Audible with a Kindle</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-ace-3-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Ace 3 Phone? Unlock It Now</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/protecting-your-digital-reads-the-ultimate-tutorial-on-backing-up-ebooks-from-kobo/"><u>Protecting Your Digital Reads: The Ultimate Tutorial on Backing Up eBooks From Kobo</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/revolutionize-your-book-collection-with-amazons-best-selling-kindle-devices/"><u>Revolutionize Your Book Collection with Amazon's Best Selling Kindle Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/the-ultimate-tutorial-on-converting-and-printing-kindle-book-content/"><u>The Ultimate Tutorial on Converting and Printing Kindle Book Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-free-driver-update-software-of-july-2024/"><u>Top 8 Free Driver Update Software of July 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transforming-aax-book-recordings-into-high-quality-mp3-files/"><u>Transforming AAX Book Recordings Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transitioning-ebooks-how-to-change-epub-files-into-a-kindle-compatible-format/"><u>Transitioning eBooks: How to Change EPUB Files Into a Kindle-Compatible Format</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-downloading-manga-digitally-onto-your-kobo-device/"><u>Ultimate Guide: Downloading Manga Digitally Onto Your Kobo Device</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/understanding-file-management-and-organization-techniques/"><u>Understanding File Management & Organization Techniques</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/unlocking-your-kindle-library-how-to-bypass-drm-on-azw3-books-for-the-newest-edition-year-2024/"><u>Unlocking Your Kindle Library: How to Bypass DRM on AZW3 Books for the Newest Edition (Year 2024)</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/unlocking-your-pdfs-step-by-step-guide-to-bypassing-adobes-drm-protection/"><u>Unlocking Your PDFs: Step-by-Step Guide to Bypassing Adobe's DRM Protection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-igtv-video-submission-made-simple/"><u>[New] 2024 Approved IGTV Video Submission Made Simple</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhancing-visual-storytelling-with-picture-in-picture-techniques-on-mac/"><u>[Updated] 2024 Approved Enhancing Visual Storytelling with Picture In Picture Techniques on Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-your-sounds-on-pc-with-x-recorder/"><u>[Updated] In 2024, Capture Your Sounds on PC with X-Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-smooth-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>[Updated] Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-funimate-joy-comprehensive-tutorials/"><u>2024 Approved Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-review-for-hero4-black-for-2024/"><u>Complete Review for Hero4 Black for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effizientes-drm-loschprogramm-fur-ebooks-auf-amazon-kindle-in-azw-format/"><u>Effizientes DRM-Löschprogramm Für eBooks Auf Amazon Kindle in AZW-Format</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-guide-transforming-your-epub-books-into-editable-word-files/"><u>Free Guide: Transforming Your ePub Books Into Editable Word Files</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-magnifying-and-enlarging-documents-in-kindle-for-easy-pdf-viewing/"><u>Guide: Magnifying & Enlarging Documents in Kindle for Easy PDF Viewing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-effortlessly-move-your-digital-library-across-kindle-devices/"><u>How to Effortlessly Move Your Digital Library Across Kindle Devices</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-transform-your-acsm-file-into-an-epub-book-comprehensive-steps-and-tips/"><u>How to Transform Your ACSM File Into an EPUB Book: Comprehensive Steps and Tips</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ipad-ebooks-enjoying-read-mobile-app/"><u>IPad eBooks: Enjoying Read Mobile App</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-ebook-formats-an-in-depth-look-at-amazons-azw3-for-kindle-users/"><u>Mastering eBook Formats: An In-Depth Look at Amazon's AZW3 for Kindle Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/precision-and-professionalism-a-vr-recording-handbook/"><u>Precision and Professionalism A VR Recording Handbook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
