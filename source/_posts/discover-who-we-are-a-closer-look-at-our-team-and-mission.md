@@ -1,7 +1,7 @@
 ---
 title: "Discover Who We Are: A Closer Look at Our Team and Mission"
-date: 2024-09-11T23:15:34.826Z
-updated: 2024-09-14T16:52:49.332Z
+date: 2024-09-18T00:51:25.128Z
+updated: 2024-09-18T17:43:17.661Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9fcfecf39700de5889b22829e.jpg
@@ -107,25 +107,27 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-flip-the-script-accelerating-tiktok-video-creation/"><u>[New] 2024 Approved Flip-the-Script Accelerating TikTok Video Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-mobile-friendly-youtubing-with-no-high-subscriber-count/"><u>[New] Mobile-Friendly YouTubing with No High Subscriber Count</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/can-you-transfer-your-kindle-unlimited-library-using-epubor-ultimate/"><u>Can You Transfer Your Kindle Unlimited Library Using Epubor Ultimate?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/easy-conversion-techniques-from-html-to-epub-readers-for-ipad-android-and-more/"><u>Easy Conversion Techniques: From HTML to EPUB Readers for iPad, Android, and More</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/expert-advice-on-bypassing-the-barrier-liberate-your-ebooks-from-nooks-drm-today/"><u>Expert Advice on Bypassing the Barrier: Liberate Your Ebooks From Nook's DRM Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-repairing-and-reviving-your-broken-bose-speaker-unit/"><u>Expert Advice: Repairing and Reviving Your Broken Bose Speaker Unit</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-way-to-transform-your-pdfs-into-jpeg-images-on-a-mac/"><u>Free Way to Transform Your PDFs Into JPEG Images on a Mac</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-view-your-amazon-kindle-library-in-slide-show-format/"><u>How to View Your Amazon Kindle Library in Slide Show Format</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mix-memes-with-a-smile/"><u>In 2024, Mix Memes with a Smile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-pro-mic-tech-review-best-9-online-recorders-uncovered/"><u>In 2024, Pro Mic Tech Review Best 9 Online Recorders Uncovered</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/latest-version-of-no-cost-calibre-extension-for-amazon-kindle-drm-removal-effortless-library-unlocking/"><u>Latest Version of No-Cost Calibre Extension for Amazon Kindle DRM Removal – Effortless Library Unlocking!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-permission-based-saves-windows-edition/"><u>Navigating Through Permission-Based Saves: Windows Edition</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-evasive-action-to-escape-the-shadowban-snare/"><u>[New] 2024 Approved Evasive Action to Escape the Shadowban Snare</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-silence-to-sounds-recording-with-audacity-on-a-mac-for-2024/"><u>[Updated] From Silence to Sounds Recording with Audacity on a Mac for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/wma-mp4-movavi-web/"><u>無償で簡単にWMA からMP4へ直接変換する - Movavi Webサービス</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convert-your-au-files-to-ogg-with-movavis-no-cost-tool/"><u>Convert Your AU Files to Ogg with Movavi's No-Cost Tool</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/det-bedste-gratis-software-for-videorekordering-pa-windows-now-7-klar-til-opnaen-i-2024/"><u>Det Bedste Gratis Software for Videorekordering På Windows 지now 7 - Klar Til Opnåen I 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/formato-wav-gratuito-desde-ape-mediante-el-conversor-en-linea-de-movavi/"><u>Formato WAV Gratuito Desde APE Mediante El Conversor en Línea De Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratis-y-sin-derechos-de-autor-descarga-videos-en-alta-definicion-storyblocks/"><u>Gratis Y Sin Derechos De Autor, Descarga Videos en Alta Definición - Storyblocks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-xr-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone XR in the Best Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-se-2022-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone SE (2022) using icloud website</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-storing-your-stories-and-snaps-safely-on-ios-devices/"><u>In 2024, Storing Your Stories and Snaps Safely on iOS Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/instant-online-conversion-of-webm-files-to-mp4-format-at-no-cost-begin-here/"><u>Instant Online Conversion of WebM Files to MP4 Format at No Cost - Begin Here!</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-find-n3-flip-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Find N3 Flip working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/secure-video-editing-software-discover-sikkers-top-of-the-line-services/"><u>Secure Video Editing Software: Discover Sikker's Top-of-the-Line Services</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-20-gratis-inspirationstools-for-video-arkitektur-2024-komplett-utbud/"><u>Top 20 Gratis Inspirationstools För Video Arkitektur 2024 - Komplett Utbud</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-innovations-in-podcast-titling-with-ai-assistants/"><u>Top Innovations in Podcast Titling with AI Assistants</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

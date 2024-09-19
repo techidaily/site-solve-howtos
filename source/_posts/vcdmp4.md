@@ -1,7 +1,7 @@
 ---
 title: 無限量優化 - 移動VCD到MP4格式的靈活方法
-date: 2024-09-08T22:48:43.784Z
-updated: 2024-09-14T17:28:13.340Z
+date: 2024-09-17T23:30:15.490Z
+updated: 2024-09-18T20:34:03.998Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
@@ -176,13 +176,6 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -228,6 +221,19 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -294,6 +300,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -333,13 +346,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -351,6 +357,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -376,6 +389,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -386,13 +406,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -416,6 +429,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -427,19 +447,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -453,13 +460,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -586,18 +586,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-stepwise-integration-technique-for-youtube-playlists-on-web/"><u>[New] Stepwise Integration Technique for YouTube Playlists on Web</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-radeon-relive-download/"><u>2024 Approved Radeon Relive Download</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/accessing-google-play-books-on-your-ipad-a-comprehensive-guide/"><u>Accessing Google Play Books on Your iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/best-methods-for-extracting-drm-from-topaz-books-a-guide-to-freeing-your-content/"><u>Best Methods for Extracting DRM From Topaz Books: A Guide to Freeing Your Content</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/can-you-transfer-your-kindle-unlimited-library-using-epubor-ultimate/"><u>Can You Transfer Your Kindle Unlimited Library Using Epubor Ultimate?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digiarty-software-macxdvd-dvd/"><u>Digiarty Software MacXDVD 発表記事 - DVDオペレーティングシステムソフトウェア</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dragon-ball-mastery-watching-the-series-in-correct-order-explained/"><u>Dragon Ball Mastery: Watching the Series in Correct Order Explained</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/easy-conversion-techniques-from-html-to-epub-readers-for-ipad-android-and-more/"><u>Easy Conversion Techniques: From HTML to EPUB Readers for iPad, Android, and More</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/expert-advice-on-bypassing-the-barrier-liberate-your-ebooks-from-nooks-drm-today/"><u>Expert Advice on Bypassing the Barrier: Liberate Your Ebooks From Nook's DRM Today!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/free-to-use-tools-for-transcribing-digital-conferences/"><u>Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-tiktok-how-to-set-and-modify-your-profile-age-for-2024/"><u>Mastering TikTok How to Set & Modify Your Profile Age for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>Paving the Way to a More Engaging Profile Adding Linktree on TikTok</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-concerns-with-iphone-14s-power-management-what-you-should-know/"><u>Top Concerns with iPhone 14'S Power Management: What You Should Know</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>[New] 2024 Approved Free Yourself From Fringe A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-downloadsave-instagram-photosvideos-on-iphone/"><u>[Updated] In 2024, How to Download/Save Instagram Photos/Videos on iPhone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movaviflacm4a/"><u>「Movaviで使いやすいフリーウェブサイトのFLAC形式からM4Aへの容易な変換ガイド」</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-minecraft-sustainable-house-projects-6-10/"><u>2024 Approved Minecraft Sustainable House Projects #6-10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>2024 Approved The Art of Blending Audio with Video in Premiere Pro</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aiff-file-transformation-at-no-cost-discover-movavis-services/"><u>Aiff File Transformation at No Cost - Discover Movavi's Services</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aprenda-as-etapas-para-transformar-seus-videos-do-youtube-em-arquivos-mp3-com-facilidade-e-precisao/"><u>Aprenda as Etapas Para Transformar Seus Vídeos Do Youtube Em Arquivos Mp3 Com Facilidade E Precisão.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-usb-bluetooth-driver-compatible-with-windows-1078/"><u>Download TechKey USB Bluetooth Driver Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effortless-transformation-of-mka-videos-to-avi-format-with-movavis-no-cost-tool/"><u>Effortless Transformation of MKA Videos to AVI Format with Movavi's No-Cost Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/entfernung-von-schutzmassnahmen-bei-disney-dvds-professionelle-anleitung-zum-sauberen/"><u>Entfernung Von Schutzmaßnahmen Bei Disney DVDs - Professionelle Anleitung Zum Sauberen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-acer-chromebook-with-a-massive-screen/"><u>In-Depth Analysis: The Acer Chromebook with a Massive Screen</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/master-quick-video-edits-on-iphone-in-just-six-easy-steps-using-movavi-clips/"><u>Master Quick Video Edits on iPhone in Just Six Easy Steps Using Movavi Clips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rendering-failure-card-not-found/"><u>Rendering Failure: Card Not Found</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-superior-bass-quality-in-windows-10-latest-techniques/"><u>Step-by-Step Strategies for Superior Bass Quality in Windows 10 – Latest Techniques</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/tiktok-pc-3-movavi/"><u>TikTok 비디오를 PC로 온보트: 3가지 간결한 탐구 - Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transform-your-videos-effortlessly-m4v-into-mkv-for-free-with-movavis-online-tool/"><u>Transform Your Videos Effortlessly: M4V Into MKV for Free with Movavi's Online Tool!</u></a></li>
 </ul></div>
 
