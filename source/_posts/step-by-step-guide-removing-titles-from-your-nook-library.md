@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Titles From Your Nook Library"
-date: 2024-09-15T17:08:53.391Z
-updated: 2024-09-18T19:08:52.778Z
+date: 2024-09-20T17:20:37.390Z
+updated: 2024-09-23T17:11:09.799Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8faac5e2796b198a9b431fdb.jpg
@@ -31,6 +31,13 @@ If your device is the first Nook edition, you should do this online website. But
 
 ![delete nook books to archive](http://www.epubor.com/images/uppic/delete-books-from-nook-to-archive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1Find "My Nook Library".
 
 You should firstly log into your Barnes&Noble account. Then click "My account" in the top right menu. Find "My Nook Library" and select that.
@@ -40,6 +47,13 @@ You should firstly log into your Barnes&Noble account. Then click "My account" i
 In the library you will see all your books are listed clearly. Press and hold on the book cover, a menu that offers several options will pop up. Tap **"Archive"**, then these selected books will disappear from the library. But don't worry they remain on a shelf called "Archived".
 
 For this way you just remove your nook content from your device but the e-books remain in your B&N account and can be redownloaded at no charge.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Situation 2: Delete books from Nook completely
 
@@ -51,28 +65,28 @@ Nearly the same as the steps at part 1, find your nook books you want to fullly 
 
 ![delete nook books to confirm](http://www.epubor.com/images/uppic/delete-nook-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Tips:** 
 
 1\. For deleting books from N1E, you'd better delete them from the account area of the web site.
 
 2\. Whatever you do on your device, don't forget to touch "Check for new B&N content" to **sync** your NOOK to your account after deleting some books.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Frequently asked questions about Nook
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Q: **How to delete Nook free samples?**
@@ -182,17 +196,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-roblox-recording-mac-guide-for-2024/"><u>[New] Streamline Your Roblox Recording Mac Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-add-music-to-inshot-on-mobile-devices/"><u>[Updated] Seamlessly Add Music to InShot on Mobile Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>2024 Approved Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-lava-yuva-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Lava Yuva 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/amvflv-movavi/"><u>無條件免費網路過渡Amv為Flv - Movavi 自動化編解碼器</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratuit-verbale-konvertor-gebruik-de-onlineladingsbewijs-van-movavi-om-nv-3gpp-naar-wav-format-te-zetten/"><u>Gratuit Verbale Konvertor: Gebruik De Onlineladingsbewijs Van Movavi Om NV 3GPP Naar Wav-Format Te Zetten</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-magic-5-lite-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Magic 5 Lite Activity | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>In 2024, Secure Your Files at No Cost The Best Free 1TB+ Cloud Storages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-stabilizing-deathloop-performance-on-windows/"><u>Step-by-Step Tutorial for Stabilizing Deathloop Performance on Windows</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-video-editor-pro-simplifier-la-creation-et-ledition-de-videos-en-4k/"><u>Top Video Editor Pro: Simplifier La Création Et L'Édition De Vidéos en 4K</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-broadcast-easily-3-steps-to-post-mp3-on-youtube/"><u>[New] 2024 Approved Broadcast Easily 3 Steps to Post MP3 on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mplify-youtube-performance-rapid-video-rendering-guide/"><u>[New] Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-creating-compelling-thumbnails-that-stand-out/"><u>[Updated] 2024 Approved Creating Compelling Thumbnails that Stand Out</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>2024 Approved Mastering Instagram Increasing/Decreasing Stories' Frame Rate</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-content-extraction-from-pdfs-via-chatgpt-techniques/"><u>Boosting Content Extraction From PDFs via ChatGPT Techniques</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/como-convertir-archivo-mp4-a-fmt-wav-gratuito-online-utilizando-movavi-pasos-faciles-e-iguantes/"><u>Cómo Convertir Archivo MP4 a FMT WAV Gratuito Online Utilizando Movavi: Pasos Faciles E Iguantes</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/dechiffrer-le-mystere-aac-ou-mp3-lequel-domine-la-qualite-sonore-analyse-movavi/"><u>Déchiffrer Le Mystère : AAC Ou MP3, Lequel Domine La Qualité Sonore ? – Analyse Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-6s-plus-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 6s Plus in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-converter-convert-flv-to-aiff-format-with-movavi/"><u>Free Online Converter: Convert FLV to AIFF Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hell-let-loose-pc-stability-issues-resolved-no-more-crashes/"><u>Hell Let Loose PC Stability Issues Resolved: No More Crashes!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movavi-mpg3gp/"><u>Movavi - すぐに始められる無料MPGから3GPへの変換サービス!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-wave-on-iphones-chatgpt-written-for-you/"><u>New Wave on iPhones: ChatGPT' Written for You</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/selectionnez-la-meilleure-carte-de-stockage-pour-votre-gopro-comparatif-et-conseils-dexperts/"><u>Sélectionnez La Meilleure Carte De Stockage Pour Votre GoPro : Comparatif Et Conseils D'Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-6-video-to-mp4-converters-for-dvd-chapters-your-ultimate-guide-by-movavi/"><u>Top 6 Video-to-MP4 Converters for DVD Chapters - Your Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transforma-tus-archivos-m2ts-en-avimp4mkv-con-el-conversor-elegante-de-movavi/"><u>Transforma Tus Archivos M2TS en AVI/MP4/MKV Con El Conversor Elegante De Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/online-raw-png-movavi/"><u>원근을 위해 Online에서 제공되는 무료 RAW PNG 이미지 전환 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide Complet: Comment Accéder Et Lire Des Livres Google en Mode Ebook Sur Amazon Fire"
-date: 2024-09-17T17:04:38.449Z
-updated: 2024-09-18T17:47:57.731Z
+date: 2024-09-22T16:28:55.228Z
+updated: 2024-09-23T17:51:19.764Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f904615df4dae698bbf74beb.jpg
@@ -17,10 +17,24 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 Google a ouvert son magasin des eBooks au Royaume-Uni, le magasin comprend eBooks viennent de Hachette Maison, Random et Penguin, ainsi que plus de deux millions eBooks de domaine public. Il est prévu d'ouvrir son eBookStore dans plus de pays, dont le Canada et l'Australie dans les prochains mois. Google eBooks ne peuvent pas être lus sur l'appareil populaire Amazon Kindl, parce que le Kindle ne reconnaît pas le format ePub adoptée par Google. Google annonce leur livres utilisent le **DRM d'Adobe Adepte**. Si vous voulez lire des Google eBooks sur le Kindle Fire, vous devriez [supprimer les DRM](https://tools.techidaily.com/epubor/products/)premièrement, puis convertir le ePub.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment lire Google eBooks sur Kindle Fire
 
 **Etape 1:** Exécutez le logiciel [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)pour supprimer les DRM des Google eBooks. Cliquez "Browse" pour choisir votre Google eBooks / Entrée Dossier. Vous le trouverez dans "Mes Documents \\ My Digital Editions".  
 ![ADE ePUB&PDF DRM Removal](https://www.epubor.com/images/adobedrmremoval.jpg "epub&pdf drm removal")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Etape 2**: Après que vous sélectionnez les fichiers, cliquez "unDRM directory", vous pouvez obtenir les fichiers sans DRM.
 
@@ -37,6 +51,13 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
 * [Comment Lire eBooks Kindle sur Kobo Vox](https://tools.techidaily.com/epubor/products/)
 * [Supprimer DRM iBooks](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Appareils de lecture supportés par Google eBookStore:
 
 **1.Web navigateurs:** Vous pouvez lire des Google eBooks sur n'importe quel navigateur avec JavaScript activé.
@@ -49,6 +70,14 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
 
 ![PDF/><a href=](https://www.epubor.com/images/remote/D4/1D/D41D8C_5F5pdf_icon.gif)[comment-lire-google-ebooks-sur-kindle-fire.pdf](https://www.epubor.com/images/uppic/comment-lire-google-ebooks-sur-kindle-fire.pdf)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
   
 Copyright © 2011-2021 www.epubor.com. Tous droits réservés. 
 
@@ -69,27 +98,22 @@ Copyright © 2011-2021 www.epubor.com. Tous droits réservés.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>[New] In 2024, The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-approach-to-uncovering-favorite-youtube-remarks/"><u>[Updated] In 2024, Step-by-Step Approach to Uncovering Favorite YouTube Remarks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-from-device-to-inshot-a-guide-to-audio-integration/"><u>2024 Approved From Device to InShot A Guide to Audio Integration</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/3gpswf-movivi/"><u>免費在線3GP變更為SWF影片格式- MoviVi解決方案指南</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/wma-mp4-movavi-web/"><u>無償で簡単にWMA からMP4へ直接変換する - Movavi Webサービス</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-solutions-for-troubleshooting-dell-optiplex-790-drivers-in-widows-os/"><u>Effective Solutions for Troubleshooting Dell OptiPlex 790 Drivers in Widows OS</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/formato-wav-gratuito-desde-ape-mediante-el-conversor-en-linea-de-movavi/"><u>Formato WAV Gratuito Desde APE Mediante El Conversor en Línea De Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratis-y-sin-derechos-de-autor-descarga-videos-en-alta-definicion-storyblocks/"><u>Gratis Y Sin Derechos De Autor, Descarga Videos en Alta Definición - Storyblocks</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratuit-online-transformeren-van-dpx-naar-gif-de-beste-movavi-weg-movavicom/"><u>Gratuit Online Transformeren Van DPX Naar GIF: De Beste Movavi-Weg - movavi.com</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a05-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A05 Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-s23plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy S23+ Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/investing-in-the-future-top-7-metaverse-devices-you-cant-miss-for-2024/"><u>Investing in the Future Top 7 Metaverse Devices You Can't Miss for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mjpeg-mpeg-movevi/"><u>MJPEGに自由に変換: オンラインMPEGファイルリダレーター - 無料Moveviツール</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-14-mais-confiaveis-aplicativos-de-edicao-fotografica-para-smartphones-e-computadores/"><u>Top 14 Mais Confiáveis Aplicativos De Edição Fotográfica Para Smartphones E Computadores</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-channel-connectivity-made-simple-easy-to-use-youtube-buttons/"><u>[New] 2024 Approved Channel Connectivity Made Simple Easy-to-Use YouTube Buttons</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>[New] In 2024, Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-techniques-for-iphone-picture-inversion/"><u>[New] Professional Techniques for iPhone Picture Inversion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unveiling-the-magic-of-end-screens-for-vimeo-content-for-2024/"><u>[New] Unveiling the Magic of End Screens for Vimeo Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-affectionate-alternatives-3ds-games-for-android-users/"><u>[Updated] Affectionate Alternatives 3DS Games for Android Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-tips-for-creating-insta-groups/"><u>2024 Approved Quick & Easy Tips for Creating Insta Groups</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-filmmaking-essentials-plus-invaluable-substitutes/"><u>2024 Approved YouTube's Filmmaking Essentials + Invaluable Substitutes</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convert-mp43gp-files-free-with-movavis-web-based-format-changer/"><u>Convert MP4/3GP Files FREE with Movavi's Web-Based Format Changer</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-mpeg-to-avi-converter-by-movavi-no-cost-fast-and-reliable/"><u>Free Online MPEG to AVI Converter by Movavi - No Cost, Fast and Reliable</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guvenli-web-platformlarla-kaynactirici-movavi-bilgi-teknolojisi-ilerleyisi-ve-yazilim-gozlemleri/"><u>Güvenli Web Platformlarla Kaynaçtırıcı Movavi - Bilgi Teknolojisi İlerleyişi Ve Yazılım Gözlemleri</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-diagnose-and-correct-system-error-eb0a-windows-quickly-and-easily/"><u>How to Diagnose and Correct System Error 'Eb0a' (Windows) Quickly and Easily.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/international-arbitral-awards-must-be-final-and-binding-within-the-terms-agreed-upon-by-the-parties-and-should-not-contravene-the-public-policy-of-the-count173/"><u>International Arbitral Awards Must Be Final and Binding Within the Terms Agreed upon by the Parties and Should Not Contravene the Public Policy of the Country Where Enforcement Is Sought</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movmp4movavi/"><u>MOV到MP4無成本在線轉換解決方法，以Movavi工具為最佳選擇</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movavi-mov-and-wmv/"><u>Movavi: [オンライン] MOV & WMVファイル変換を手軽に、かつ[無料]に楽しめるツール</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/swf-mp3-movavi/"><u>SWF 파일에서 MP3로 바꾸기: 온라인 가용성과 동시에 – Movavi 소개</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/titre-strategies-de-reussite-pour-les-bons-plans-et-coupons-deconomie-avec-movavi/"><u>Titre: « Stratégies De Réussite Pour Les Bons Plans Et Coupons D'économie Avec Movavi »</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/vergelijkende-analyse-van-movavi-vrije-betaalmethoden-wilsbekendheid-en-efficient/"><u>Vergelijkende Analyse Van Movavi-Vrije Betaalmethoden: Wilsbekendheid en Efficiënt</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Seamless Reading Experience: Downloading & Viewing Kindle eBooks on Windows 8 Systems"
-date: 2024-09-13T17:37:14.848Z
-updated: 2024-09-18T17:49:52.280Z
+date: 2024-09-17T16:46:13.440Z
+updated: 2024-09-23T17:04:50.574Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec78e34142ed3c3e52ff3fe5e7.png
@@ -31,6 +31,13 @@ If you can’t find the “store” icon on the Start screen, right-click to sel
 
 ![read Kindle books on Win 8 - Windows 8 Store](https://www.epubor.com/images/uppic/win8_start.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Search for “Kindle” on Windows 8 app store, select Amazon Kindle app and click download.
 
 Make sure there is a Microsoft (Windows) Live account associated with your Win 8 computer, then you can easily download and install free Kindle for Windows 8 app on it (with Internet connection).
@@ -51,6 +58,13 @@ Follow above steps when you want to **read Kindle books on Windows 8 (Pro) PC, S
 
 Besides Kindle books, you can [follow this guide to read **eBooks** on Windows 8 / Surface RT / Pro](https://tools.techidaily.com/epubor/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Read Kindle books on Windows 8 mobile
 
 To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “Marketplace” icon on the phone, search for “Kindle” and follow the instructions to install. The latest version of Kindle for Windows Phone 8 app is 2.0.0.2, which comes with a resizable live tile and additional formatting options.
@@ -58,10 +72,10 @@ To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “M
 ![read Kindle books on Windows Phone 8](https://www.epubor.com/images/uppic/Win8-kindle_for_windows_phone_8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More about Amazon Kindle eBook reading
@@ -82,6 +96,13 @@ Related instructions:
 
 [How to read Kindle books on Android phones / tablets](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Troubleshooting: Can't install kindle app on windows 8
 
 **#1** Provided you have no access to Microsoft app store and can't install Kindle for Windows 8 app, you can also read Kindle books on your Win 8 device by [installing Kindle for PC app from Amazon's official site](https://www.amazon.com/kindle-dbs/fd/kcp). Press "Windows" key on the keyboard (next to "Alt" key) to go back to desktop if necessary.
@@ -89,13 +110,6 @@ Related instructions:
 **#2** [Can't find Kindle content files under kindle device folder on win 8](https://tools.techidaily.com/epubor/products/)
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -268,15 +282,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-capturing-creativity-android-photography-guide/"><u>[New] In 2024, Capturing Creativity Android Photography Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlocking-the-power-of-android-time-lapses-for-2024/"><u>[New] Unlocking the Power of Android Time-Lapses for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-az-capture-in-depth-app-analysis-and-reviews/"><u>[Updated] AZ Capture In-Depth App Analysis & Reviews</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-can-you-change-your-voice-magically-explore-alternative-tools-for-2024/"><u>[Updated] Can You Change Your Voice Magically? Explore Alternative Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-dizzy-with-design-mastering-upside-down-imagery/"><u>[Updated] In 2024, Dizzy with Design Mastering Upside Down Imagery</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1-easyslides-studio-your-ultimate-guide-to-creating-stunning-presentations/"><u>1. EasySlides Studio: Your Ultimate Guide to Creating Stunning Presentations</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/creation-gratuite-dun-fichier-mpeg-a-partir-damv-en-ligne-convertissez-facilement-avec-movavi/"><u>Création Gratuite D'un Fichier MPEG À Partir D'AMV en Ligne - Convertissez Facilement Avec Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/navigating-the-terms-of-service-a-detailed-look-at-movavis-education-focused-software-license-agreement/"><u>Navigating the Terms of Service: A Detailed Look at Movavi's Education-Focused Software License Agreement</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/non-working-speakers-on-pc-here-are-the-fixes-you-need-to-try/"><u>Non-Working Speakers on PC? Here Are the Fixes You Need to Try</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-8-methods-for-streaming-online-soundtracks-via-movavi-on-macos-systems/"><u>Top 8 Methods for Streaming Online Soundtracks via Movavi on macOS Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levated-viewership-status-symbolized-by-buttons/"><u>[New] Elevated Viewership Status Symbolized by Buttons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home/"><u>[New] In 2024, Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-navigating-recording-options-virtual-office-meetings-desktop/"><u>[Updated] In 2024, Navigating Recording Options Virtual Office Meetings (Desktop)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>2024 Approved The Podcaster's Handbook Writing Strategies & Sample Scripts Available Free</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/site-recorder/"><u>忙しくないときのSITE-RECORDERフリーアクティベーションコード探す！</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/amvflv-movavi/"><u>無條件免費網路過渡Amv為Flv - Movavi 自動化編解碼器</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-adding-secure-websites-in-windows-11/"><u>A Step-by-Step Guide to Adding Secure Websites in Windows 11</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/cambiar-archivos-de-formato-mpeg-a-aiff-online-sin-coste-guia-de-movavi/"><u>Cambiar Archivos De Formato MPEG a AIFF Online Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/conversion-gratuite-de-m1v-en-format-ligne-tapez-a-lordinateur-avec-movavi/"><u>Conversion Gratuite De M1V en Format Ligne - Tapez À L'Ordinateur Avec Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-pimoroni-nvme-ssd-base-duo-speed-capacity-and-reliability-assessed/"><u>Expert Review of the Pimoroni NVMe SSD Base Duo - Speed, Capacity & Reliability Assessed</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-converter-convert-mpegasf-files-without-cost-use-movavi-now/"><u>Free Online Converter: Convert MPEG/ASF Files Without Cost - Use Movavi Now!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratuit-verbale-konvertor-gebruik-de-onlineladingsbewijs-van-movavi-om-nv-3gpp-naar-wav-format-te-zetten/"><u>Gratuit Verbale Konvertor: Gebruik De Onlineladingsbewijs Van Movavi Om NV 3GPP Naar Wav-Format Te Zetten</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-deathloop-gameplay-on-pc-by-fixing-stuttering-problems-strategies-revealed/"><u>Improve Your Deathloop Gameplay on PC by Fixing Stuttering Problems - Strategies Revealed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-11-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 11 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-9-tagliatori-di-video-gratuiti-e-ottimizzati-su-internet/"><u>Top 9 Tagliatori Di Video Gratuiti E Ottimizzati Su Internet</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-video-editor-pro-simplifier-la-creation-et-ledition-de-videos-en-4k/"><u>Top Video Editor Pro: Simplifier La Création Et L'Édition De Vidéos en 4K</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/trasforma-i-tuoi-file-mkv-in-animazioni-gif-gratuite-con-questo-servizio-online/"><u>Trasforma I Tuoi File MKV in Animazioni GIF Gratuite Con Questo Servizio Online!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-esperto-sui-tecnici-sales-enhancement-utilizzando-winx-dvd-ripper-e-la-potente-intelligenza-artificiale-di-winxvideo/"><u>Tutorial Esperto Sui Tecnici Sales Enhancement Utilizzando WinX DVD Ripper E La Potente Intelligenza Artificiale Di Winxvideo</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-synchronizing-audio-with-visual-media-the-quicktime-method-for-2024/"><u>Updated Synchronizing Audio with Visual Media The QuickTime Method for 2024</u></a></li>
 </ul></div>
 

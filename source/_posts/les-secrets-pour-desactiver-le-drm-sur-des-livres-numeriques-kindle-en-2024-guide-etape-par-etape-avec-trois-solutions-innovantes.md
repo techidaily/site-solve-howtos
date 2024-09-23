@@ -1,7 +1,7 @@
 ---
 title: "Les Secrets Pour Désactiver Le DRM Sur Des Livres Numériques Kindle en 2024 : Guide Étape Par Étape Avec Trois Solutions Innovantes"
-date: 2024-09-15T02:43:17.042Z
-updated: 2024-09-18T22:13:33.235Z
+date: 2024-09-17T16:02:55.339Z
+updated: 2024-09-23T16:20:30.959Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc16390627944ff76ebd8df97376a974.jpg
@@ -27,6 +27,13 @@ Mais comment faire? Vous vous êtes peut-être demandé ce problème pendant lon
 * [Méthode 2: supprimez DRM des livres Kindle avec Shareware](https://tools.techidaily.com/epubor/products/)
 * [Méthode 3\. Télécharger des livres Kindle via un simulateur Android sur Windows/Mac (prise en charge des livres Kindle publiés en 2023)](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tout d'abord: télécharger des Ebooks Kindle
 
 Pour commencer, je vous recommande fortement de préparer vos livres Kindle sur votre ordinateur. Si vous avez le périphérique e-ink Kindle, vous pouvez simplement télécharger des livres Kindle via votre appareil Kindle. Si vous n'avez pas d'appareil Kindle, vous devez installer Kindle pour PC ou Mac. Ouvrez l’application Kindle, connectez-vous avec votre propre compte amazon, puis tous les fichiers que vous avez achetés dans kindle store seront synchronisés. Choisissez les fichiers que vous souhaitez obtenir, double-cliquez sur la couverture du livre, puis le téléchargement commence. Ensuite, vous pouvez fermer l’application, trouver les fichiers de livres téléchargés dans le dossier de destination: [Où sont enregistrés les ebooks du Kindle](https://tools.techidaily.com/epubor/products/). 
@@ -51,6 +58,13 @@ Sélectionnez le fichier "DeDRM\_plugin.zip". Plus d'informations s'il vous pla�
 
 ![](https://epubor.com/images/uppic/des-drm-avec-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Étape 3: Importer des livres DRMed dans Calibre
 
 Si vos kindle books sont téléchargés via l'application de bureau Kindle, importez vos livres Kindle téléchargés dans Calibre, le DRM sera automatiquement supprimé. Mais si vous avez déjà ajouté des livres de calibre limités par DRM, vous feriez mieux de les importer à nouveau. Travail fait, vous pouvez cliquer sur "cliquez pour ouvrir" sur le côté droit pour obtenir un aperçu de la bibliothèque de calibre.
@@ -66,6 +80,19 @@ Pour convertir des livres Kindle, vous devez ajouter non seulement le plugin ded
 Vous pouvez rencontrer une erreur lorsque vous essayez de télécharger le calibre du livre Kindle sur Mac. 
 
 Les plugins Calibre DeDRM ne fonctionneront plus avec les livres Kindle KFX si l'application Kindle pour PC a été mise à jour vers la version 2.4.1 (70946). Réinstallez la version 2.4.70904, qui fonctionne comme avant, ou vous pouvez également essayer d'utiliser Epubor Ultimate comme meilleure alternative. 
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Méthode 2: supprimez DRM des livres Kindle avec Shareware
 
@@ -103,13 +130,6 @@ Pour utiliser cette méthode, vous aurez besoin du logiciel Epubor nouvellement 
 
 ![convertir des livres kindle android sur mac](http://www.epubor.com/images/uppic/epubor-kindleconverter-2023.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 
 * Étape 1: Téléchargez et installez l'émulateur Android sur Windows/Mac.
@@ -120,10 +140,10 @@ Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -525,20 +545,21 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-5-xbox-external-hard-drive-you-can-find/"><u>[Updated] 2024 Approved Top 5 Xbox External Hard Drive You Can Find</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/bmpwysiwyg-ppm-movavi/"><u>「BMPに一発変える!無料WYSIWYG PPM画像コンバーター - Movavi」</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/elige-el-sonido-perfecto-top-8-mejores-microfones-especialmente-disenados-para-crear-contenidos-en-youtube/"><u>Elige El Sonido Perfecto: Top 8 Mejores Microfones Especialmente Diseñados Para Crear Contenidos en YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-audio-during-video-lags-on-youtube-for-chromefirefox-users/"><u>Fixing Persistent Audio During Video Lags on YouTube for Chrome/Firefox Users</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratis-cel-mai-potentialul-ajutor-pentru-editarea-video-software-cel-mai-usor-de-usat-pentru-windows-7-in-anul-2024/"><u>Gratis Cel Mai Potențialul Ajutor Pentru Editarea Video - Software Cel Mai Ușor De Usat Pentru Windows 7 În Anul 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/guia-pratico-configuracao-do-modo-picture-in-picture-para-melhor-experiencia-video-dicas-detalhadas-e-funcionais/"><u>Guia Prático: Configuração Do Modo Picture-in-Picture Para Melhor Experiência Vídeo - Dicas Detalhadas E Funcionais</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-gionee-f3-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Gionee F3 Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-the-sounds-of-villainy-fix-your-silent-evil-genius-2-adventure-now/"><u>Lost the Sounds of Villainy? Fix Your Silent 'Evil Genius 2' Adventure Now</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/movavi-convert-apes-to-aiff-online-free-converter-easy-audio-format-transformation/"><u>Movavi Convert APES to AIFF Online Free Converter - Easy Audio Format Transformation</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/onlinelastige-avi-video-conversie-naar-mjpeg-met-movevi-convert-tool/"><u>Onlinelastige AVI-Video-Conversie Naar MJPEG Met MoveVI Convert Tool</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transformar-ppm-a-archivo-de-graficos-animados-gif-sin-coste-guia-facil-con-movavi/"><u>Transformar PPM a Archivo De Gráficos Animados (GIF) Sin Coste - Guía Fácil Con Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/trasforma-i-tuoi-file-mod-gratuito-e-con-facilita-in-formato-mp4-guida-rapidissima/"><u>Trasforma I Tuoi File MOD Gratuito E Con Facilità in Formato MP4 - Guida Rapidissima!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/turn-your-passion-into-profits-youtube-on-facebook-monetization-steps-for-2024/"><u>Turn Your Passion Into Profits YouTube on Facebook Monetization Steps for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g14-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mp3-repository-from-fb-posts/"><u>[New] In 2024, MP3 Repository From Fb Posts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speech-recognition-powered-by-free-software/"><u>[Updated] Speech Recognition Powered by Free Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/descargar-e-importar-archivos-vob-a-formato-flv-sin-coste-adicional-con-herramientas-online-facilmente/"><u>Descargar E Importar Archivos VOB a Formato FLV Sin Coste Adicional Con Herramientas Online Facilmente</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-converter-nsv-to-mp4-by-movavi-streamline-your-video-transformations/"><u>Free Online Converter: NSV to MP4 by Movavi - Streamline Your Video Transformations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967857354-get-the-latest-asus-sound-control-programs-here/"><u>Get the Latest ASUS Sound Control Programs Here!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-para-transferir-videos-al-imovie-elegante-solucion-de-conversion/"><u>Guía Para Transferir Videos Al iMovie: Elegante Solución De Conversión</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-agni-2-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Agni 2 5G Without PUK Codes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-p40plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P40+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-photography-on-iphone-essential-apps-compilation-for-2024/"><u>Pro Photography on iPhone Essential Apps Compilation for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/seamless-video-editing-convert-your-mod-videos-to-avi-at-no-cost-moveit/"><u>Seamless Video Editing: Convert Your MOD Videos to AVI at No Cost - MoveIt!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tips-for-extending-instagram-videos-beyond-limits-for-2024/"><u>Tips for Extending Instagram Videos Beyond Limits for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-18-procesu-konverzace-video-mp4-na-dvd-windows-mac-a-online-preference/"><u>Top 18 Procesů Konverzace Video MP4 Na DVD - Windows, Mac a Online Preference</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transform-your-mkv-videos-to-wma-file-type-at-no-cost-quick-guide-by-movieconverters/"><u>Transform Your MKV Videos to WMA File Type at No Cost - Quick Guide by MovieConverters</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transformador-de-audio-digital-convierte-tus-archivos-de-audio-al-formato-mp3-wma-u-otros-con-facilidad-en-linea/"><u>Transformador De Audio Digital: Convierte Tus Archivos De Audio Al Formato MP3, WMA U Otros Con Facilidad en Línea</u></a></li>
 </ul></div>
 
