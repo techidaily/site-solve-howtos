@@ -1,7 +1,7 @@
 ---
 title: "Les Secrets Pour Désactiver Le DRM Sur Des Livres Numériques Kindle en 2024 : Guide Étape Par Étape Avec Trois Solutions Innovantes"
-date: 2024-09-17T16:02:55.339Z
-updated: 2024-09-23T16:20:30.959Z
+date: 2024-09-23T05:42:50.192Z
+updated: 2024-09-27T22:01:03.429Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc16390627944ff76ebd8df97376a974.jpg
@@ -28,15 +28,28 @@ Mais comment faire? Vous vous êtes peut-être demandé ce problème pendant lon
 * [Méthode 3\. Télécharger des livres Kindle via un simulateur Android sur Windows/Mac (prise en charge des livres Kindle publiés en 2023)](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tout d'abord: télécharger des Ebooks Kindle
 
 Pour commencer, je vous recommande fortement de préparer vos livres Kindle sur votre ordinateur. Si vous avez le périphérique e-ink Kindle, vous pouvez simplement télécharger des livres Kindle via votre appareil Kindle. Si vous n'avez pas d'appareil Kindle, vous devez installer Kindle pour PC ou Mac. Ouvrez l’application Kindle, connectez-vous avec votre propre compte amazon, puis tous les fichiers que vous avez achetés dans kindle store seront synchronisés. Choisissez les fichiers que vous souhaitez obtenir, double-cliquez sur la couverture du livre, puis le téléchargement commence. Ensuite, vous pouvez fermer l’application, trouver les fichiers de livres téléchargés dans le dossier de destination: [Où sont enregistrés les ebooks du Kindle](https://tools.techidaily.com/epubor/products/). 
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Méthode 1: supprimez DRM des livres Kindle avec Calibre Plugin
 
@@ -58,13 +71,6 @@ Sélectionnez le fichier "DeDRM\_plugin.zip". Plus d'informations s'il vous pla�
 
 ![](https://epubor.com/images/uppic/des-drm-avec-calibre.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Étape 3: Importer des livres DRMed dans Calibre
 
 Si vos kindle books sont téléchargés via l'application de bureau Kindle, importez vos livres Kindle téléchargés dans Calibre, le DRM sera automatiquement supprimé. Mais si vous avez déjà ajouté des livres de calibre limités par DRM, vous feriez mieux de les importer à nouveau. Travail fait, vous pouvez cliquer sur "cliquez pour ouvrir" sur le côté droit pour obtenir un aperçu de la bibliothèque de calibre.
@@ -82,16 +88,10 @@ Vous pouvez rencontrer une erreur lorsque vous essayez de télécharger le calib
 Les plugins Calibre DeDRM ne fonctionneront plus avec les livres Kindle KFX si l'application Kindle pour PC a été mise à jour vers la version 2.4.1 (70946). Réinstallez la version 2.4.70904, qui fonctionne comme avant, ou vous pouvez également essayer d'utiliser Epubor Ultimate comme meilleure alternative. 
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Méthode 2: supprimez DRM des livres Kindle avec Shareware
@@ -130,6 +130,13 @@ Pour utiliser cette méthode, vous aurez besoin du logiciel Epubor nouvellement 
 
 ![convertir des livres kindle android sur mac](http://www.epubor.com/images/uppic/epubor-kindleconverter-2023.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 
 * Étape 1: Téléchargez et installez l'émulateur Android sur Windows/Mac.
@@ -138,13 +145,6 @@ Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 * Étape 4: Téléchargez et installez Epubor Kindle Converter et supprimez drm avec.
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -543,5 +543,23 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-harnessing-skypes-voice-free-mp3-exclusive/"><u>[New] In 2024, Harnessing Skype's Voice - Free MP3 Exclusive</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prime-15-web-based-editing-platforms-reviewed-all-free-for-2024/"><u>[New] Prime 15 Web-Based Editing Platforms Reviewed, All FREE for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamlined-method-for-crafting-mobile-focused-youtube-channels-for-2024/"><u>[Updated] Streamlined Method for Crafting Mobile-Focused YouTube Channels for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aiff-file-transformation-at-no-cost-discover-movavis-services/"><u>Aiff File Transformation at No Cost - Discover Movavi's Services</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aprenda-as-etapas-para-transformar-seus-videos-do-youtube-em-arquivos-mp3-com-facilidade-e-precisao/"><u>Aprenda as Etapas Para Transformar Seus Vídeos Do Youtube Em Arquivos Mp3 Com Facilidade E Precisão.</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-g24-power-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola G24 Power Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratuit-online-transformeren-van-dpx-naar-gif-de-beste-movavi-weg-movavicom/"><u>Gratuit Online Transformeren Van DPX Naar GIF: De Beste Movavi-Weg - movavi.com</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a78-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A78 5G FRP Locks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlocking-views-youtube-thumbnail-dimension-strategies/"><u>In 2024, Unlocking Views YouTube Thumbnail Dimension Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/minimize-resource-overuse-windows-10-guide/"><u>Minimize Resource Overuse: Windows 10 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-launches-critical-agesa-12nv-bios-update-to-address-amds-zen-2-zero-day-vulnerability/"><u>MSI Launches Critical AGESA 1.2.nv BIOS Update to Address AMD's Zen 2 Zero-Day Vulnerability</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/online-file-converter-by-movavi-effortlessly-convert-asf-to-mp4-at-no-cost/"><u>Online File Converter by Movavi: Effortlessly Convert ASF to MP4 at No Cost</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/tiktok-pc-3-movavi/"><u>TikTok 비디오를 PC로 온보트: 3가지 간결한 탐구 - Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-14-mais-confiaveis-aplicativos-de-edicao-fotografica-para-smartphones-e-computadores/"><u>Top 14 Mais Confiáveis Aplicativos De Edição Fotográfica Para Smartphones E Computadores</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1726223917512-mov-vob/"><u>제공자가 아니에요? 오픈소스 전용: MOV VOB 비동기 화면 바이트실을 무료로 변환 - 모벨라이</u></a></li>
+</ul></div>
 

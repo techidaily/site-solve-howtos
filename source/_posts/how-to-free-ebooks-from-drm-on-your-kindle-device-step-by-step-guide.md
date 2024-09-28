@@ -1,7 +1,7 @@
 ---
 title: How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide
-date: 2024-09-16T17:38:35.447Z
-updated: 2024-09-23T16:45:02.070Z
+date: 2024-09-22T19:15:27.681Z
+updated: 2024-09-27T17:24:13.661Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de84f78ea466db32363417497.jpg
@@ -33,13 +33,6 @@ Ma come si fa? Scommetto che cerchi una soluzione da molto tempo. Non ti preoccu
 
 2\. Scarica libri Kindle in formato decifrato (vecchio kfx o azw3).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prima cosa da fare: Scaricare gli ebooks Kindle(su PC / Mac)
 
 La primissima cosa da fare è quella di scaricare i libri Kindle sul computer. Se hai un lettore Kindle ti basterà collegare il lettore al pc e scaricare i libri. Se non hai il lettore Kindle, installa il programma Kindle per PC o Mac. Lancia l’app Kindle, fai il login con il tuo account Amazon e attendi che l’app sincronizza tutti i libri che hai comprato. Ti basterà fare doppio clic su ogni libro per scaricarlo. Una volta che tutti i libri sono stati scaricati nell’app Kindle, puoi chiuderla e troverai i files dei libri nelle seguenti cartelle: [Dove sono memorizzati i libri Kindle su PC / MAC / Android.](https://tools.techidaily.com/epubor/products/) 
@@ -69,10 +62,10 @@ Se i tuoi libri Kindle sono scaricati dal Kindle eReaders, devi personalizzare i
 ![Configura il pllugin eInk Kindle](https://epubor.com/images/uppic/configura-il-plugin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Aggiornamento:** 
@@ -80,13 +73,6 @@ Se i tuoi libri Kindle sono scaricati dal Kindle eReaders, devi personalizzare i
 Per convertire i libri Kindle, è necessario aggiungere a Calibre non solo il plug-in dedrm ma anche il [plug-in di input kfx](https://tools.techidaily.com/epubor/products/). 
 
 I plugin Calibre DeDRM non funzioneranno più con i libri Kindle KFX se l'app Kindle per PC viene aggiornata alla versione 2.4.1 (70946). Reinstalla 2.4.70904, che funziona come prima, oppure puoi anche provare a usare Epubor Ultimate come alternativa migliore. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Metodo 2: Rimuovi il DRM da un libro Kindle con Shareware
 
@@ -114,6 +100,13 @@ Passo 3 Aggiungi gli ebooks kindle dalla colonna di sinistra alla finestra princ
 
 ![epubor kcr rimozione del drm](https://epubor.com/images/uppic/rimozione-del-drm-epubor-kcr.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Rimuovi Kindle DRM dai recenti libri Kindle pubblicati nel 2023 
 
 Poiché molti utenti non possiedono il dispositivo kindle, la rimozione di drm dai libri kindle pubblicati nel 2023 è quasi impossibile. Epubor ha recentemente rilasciato un nuovo modo per rimuovere drm dai libri kindle, utilizzando il simulatore Android su Windows e Mac e installando un'app Android kindle precedente per scaricare libri kindle. Con questo metodo, non è necessario acquistare un dispositivo kindle o eseguire il downgrade del tuo kindle per PC/Mac. 
@@ -123,10 +116,16 @@ Per utilizzare questo metodo, avrai bisogno del software Epubor appena rilasciat
 ![convertire i libri kindle con successo Android su mac](http://www.epubor.com/images/uppic/convert-kindle-successfully-2023-android-mac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Per utilizzare questo metodo, attenersi alla seguente procedura: 
@@ -137,6 +136,13 @@ Per utilizzare questo metodo, attenersi alla seguente procedura:
 * Passo 4: Scarica e installa Epubor Kindle Converter e rimuovi drm con esso.
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
@@ -409,5 +415,17 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-hp-scanjet-driver-software-update-on-windows/"><u>[How to Get the Latest HP Scanjet Driver Software Update on Windows]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-method-for-adding-high-quality-srt-to-mp4-videos/"><u>[Updated] In 2024, The Ultimate Method for Adding High-Quality SRT to MP4 Videos</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/wma-mp4-movavi-web/"><u>無償で簡単にWMA からMP4へ直接変換する - Movavi Webサービス</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-review-of-the-lenovo-ideapad-3-iaax9-laptop-budget-friendly-and-game-ready/"><u>Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratis-y-sin-derechos-de-autor-descarga-videos-en-alta-definicion-storyblocks/"><u>Gratis Y Sin Derechos De Autor, Descarga Videos en Alta Definición - Storyblocks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s23-ultra-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S23 Ultra Phone Hassle-Free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/secure-video-editing-software-discover-sikkers-top-of-the-line-services/"><u>Secure Video Editing Software: Discover Sikker's Top-of-the-Line Services</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-20-gratis-inspirationstools-for-video-arkitektur-2024-komplett-utbud/"><u>Top 20 Gratis Inspirationstools För Video Arkitektur 2024 - Komplett Utbud</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-1300-watt-performance-exploring-cooler-masters-high-capacity-v-series-and-its-x-silent-fanless-psus/"><u>Up to 1300-Watt Performance: Exploring Cooler Master's High Capacity V Series and Its X Silent Fanless PSUs</u></a></li>
+</ul></div>
 

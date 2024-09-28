@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Titles From Your Nook Library"
-date: 2024-09-20T17:20:37.390Z
-updated: 2024-09-23T17:11:09.799Z
+date: 2024-09-20T23:12:15.290Z
+updated: 2024-09-28T02:28:48.924Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8faac5e2796b198a9b431fdb.jpg
@@ -25,6 +25,13 @@ If you are searching for the way how to delete books from nook, here is the guid
 | delete books from Nook for android and IOS app    | [Situation1](https://tools.techidaily.com/epubor/products/) or [Situation2](https://tools.techidaily.com/epubor/products/)            |
 | delete books from Nook color, Nook glowlight, etc | [Situation1](https://tools.techidaily.com/epubor/products/) or [Situation2](https://tools.techidaily.com/epubor/products/)            |
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Situation 1: Remove books from Nook but archive
 
 If your device is the first Nook edition, you should do this online website. But if your devices are Nook 2 Edition\~, you can do this directly on your devices, including Nook eReaders and Nook for Android and IOS app.
@@ -32,10 +39,16 @@ If your device is the first Nook edition, you should do this online website. But
 ![delete nook books to archive](http://www.epubor.com/images/uppic/delete-books-from-nook-to-archive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1Find "My Nook Library".
@@ -48,13 +61,6 @@ In the library you will see all your books are listed clearly. Press and hold on
 
 For this way you just remove your nook content from your device but the e-books remain in your B&N account and can be redownloaded at no charge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Situation 2: Delete books from Nook completely
 
 This situation only applies for removing books purchased from Barnes&Noble.
@@ -66,10 +72,10 @@ Nearly the same as the steps at part 1, find your nook books you want to fullly 
 ![delete nook books to confirm](http://www.epubor.com/images/uppic/delete-nook-books.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Tips:** 
@@ -81,13 +87,6 @@ Nearly the same as the steps at part 1, find your nook books you want to fullly 
 ### Frequently asked questions about Nook
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Q: **How to delete Nook free samples?**
 
@@ -112,6 +111,13 @@ Download Nook Converter for free:
 * [How to Remove DRM from Nook](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -194,5 +200,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fbs-frontier-making-and-sending-immersive-360-videos/"><u>2024 Approved FB's Frontier Making and Sending Immersive 360 Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-find-your-next-favorite-free-video-player-in-our-top-12-picks-pcmobile/"><u>2024 Approved Find Your Next Favorite Free Video Player in Our Top 12 Picks (PC/Mobile)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-fixes-for-when-iphone-brightness-adjustment-isnt-working-automatically/"><u>7 Proven Fixes for When iPhone Brightness Adjustment Isn't Working Automatically</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerating-your-creative-process-with-mac-dvd-authoring/"><u>Accelerating Your Creative Process with Mac DVD Authoring</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-conversion-change-ogg-files-into-mp4-format-with-ease/"><u>Free Online Conversion: Change OGG Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-converter-change-mp3-files-to-webm-format-with-movavi/"><u>Free Online Converter: Change MP3 Files to WebM Format with Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-mpeg-to-mp3-converter-easy-use-by-movavi/"><u>Free Online MPEG to MP3 Converter - Easy Use by Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-note-13-pro-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi Note 13 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a1x-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A1x 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-z50-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Z50 Ultra to iPad | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pioneering-camera-tech-an-analysis-of-manycams-new-recorder/"><u>Pioneering Camera Tech An Analysis of ManyCam's New Recorder</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transformacion-de-videos-m4v-al-tipo-eo-en-linea-gratuita-y-facil-guia-completa-con-movavi/"><u>Transformación De Vídeos M4V Al Tipo ˈeɡo en Línea, Gratuita Y Fácil: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/trasforma-il-tuo-ape-in-flac-senza-costi-utilizzando-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma Il Tuo APE in Flac Senza Costi Utilizzando Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/wmv-mov/"><u>영상 유형 WMV, MOV에 대한 제공 무료 전환기 - 온라인 사용자가 만들기</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mp4mpeg-movavi/"><u>오픈 소스 MP4/Mpeg 영상 무료 변환 - Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mp4-mov/"><u>오피스 상대의 MP4 및 MOV를 원격으로 제공합니다: 무료 전환 방법</u></a></li>
+</ul></div>
 

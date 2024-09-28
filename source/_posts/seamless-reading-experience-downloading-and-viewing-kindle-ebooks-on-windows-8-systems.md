@@ -1,7 +1,7 @@
 ---
 title: "Seamless Reading Experience: Downloading & Viewing Kindle eBooks on Windows 8 Systems"
-date: 2024-09-17T16:46:13.440Z
-updated: 2024-09-23T17:04:50.574Z
+date: 2024-09-22T03:23:15.044Z
+updated: 2024-09-27T22:24:51.411Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec78e34142ed3c3e52ff3fe5e7.png
@@ -31,13 +31,6 @@ If you can’t find the “store” icon on the Start screen, right-click to sel
 
 ![read Kindle books on Win 8 - Windows 8 Store](https://www.epubor.com/images/uppic/win8_start.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Search for “Kindle” on Windows 8 app store, select Amazon Kindle app and click download.
 
 Make sure there is a Microsoft (Windows) Live account associated with your Win 8 computer, then you can easily download and install free Kindle for Windows 8 app on it (with Internet connection).
@@ -45,6 +38,13 @@ Make sure there is a Microsoft (Windows) Live account associated with your Win 8
 [Create a Microsoft Live account](https://signup.live.com/signup.aspx?lic=1)
 
 ![read Kindle books on Win 8 - install Kindle](https://www.epubor.com/images/uppic/Win8-kindle.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** The first time you launch Kindle for Windows 8 app, you will be required to sign in with your Amazon account. Once the registration is done, all Kindle books under your account will be synced in seconds. You can also right-click and select synchronize to sync your books if there is any delay.
 
@@ -59,10 +59,10 @@ Follow above steps when you want to **read Kindle books on Windows 8 (Pro) PC, S
 Besides Kindle books, you can [follow this guide to read **eBooks** on Windows 8 / Surface RT / Pro](https://tools.techidaily.com/epubor/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Read Kindle books on Windows 8 mobile
@@ -72,10 +72,10 @@ To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “M
 ![read Kindle books on Windows Phone 8](https://www.epubor.com/images/uppic/Win8-kindle_for_windows_phone_8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More about Amazon Kindle eBook reading
@@ -96,13 +96,6 @@ Related instructions:
 
 [How to read Kindle books on Android phones / tablets](https://tools.techidaily.com/epubor/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Troubleshooting: Can't install kindle app on windows 8
 
 **#1** Provided you have no access to Microsoft app store and can't install Kindle for Windows 8 app, you can also read Kindle books on your Win 8 device by [installing Kindle for PC app from Amazon's official site](https://www.amazon.com/kindle-dbs/fd/kcp). Press "Windows" key on the keyboard (next to "Alt" key) to go back to desktop if necessary.
@@ -110,6 +103,13 @@ Related instructions:
 **#2** [Can't find Kindle content files under kindle device folder on win 8](https://tools.techidaily.com/epubor/products/)
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -280,5 +280,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-make-highlights-on-instagram-for-2024/"><u>[New] How to Make Highlights on Instagram for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essentials-for-successful-google-podcast-upload/"><u>[New] In 2024, Essentials for Successful Google Podcast Upload</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[New] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos/"><u>[Updated] Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-trust-the-significance-of-client-reviews-for-2024/"><u>Capturing Trust The Significance of Client Reviews for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comprehensive-guide-understanding-the-meaning-and-significance-of-requiem-qanda/"><u>Comprehensive Guide: Understanding the Meaning and Significance of Requiem - Q&A</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-problems-for-a-perfect-hogwarts-legacy-gaming-experience-updated-fixes/"><u>Overcoming Startup Problems for a Perfect Hogwarts Legacy Gaming Experience - Updated Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-spark-20-proplus-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Spark 20 Pro+</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-artists-guide-to-the-leading-6-nft-creation-suites-for-2024/"><u>The Artist's Guide to the Leading 6 NFT Creation Suites for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/understanding-file-management-and-organization-techniques/"><u>Understanding File Management & Organization Techniques</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-kindle-library-how-to-bypass-drm-on-azw3-books-for-the-newest-edition-year-2024/"><u>Unlocking Your Kindle Library: How to Bypass DRM on AZW3 Books for the Newest Edition (Year 2024)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-pdfs-step-by-step-guide-to-bypassing-adobes-drm-protection/"><u>Unlocking Your PDFs: Step-by-Step Guide to Bypassing Adobe's DRM Protection</u></a></li>
+</ul></div>
 
