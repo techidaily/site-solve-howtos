@@ -1,7 +1,7 @@
 ---
 title: "Guide Complet: Comment Accéder Et Lire Des Livres Google en Mode Ebook Sur Amazon Fire"
-date: 2024-09-21T16:49:05.818Z
-updated: 2024-09-28T06:53:21.728Z
+date: 2024-09-25T18:56:58.552Z
+updated: 2024-10-02T17:57:53.450Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f904615df4dae698bbf74beb.jpg
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 Google a ouvert son magasin des eBooks au Royaume-Uni, le magasin comprend eBooks viennent de Hachette Maison, Random et Penguin, ainsi que plus de deux millions eBooks de domaine public. Il est prévu d'ouvrir son eBookStore dans plus de pays, dont le Canada et l'Australie dans les prochains mois. Google eBooks ne peuvent pas être lus sur l'appareil populaire Amazon Kindl, parce que le Kindle ne reconnaît pas le format ePub adoptée par Google. Google annonce leur livres utilisent le **DRM d'Adobe Adepte**. Si vous voulez lire des Google eBooks sur le Kindle Fire, vous devriez [supprimer les DRM](https://tools.techidaily.com/epubor/products/)premièrement, puis convertir le ePub.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment lire Google eBooks sur Kindle Fire
@@ -30,10 +30,10 @@ Google a ouvert son magasin des eBooks au Royaume-Uni, le magasin comprend eBook
 ![ADE ePUB&PDF DRM Removal](https://www.epubor.com/images/adobedrmremoval.jpg "epub&pdf drm removal")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Etape 2**: Après que vous sélectionnez les fichiers, cliquez "unDRM directory", vous pouvez obtenir les fichiers sans DRM.
@@ -52,16 +52,10 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
 * [Supprimer DRM iBooks](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Appareils de lecture supportés par Google eBookStore:
@@ -78,10 +72,10 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
   
@@ -104,17 +98,18 @@ Copyright © 2011-2021 www.epubor.com. Tous droits réservés.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-howtos.techidaily.com/3gpswf-movivi/"><u>免費在線3GP變更為SWF影片格式- MoviVi解決方案指南</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Magic5 Ultimate</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-restoring-dolby-atmos-audio-quality-in-recent-windows-operating-systems/"><u>Effective Solutions for Restoring Dolby Atmos Audio Quality in Recent Windows Operating Systems</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/formato-wav-gratuito-desde-ape-mediante-el-conversor-en-linea-de-movavi/"><u>Formato WAV Gratuito Desde APE Mediante El Conversor en Línea De Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-note-30-vip-racing-edition-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Note 30 VIP Racing Edition 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratis-audiofil-ff-utlatare-for-windows-1187-den-basta-lista-med-movavi/"><u>Gratis Audiofil FF-Utlåtare För Windows 11/8/7 - Den Bästa Lista Med Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mjpeg-mpeg-movevi/"><u>MJPEGに自由に変換: オンラインMPEGファイルリダレーター - 無料Moveviツール</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-pc-stagnation-proven-methods-for-fixing-a-frozen-desktop/"><u>Overcoming PC Stagnation: Proven Methods for Fixing a Frozen Desktop</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/skyrocket-views-mastery-of-title-and-tag-optimization-for-2024/"><u>Skyrocket Views Mastery of Title and Tag Optimization for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-14-mais-confiaveis-aplicativos-de-edicao-fotografica-para-smartphones-e-computadores/"><u>Top 14 Mais Confiáveis Aplicativos De Edição Fotográfica Para Smartphones E Computadores</u></a></li>
-<li><a href="https://win-info.techidaily.com/upgrade-mastery-shifting-from-windows-10-to-windows-11-on-incompatible-systems-expert-tips-and-tricks/"><u>Upgrade Mastery: Shifting From Windows 10 to Windows 11 on Incompatible Systems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-get-started-with-ease-facebook-insight-basics-for-2024/"><u>[New] Get Started with Ease Facebook Insight Basics for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-xcover-6-pro-tactical-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy XCover 6 Pro Tactical Edition System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/avs/"><u>網路無限量的免費AVS轉寫 - 動靜音</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/best-no-cost-mac-image-manipulation-programs-an-extensive-guide/"><u>Best No-Cost Mac Image Manipulation Programs: An Extensive Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-mkv-converter-upload-and-convert-videos-effortlessly/"><u>Free Online MKV Converter - Upload and Convert Videos Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-efficient-is-chatgpt-in-identifying-grammatical-errors-during-proofreading/"><u>How Efficient Is ChatGPT in Identifying Grammatical Errors During Proofreading?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-connect-remote-desktop-without-a-password-in-windows-11/"><u>How to Connect Remote Desktop Without a Password in Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/las-herramientas-de-reproduccion-mas-eficaces-para-swf-en-windows-n-y-mac/"><u>Las Herramientas De Reproducción Más Eficaces Para SWF en Windows N Y Mac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-marvels-avengers-a-comprehensive-review-beyond-mediocre-expectations/"><u>Navigating Through Marvel's Avengers: A Comprehensive Review Beyond Mediocre Expectations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp-for-2024/"><u>Smooth Cuts Ahead 3 Ways to Master Transitions in FCP for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/trasforma-i-tuoi-file-mxf-in-formato-mkv-senza-costi-con-il-servizio-di-conversione-online-gratuito-movavi/"><u>Trasforma I Tuoi File MXF in Formato MKV Senza Costi Con Il Servizio Di Conversione Online Gratuito - Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1726222516189-wmvmp4-movavi/"><u>무료 서비스로 영상 형식을 바꿀 수 있는 WMV/MP4 변환 방법 - Movavi</u></a></li>
 </ul></div>
 

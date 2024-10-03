@@ -1,7 +1,7 @@
 ---
 title: User Manual.
-date: 2024-09-26T20:37:35.835Z
-updated: 2024-09-27T19:58:31.675Z
+date: 2024-09-30T18:11:19.676Z
+updated: 2024-10-03T00:11:40.413Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c8336694d98304c7450ff8c427.png
@@ -36,10 +36,16 @@ Support Center
 ## User Manual
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Epubor Software User Guide
@@ -59,6 +65,13 @@ Support Center
 * **[Remove Kindle DRM](https://tools.techidaily.com/epubor/products/)**
 * **[Remove Adobe EPUB/PDF DRM](https://tools.techidaily.com/epubor/products/)**
 * **[Remove Nook DRM](https://tools.techidaily.com/epubor/products/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove Kindle DRM
 
@@ -85,6 +98,13 @@ Click kindle book cover to download Kindle books to your computer. Make sure you
 Drag & drop Kindle books from default Kindle content folder to software's main window, and remove DRM.
 
 ![remove kindle drm](http://www.epubor.com/images/uppic/epubor-ultimate-1108.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you have an E-Ink Kindle:**
 
@@ -131,10 +151,10 @@ Drag & drop Adept EPUB&PDF books from default ADE content folder to software's m
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove Nook DRM
@@ -167,13 +187,6 @@ Now Epubor is able to handle the new Nook DRM, please follow this [detailed Guid
 * CONNECT WITH US
 * [![facebook](http://www.epubor.com/images/fb.png)](https://www.facebook.com/eBookConverter)[![twitter](http://www.epubor.com/images/tw.png)](https://twitter.com/eBook%5FConverter)[![linkedin](http://www.epubor.com/images/Linkedin-Logo.png)](https://www.linkedin.com/company/epubor/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Subscribe
 * Submit
 
@@ -188,13 +201,6 @@ Now Epubor is able to handle the new Nook DRM, please follow this [detailed Guid
 Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 ![mcafee badge](http://www.epubor.com/images/mcafee-secure.png)![norton badge](http://www.epubor.com/images/norton-icon.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,19 +217,19 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-masterful-moments-the-top-10-apps-to-boost-your-account/"><u>[Updated] Masterful Moments The Top 10 Apps to Boost Your Account</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-scrutinizing-the-advanced-features-of-dji-phantom-3/"><u>[Updated] Scrutinizing the Advanced Features of DJI Phantom 3</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-transform-your-acsm-file-into-an-epub-book-comprehensive-steps-and-tips/"><u>How to Transform Your ACSM File Into an EPUB Book: Comprehensive Steps and Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-red-eye-photo-fixes-on-your-iphone-no-money-needed/"><u>In 2024, Quick Red-Eye Photo Fixes on Your iPhone, No Money Needed</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ipad-ebooks-enjoying-read-mobile-app/"><u>IPad eBooks: Enjoying Read Mobile App</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-ebook-formats-an-in-depth-look-at-amazons-azw3-for-kindle-users/"><u>Mastering eBook Formats: An In-Depth Look at Amazon's AZW3 for Kindle Users</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/moving-your-book-collection-a-step-by-step-guide-to-adding-ebooks-to-the-ipad-kindle-app/"><u>Moving Your Book Collection: A Step-by-Step Guide to Adding Ebooks to the iPad Kindle App</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/multi-format-ebook-converter-seamless-transformation-from-kfx-to-epub-mobi-and-more/"><u>Multi-Format eBook Converter - Seamless Transformation From KFX to EPUB, MOBI & More!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-in-this-article-we-will-share-with-you-some-of-the-minimum-requirement-of-running-premiere-pro-cc-on-your-computer-and-how-to-check-the-specification-of/"><u>New In This Article, We Will Share with You some of the Minimum Requirement of Running Premiere Pro CC on Your Computer and How to Check the Specification of Your PC and Mac, and Also How to Set up the Co</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premier-applications-for-video-conferencing-for-2024/"><u>Premier Applications for Video Conferencing for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/quick-and-simple-guide-converting-your-kindle-books-into-pdf-format-on-a-mac/"><u>Quick & Simple Guide: Converting Your Kindle Books Into PDF Format on a Mac</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-eufy-t8200-a-video-doorbell-for-the-savvy-consumer/"><u>The Ultimate Guide to Eufy T8200 – A Video Doorbell for the Savvy Consumer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-optimized-processes-for-effective-live-streaming-on-computer/"><u>[New] 2024 Approved Optimized Processes for Effective Live Streaming on Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>[New] In 2024, Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-the-era-of-streaming-how-sourav-joshi-succeeded-on-youtube-by-2024/"><u>[New] In the Era of Streaming, How Sourav Joshi Succeeded on YouTube by 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterful-character-animation-groups-for-2024/"><u>[Updated] Masterful Character Animation Groups for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-sound-sculpting-on-android-the-7-ultimate-audio-editing-apps/"><u>[Updated] Sound Sculpting on Android The 7 Ultimate Audio Editing Apps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-discover-the-7-most-popular-video-apps-for-iphones-and-android-live-streaming/"><u>2024 Approved Discover The 7 Most Popular Video Apps for iPhones & Android Live Streaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/create-code-and-conquer-unleash-your-inner-inventor-using-the-makeblock-mbot-starter-pack/"><u>Create, Code & Conquer: Unleash Your Inner Inventor Using the Makeblock MBot Starter Pack</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-conversion-transforming-aif-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming AIF Files Into Ogg Format with Ease</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratis-online-converting-mpe-zu-avi-formaten-mit-movavi-schritt-fur-schritt-anleitung/"><u>Gratis Online Converting MPE Zu Avi-Formaten Mit Movavi: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-para-transferir-videos-al-imovie-elegante-solucion-de-conversion/"><u>Guía Para Transferir Videos Al iMovie: Elegante Solución De Conversión</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-elevate-your-videos-expert-guide-to-adding-mind-blowing-effects/"><u>New 2024 Approved Elevate Your Videos Expert Guide to Adding Mind-Blowing Effects</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/online-gratis-rmvb-naar-mov-veronstert-hoe-movavi-helpt-met-uw-videokonversie/"><u>Online Gratis RMVB Naar MOV Veronstert - Hoe Movavi Helpt Met Uw Videokonversie</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-18-procesu-konverzace-video-mp4-na-dvd-windows-mac-a-online-preference/"><u>Top 18 Procesů Konverzace Video MP4 Na DVD - Windows, Mac a Online Preference</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transform-your-mkv-videos-to-wma-file-type-at-no-cost-quick-guide-by-movieconverters/"><u>Transform Your MKV Videos to WMA File Type at No Cost - Quick Guide by MovieConverters</u></a></li>
 </ul></div>
 
