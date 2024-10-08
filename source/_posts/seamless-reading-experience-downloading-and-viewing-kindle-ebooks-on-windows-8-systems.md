@@ -1,7 +1,7 @@
 ---
 title: "Seamless Reading Experience: Downloading & Viewing Kindle eBooks on Windows 8 Systems"
-date: 2024-09-29T18:51:45.427Z
-updated: 2024-10-02T16:12:41.297Z
+date: 2024-10-02T16:01:55.172Z
+updated: 2024-10-08T17:24:43.467Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec78e34142ed3c3e52ff3fe5e7.png
@@ -21,6 +21,19 @@ More and more people have moved to the camp of Windows 8 nowadays partly due to 
 
 **Note:** If you are using any other Windows system, here are three methods to [read Kindle books on PC](https://tools.techidaily.com/epubor/products/). 
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Read Kindle books on Windows 8
 
 To read Kindle eBooks on Windows 8, you need to first install corresponding Kindle for Windows 8 app on your device, which works on Windows 8 PCs, Windows 8 Surface Pro / RT, other Windows 8-based tablets and Windows Phone 8 (with Kindle for Windows Phone 8 app). Then register the Kindle app with your Amazon account and you are able to read Kindle books on Windows 8 as with other Kindle reading apps.
@@ -31,6 +44,13 @@ If you can’t find the “store” icon on the Start screen, right-click to sel
 
 ![read Kindle books on Win 8 - Windows 8 Store](https://www.epubor.com/images/uppic/win8_start.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Search for “Kindle” on Windows 8 app store, select Amazon Kindle app and click download.
 
 Make sure there is a Microsoft (Windows) Live account associated with your Win 8 computer, then you can easily download and install free Kindle for Windows 8 app on it (with Internet connection).
@@ -38,13 +58,6 @@ Make sure there is a Microsoft (Windows) Live account associated with your Win 8
 [Create a Microsoft Live account](https://signup.live.com/signup.aspx?lic=1)
 
 ![read Kindle books on Win 8 - install Kindle](https://www.epubor.com/images/uppic/Win8-kindle.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** The first time you launch Kindle for Windows 8 app, you will be required to sign in with your Amazon account. Once the registration is done, all Kindle books under your account will be synced in seconds. You can also right-click and select synchronize to sync your books if there is any delay.
 
@@ -58,6 +71,19 @@ Follow above steps when you want to **read Kindle books on Windows 8 (Pro) PC, S
 
 Besides Kindle books, you can [follow this guide to read **eBooks** on Windows 8 / Surface RT / Pro](https://tools.techidaily.com/epubor/products/).
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Read Kindle books on Windows 8 mobile
 
 To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “Marketplace” icon on the phone, search for “Kindle” and follow the instructions to install. The latest version of Kindle for Windows Phone 8 app is 2.0.0.2, which comes with a resizable live tile and additional formatting options.
@@ -65,17 +91,10 @@ To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “M
 ![read Kindle books on Windows Phone 8](https://www.epubor.com/images/uppic/Win8-kindle_for_windows_phone_8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More about Amazon Kindle eBook reading
@@ -95,13 +114,6 @@ Related instructions:
 [How to read Kindle books on iPad Pro](https://tools.techidaily.com/epubor/products/)
 
 [How to read Kindle books on Android phones / tablets](https://tools.techidaily.com/epubor/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Troubleshooting: Can't install kindle app on windows 8
 
@@ -282,22 +294,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-step-by-step-guide-for-pcmac-movie-recording/"><u>[New] In 2024, Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-guide-to-the-best-gaming-tech/"><u>[New] YouTube's Guide to the Best Gaming Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-craft-eye-catching-youtubes-end-titles/"><u>[Updated] 2024 Approved How to Craft Eye-Catching YouTubes End Titles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>[Updated] The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-2022s-top-figure-skating-performances/"><u>2024 Approved 2022'S Top Figure Skating Performances</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/3gpswf-movivi/"><u>免費在線3GP變更為SWF影片格式- MoviVi解決方案指南</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/wma-mp4-movavi-web/"><u>無償で簡単にWMA からMP4へ直接変換する - Movavi Webサービス</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209511095-boot-loop-blues-quick-tips-to-unstick-your-pc-from-boot-screen-deadlock/"><u>Boot Loop Blues? Quick Tips to Unstick Your PC From Boot Screen Deadlock</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/formato-wav-gratuito-desde-ape-mediante-el-conversor-en-linea-de-movavi/"><u>Formato WAV Gratuito Desde APE Mediante El Conversor en Línea De Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratis-y-sin-derechos-de-autor-descarga-videos-en-alta-definicion-storyblocks/"><u>Gratis Y Sin Derechos De Autor, Descarga Videos en Alta Definición - Storyblocks</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratuit-online-transformeren-van-dpx-naar-gif-de-beste-movavi-weg-movavicom/"><u>Gratuit Online Transformeren Van DPX Naar GIF: De Beste Movavi-Weg - movavi.com</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-thors-quest-battle-for-valhalla/"><u>In 2024, Thor’s Quest Battle for Valhalla</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mjpeg-mpeg-movevi/"><u>MJPEGに自由に変換: オンラインMPEGファイルリダレーター - 無料Moveviツール</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/online-file-converter-by-movavi-effortlessly-convert-asf-to-mp4-at-no-cost/"><u>Online File Converter by Movavi: Effortlessly Convert ASF to MP4 at No Cost</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad/"><u>The Complete Guide to Crafting Impressive Timelapse Films on iPad</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-14-mais-confiaveis-aplicativos-de-edicao-fotografica-para-smartphones-e-computadores/"><u>Top 14 Mais Confiáveis Aplicativos De Edição Fotográfica Para Smartphones E Computadores</u></a></li>
-<li><a href="https://win-dash.techidaily.com/usb-c-compatibility-free-windows-10-driver-download-here/"><u>USB-C Compatibility: Free Windows 10 Driver Download Here!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-city-planning-for-climate-action-a-comprehensive-guide/"><u>[Updated] In 2024, City Planning for Climate Action A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-the-art-of-fbx-less-game-capture-techniques-for-2024/"><u>[Updated] Mastering the Art of FBX-Less Game Capture Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-previewing-facebooks-hidden-activities/"><u>2024 Approved A Comprehensive Guide to Previewing Facebook's Hidden Activities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-discover-the-most-effective-5-screen-capturing-tools-for-chromebook/"><u>2024 Approved Discover the Most Effective 5 Screen Capturing Tools for Chromebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-wipe-out-your-youtube-buffered-videos/"><u>2024 Approved How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>2024 Approved Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1726226545642-mpeg-movavi/"><u>網路無限MPEG影片格式自由切換服務 - Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x7b-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor X7b</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/conversion-audio-mpe-vers-mp3-sans-frais-guide-complet-avec-movavi/"><u>Conversion Audio MPE Vers MP3 Sans Frais - Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convertidor-en-linea-gratuito-caf-a-formatos-m4amp3-por-movavi-sin-coste-alguno/"><u>Convertidor en Línea Gratuito CAF a Formatos M4A/MP3 Por Movavi Sin Coste Alguno</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-conversion-transforming-aif-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming AIF Files Into Ogg Format with Ease</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratis-online-converting-mpe-zu-avi-formaten-mit-movavi-schritt-fur-schritt-anleitung/"><u>Gratis Online Converting MPE Zu Avi-Formaten Mit Movavi: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-high-definition-videos-into-mp4-format-for-your-kindle-fire-a-step-by-step-guide-using-a-mac/"><u>How to Transform High-Definition Videos Into MP4 Format for Your Kindle Fire: A Step-by-Step Guide Using a Mac</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/online-gratis-rmvb-naar-mov-veronstert-hoe-movavi-helpt-met-uw-videokonversie/"><u>Online Gratis RMVB Naar MOV Veronstert - Hoe Movavi Helpt Met Uw Videokonversie</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-services-not-responding-to-unlock-digital-purchases-again/"><u>Overcoming 'Steam Services Not Responding' To Unlock Digital Purchases Again</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-guide-transforming-mkv-files-into-mp4-format-using-adobe-media-encoder/"><u>Step-by-Step Guide: Transforming MKV Files Into MP4 Format Using Adobe Media Encoder</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-18-procesu-konverzace-video-mp4-na-dvd-windows-mac-a-online-preference/"><u>Top 18 Procesů Konverzace Video MP4 Na DVD - Windows, Mac a Online Preference</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transcodificador-de-video-online-gratuito-cambiar-de-mpeg-a-asf-utilizando-movavi/"><u>Transcodificador De Video Online Gratuito: Cambiar De MPEG a ASF Utilizando Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transform-your-mkv-videos-to-wma-file-type-at-no-cost-quick-guide-by-movieconverters/"><u>Transform Your MKV Videos to WMA File Type at No Cost - Quick Guide by MovieConverters</u></a></li>
 </ul></div>
 

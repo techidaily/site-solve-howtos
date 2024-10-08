@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Titles From Your Nook Library"
-date: 2024-10-01T09:18:59.516Z
-updated: 2024-10-03T11:56:32.150Z
+date: 2024-10-04T17:01:31.584Z
+updated: 2024-10-08T17:02:39.519Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8faac5e2796b198a9b431fdb.jpg
@@ -31,6 +31,13 @@ If your device is the first Nook edition, you should do this online website. But
 
 ![delete nook books to archive](http://www.epubor.com/images/uppic/delete-books-from-nook-to-archive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1Find "My Nook Library".
 
 You should firstly log into your Barnes&Noble account. Then click "My account" in the top right menu. Find "My Nook Library" and select that.
@@ -42,10 +49,10 @@ In the library you will see all your books are listed clearly. Press and hold on
 For this way you just remove your nook content from your device but the e-books remain in your B&N account and can be redownloaded at no charge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Situation 2: Delete books from Nook completely
@@ -58,13 +65,6 @@ Nearly the same as the steps at part 1, find your nook books you want to fullly 
 
 ![delete nook books to confirm](http://www.epubor.com/images/uppic/delete-nook-books.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Tips:** 
 
 1\. For deleting books from N1E, you'd better delete them from the account area of the web site.
@@ -72,15 +72,28 @@ Nearly the same as the steps at part 1, find your nook books you want to fullly 
 2\. Whatever you do on your device, don't forget to touch "Check for new B&N content" to **sync** your NOOK to your account after deleting some books.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Frequently asked questions about Nook
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Q: **How to delete Nook free samples?**
 
@@ -105,13 +118,6 @@ Download Nook Converter for free:
 * [How to Remove DRM from Nook](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -196,24 +202,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-15-innovative-choices-for-action-cams-excluding-gopro/"><u>[New] 15 Innovative Choices for Action Cams, Excluding GoPro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-changing-the-game-unveiling-top-6-in-nft-arts-and-culture/"><u>[New] Changing the Game Unveiling Top 6 in NFT Arts & Culture</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-ultimate-social-media-analysis-manual-for-decoding-ig-engagement-and-more-for-2024/"><u>[New] Ultimate Social Media Analysis Manual for Decoding IG Engagement and More for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-effectively-reduce-your-youtube-video-lengths/"><u>[Updated] 2024 Approved How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>[Updated] 2024 Approved Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-streaming-made-simple-tips-for-android-and-iphones/"><u>[Updated] Facebook Streaming Made Simple Tips for Android & iPhones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effizientes-drm-loschprogramm-fur-ebooks-auf-amazon-kindle-in-azw-format/"><u>Effizientes DRM-Löschprogramm Für eBooks Auf Amazon Kindle in AZW-Format</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-guide-transforming-your-epub-books-into-editable-word-files/"><u>Free Guide: Transforming Your ePub Books Into Editable Word Files</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guide-magnifying-and-enlarging-documents-in-kindle-for-easy-pdf-viewing/"><u>Guide: Magnifying & Enlarging Documents in Kindle for Easy PDF Viewing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-effortlessly-move-your-digital-library-across-kindle-devices/"><u>How to Effortlessly Move Your Digital Library Across Kindle Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-transform-your-acsm-file-into-an-epub-book-comprehensive-steps-and-tips/"><u>How to Transform Your ACSM File Into an EPUB Book: Comprehensive Steps and Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-15-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 15 Lock Screen</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ipad-ebooks-enjoying-read-mobile-app/"><u>IPad eBooks: Enjoying Read Mobile App</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-ebook-formats-an-in-depth-look-at-amazons-azw3-for-kindle-users/"><u>Mastering eBook Formats: An In-Depth Look at Amazon's AZW3 for Kindle Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/izing-your-youtube-potential-with-content-partnerships/"><u>Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/moving-your-book-collection-a-step-by-step-guide-to-adding-ebooks-to-the-ipad-kindle-app/"><u>Moving Your Book Collection: A Step-by-Step Guide to Adding Ebooks to the iPad Kindle App</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/multi-format-ebook-converter-seamless-transformation-from-kfx-to-epub-mobi-and-more/"><u>Multi-Format eBook Converter - Seamless Transformation From KFX to EPUB, MOBI & More!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/softwares-evolution-the-art-of-small-tweaks-vs-bold-changes/"><u>Software's Evolution: The Art of Small Tweaks vs Bold Changes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-captivating-youtube-thumbnails-for-mac-users/"><u>[New] 2024 Approved Creating Captivating YouTube Thumbnails for Mac Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-inside-look-at-vimeo-and-youtubes-market-strategies/"><u>[Updated] Inside Look at Vimeo and YouTube’s Market Strategies</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/come-convertire-senza-problemi-il-formato-di-file-audio-amr-in-mp3/"><u>Come Convertire Senza Problemi Il Formato Di File Audio AMR in MP3?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mechanism-of-gpt4all/"><u>Deciphering the Mechanism of GPT4All</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-tecno-spark-20-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Spark 20 Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-hero5-black-or-yi-comparing-top-actions-cameras/"><u>In 2024, Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/in-depth-analysis-of-beautifulai-evaluating-price-points-functionality-and-similar-software-options/"><u>In-Depth Analysis of Beautiful.AI: Evaluating Price Points, Functionality, & Similar Software Options</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movavi-conversor-flac-a-wma-livre-e-online/"><u>Movavi - Conversor FLAC a WMA Livre E Online!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-toolkit-for-ai-enthusiasts-gigabytes-advanced-workstation-systems-with-branded-motherboards-powerful-gpus-amd-and-intel-rapid-ssds-robust-psus-97/"><u>The Ultimate Toolkit for AI Enthusiasts: Gigabyte's Advanced Workstation Systems with Branded Motherboards, Powerful GPUs (AMD & Intel), Rapid SSDs, Robust PSUs + Efficient Local Training Software Suite</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transforma-tu-archivo-ts-en-mp4-gratuito-y-perfecto-el-metodo-mas-eficaz-para-la-conversion-online/"><u>Transforma Tu Archivo .TS en .MP4 Gratuito Y Perfecto: El Método Más Eficaz Para La Conversión Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-drone-list-to-maximize-gopro-video-quality/"><u>Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aac-m4r-moveavi/"><u>영구제를 이용한 무료 웹 연결 상호 작용을 위해 AAC M4R 파일 바인딩: MoveAVi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/vocwmv-movavi/"><u>オンラインで無料VOCをWMVに変換する簡単方法 - Movavi</u></a></li>
 </ul></div>
 

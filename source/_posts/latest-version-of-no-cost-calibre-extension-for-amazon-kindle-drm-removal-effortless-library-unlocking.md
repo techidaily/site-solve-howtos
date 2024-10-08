@@ -1,7 +1,7 @@
 ---
 title: Latest Version of No-Cost Calibre Extension for Amazon Kindle DRM Removal – Effortless Library Unlocking!
-date: 2024-09-23T18:00:27.525Z
-updated: 2024-09-28T01:22:21.230Z
+date: 2024-10-05T17:22:16.631Z
+updated: 2024-10-08T18:04:51.038Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c69e6ec9a49854fd1e940559.jpg
@@ -36,13 +36,6 @@ The DeDRM\_tools.zip you download from Github should be unzipped. After you unzi
 
 ![DeDRM plugin](https://www.epubor.com/images/uppic/dedrm-plugin-zip-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then run Calibre, click "Preference" >> "Plugins" >> "Load flugin from file" >> add the DeDRM\_plugin.zip file to Calibre. Follow the procedure and you'll find the DeDRM plugin has been added under the "File Type" option.
 
 ![calibre DRM Removal Plugin](https://www.epubor.com/images/uppic/dedrm-location.png)
@@ -68,10 +61,10 @@ When the Kindle books are prepared, run Calibre, click "Add books" to upload you
 ![add book to calibre](http://www.epubor.com/images/uppic/add-books.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2**Remove DRM from Kindle books**.
@@ -80,13 +73,20 @@ If your books are downloaded from Kindle desktop app, Amazon site or Kindle devi
 
 ![remove drm with calibre drm removal plugin](http://www.epubor.com/images/uppic/remove-drm-from-kindle-kfx-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](http://www.epubor.com/images/faq.png) FAQ: Failed to remove Kindle DRM with Calibre 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### I cannot remove DRM from the Kindle books downloaded from Kindle for PC/Mac or from my Kindle device. Why? 
@@ -94,13 +94,6 @@ If your books are downloaded from Kindle desktop app, Amazon site or Kindle devi
 Ensure you've sucessfully installed the Calibre and plugins(both the dedrm plugin and the kfx-zip plugin), and then download your kindle books to computer via the latest Kindle PC or Mac. 
 
 ![](http://www.epubor.com/images/uppic/the-book-has-drm.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 But please note that, the Calibre plugin won't detect your downloaded books. It means you must find the [kindle books location](https://tools.techidaily.com/epubor/products/) first and then drag them to calibre library. If you added the incorrect book file, you may fail to dedrm your kindle books. 
 
@@ -130,6 +123,19 @@ As the image shows, Epubor Ultimate can automatically recognize all your existin
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -381,15 +387,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-top-mp4-to-fb-transcoder/"><u>[New] 2024 Approved Top MP4-to-FB Transcoder</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>[Updated] Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>2024 Approved Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-ideal-selfie-sticks-for-iphone-users/"><u>2024 Approved Ideal Selfie Sticks for iPhone Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ipad-ebooks-enjoying-read-mobile-app/"><u>IPad eBooks: Enjoying Read Mobile App</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-ebook-formats-an-in-depth-look-at-amazons-azw3-for-kindle-users/"><u>Mastering eBook Formats: An In-Depth Look at Amazon's AZW3 for Kindle Users</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/moving-your-book-collection-a-step-by-step-guide-to-adding-ebooks-to-the-ipad-kindle-app/"><u>Moving Your Book Collection: A Step-by-Step Guide to Adding Ebooks to the iPad Kindle App</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/multi-format-ebook-converter-seamless-transformation-from-kfx-to-epub-mobi-and-more/"><u>Multi-Format eBook Converter - Seamless Transformation From KFX to EPUB, MOBI & More!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-easyslides-studio-your-ultimate-guide-to-creating-stunning-presentations/"><u>1. EasySlides Studio: Your Ultimate Guide to Creating Stunning Presentations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/conversion-gratuite-de-m1v-en-format-ligne-tapez-a-lordinateur-avec-movavi/"><u>Conversion Gratuite De M1V en Format Ligne - Tapez À L'Ordinateur Avec Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-pc-crashes-in-cult-of-the-lamb-game/"><u>Expert Advice: Addressing and Correcting PC Crashes in Cult of the Lamb Game</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/i-tre-metodi-rapidi-per-accelerare-la-visualizzazione-di-un-video-nel-2024-ottimizzati-per-seo/"><u>I Tre Metodi Rapidi Per Accelerare La Visualizzazione Di Un Video Nel 2024 - Ottimizzati per SEO</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>In 2024, Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-13-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 13 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-f25-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo F25 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/passos-faceis-para-solucionar-problemas-de-overcarga-no-software-obs-tutoriais-detalhados/"><u>Passos Fáceis Para Solucionar Problemas De Overcarga No Software OBS: Tutoriais Detalhados</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/quick-trimming-techniques-a-step-by-step-movavi-clips-walkthrough-for-speedy-video-editing-on-android-devices/"><u>Quick Trimming Techniques: A Step-by-Step Movavi Clips Walkthrough for Speedy Video Editing on Android Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/small-yet-mighty-review-of-the-powershot-g7x-ii/"><u>Small Yet Mighty: Review of the PowerShot G7X II</u></a></li>
 </ul></div>
 

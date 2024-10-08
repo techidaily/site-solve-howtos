@@ -1,7 +1,7 @@
 ---
 title: "Guide Complet: Comment Accéder Et Lire Des Livres Google en Mode Ebook Sur Amazon Fire"
-date: 2024-09-25T18:56:58.552Z
-updated: 2024-10-02T17:57:53.450Z
+date: 2024-10-01T18:13:41.484Z
+updated: 2024-10-08T16:37:37.867Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f904615df4dae698bbf74beb.jpg
@@ -18,10 +18,16 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 Google a ouvert son magasin des eBooks au Royaume-Uni, le magasin comprend eBooks viennent de Hachette Maison, Random et Penguin, ainsi que plus de deux millions eBooks de domaine public. Il est prévu d'ouvrir son eBookStore dans plus de pays, dont le Canada et l'Australie dans les prochains mois. Google eBooks ne peuvent pas être lus sur l'appareil populaire Amazon Kindl, parce que le Kindle ne reconnaît pas le format ePub adoptée par Google. Google annonce leur livres utilisent le **DRM d'Adobe Adepte**. Si vous voulez lire des Google eBooks sur le Kindle Fire, vous devriez [supprimer les DRM](https://tools.techidaily.com/epubor/products/)premièrement, puis convertir le ePub.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment lire Google eBooks sur Kindle Fire
@@ -30,10 +36,10 @@ Google a ouvert son magasin des eBooks au Royaume-Uni, le magasin comprend eBook
 ![ADE ePUB&PDF DRM Removal](https://www.epubor.com/images/adobedrmremoval.jpg "epub&pdf drm removal")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Etape 2**: Après que vous sélectionnez les fichiers, cliquez "unDRM directory", vous pouvez obtenir les fichiers sans DRM.
@@ -52,10 +58,16 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
 * [Supprimer DRM iBooks](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Appareils de lecture supportés par Google eBookStore:
@@ -72,10 +84,10 @@ Avec [Adobe DRM Removal](https://tools.techidaily.com/epubor/products/)et [EPUB2
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
   
@@ -98,18 +110,20 @@ Copyright © 2011-2021 www.epubor.com. Tous droits réservés.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-get-started-with-ease-facebook-insight-basics-for-2024/"><u>[New] Get Started with Ease Facebook Insight Basics for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-xcover-6-pro-tactical-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy XCover 6 Pro Tactical Edition System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/avs/"><u>網路無限量的免費AVS轉寫 - 動靜音</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/best-no-cost-mac-image-manipulation-programs-an-extensive-guide/"><u>Best No-Cost Mac Image Manipulation Programs: An Extensive Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-mkv-converter-upload-and-convert-videos-effortlessly/"><u>Free Online MKV Converter - Upload and Convert Videos Effortlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-efficient-is-chatgpt-in-identifying-grammatical-errors-during-proofreading/"><u>How Efficient Is ChatGPT in Identifying Grammatical Errors During Proofreading?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-connect-remote-desktop-without-a-password-in-windows-11/"><u>How to Connect Remote Desktop Without a Password in Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/las-herramientas-de-reproduccion-mas-eficaces-para-swf-en-windows-n-y-mac/"><u>Las Herramientas De Reproducción Más Eficaces Para SWF en Windows N Y Mac</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-marvels-avengers-a-comprehensive-review-beyond-mediocre-expectations/"><u>Navigating Through Marvel's Avengers: A Comprehensive Review Beyond Mediocre Expectations</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp-for-2024/"><u>Smooth Cuts Ahead 3 Ways to Master Transitions in FCP for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/trasforma-i-tuoi-file-mxf-in-formato-mkv-senza-costi-con-il-servizio-di-conversione-online-gratuito-movavi/"><u>Trasforma I Tuoi File MXF in Formato MKV Senza Costi Con Il Servizio Di Conversione Online Gratuito - Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1726222516189-wmvmp4-movavi/"><u>무료 서비스로 영상 형식을 바꿀 수 있는 WMV/MP4 변환 방법 - Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-premium-viewership-the-ultimate-youtube-wealth/"><u>[New] 2024 Approved Premium Viewership The Ultimate YouTube Wealth</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>[New] In 2024, From Watch List to Download YouTube Playlist in Minutes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-key-elements-in-asmr-video-content/"><u>[Updated] Key Elements in ASMR Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285222603-2024/"><u>2024 上看优先：全新领先的无偿录制软件列表</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comprehensive-guide-understanding-the-meaning-and-significance-of-requiem-qanda/"><u>Comprehensive Guide: Understanding the Meaning and Significance of Requiem - Q&A</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-correct-audio-video-misalignment-problems-on-your-windows-11-pc/"><u>How to Correct Audio-Video Misalignment Problems on Your Windows 11 PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-instagram-groups-with-one-move/"><u>In 2024, Mastering Instagram Groups with One Move</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-sony-xperia-10-v-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Sony Xperia 10 V Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlining-media-files-from-xmltxt-to-srt-mastery-for-2024/"><u>Streamlining Media Files From XML/TXT to SRT Mastery for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-downloading-manga-digitally-onto-your-kobo-device/"><u>Ultimate Guide: Downloading Manga Digitally Onto Your Kobo Device</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/understanding-file-management-and-organization-techniques/"><u>Understanding File Management & Organization Techniques</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-kindle-library-how-to-bypass-drm-on-azw3-books-for-the-newest-edition-year-2024/"><u>Unlocking Your Kindle Library: How to Bypass DRM on AZW3 Books for the Newest Edition (Year 2024)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-pdfs-step-by-step-guide-to-bypassing-adobes-drm-protection/"><u>Unlocking Your PDFs: Step-by-Step Guide to Bypassing Adobe's DRM Protection</u></a></li>
 </ul></div>
 

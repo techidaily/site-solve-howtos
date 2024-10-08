@@ -1,7 +1,7 @@
 ---
 title: How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide
-date: 2024-09-30T22:55:49.532Z
-updated: 2024-10-02T22:16:42.728Z
+date: 2024-10-06T17:19:48.101Z
+updated: 2024-10-08T18:24:51.887Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de84f78ea466db32363417497.jpg
@@ -33,9 +33,23 @@ Ma come si fa? Scommetto che cerchi una soluzione da molto tempo. Non ti preoccu
 
 2\. Scarica libri Kindle in formato decifrato (vecchio kfx o azw3).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prima cosa da fare: Scaricare gli ebooks Kindle(su PC / Mac)
 
 La primissima cosa da fare è quella di scaricare i libri Kindle sul computer. Se hai un lettore Kindle ti basterà collegare il lettore al pc e scaricare i libri. Se non hai il lettore Kindle, installa il programma Kindle per PC o Mac. Lancia l’app Kindle, fai il login con il tuo account Amazon e attendi che l’app sincronizza tutti i libri che hai comprato. Ti basterà fare doppio clic su ogni libro per scaricarlo. Una volta che tutti i libri sono stati scaricati nell’app Kindle, puoi chiuderla e troverai i files dei libri nelle seguenti cartelle: [Dove sono memorizzati i libri Kindle su PC / MAC / Android.](https://tools.techidaily.com/epubor/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Metodo 1: Rimuovere DRM dagli ebooks Kindle con un plugin di Calibre
 
@@ -53,6 +67,13 @@ Dopo aver avuto successo, il plug-in è stato installato. Calibre aggiungerà qu
 
 ![plugin Tipo di file](https://epubor.com/images/uppic/plugin-tipo-di-file.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Passo 2: Importa gli ebooks protetti su Calibre.
 
 Se i tuoi libri kindle sono scaricati con la Kindle desktop app, importa i tuoi libri scaricati su Calibre, ed il DRM sarà rimosso automaticamente. Ma se hai aggiunto libri a Calibre prima, è meglio importarli di nuovo. A lavoro fatto, puoi cliccare "Fai clic per aprire" sul lato destro, per avere una preview in Calibre.
@@ -61,25 +82,11 @@ Se i tuoi libri Kindle sono scaricati dal Kindle eReaders, devi personalizzare i
 
 ![Configura il pllugin eInk Kindle](https://epubor.com/images/uppic/configura-il-plugin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Aggiornamento:** 
 
 Per convertire i libri Kindle, è necessario aggiungere a Calibre non solo il plug-in dedrm ma anche il [plug-in di input kfx](https://tools.techidaily.com/epubor/products/). 
 
 I plugin Calibre DeDRM non funzioneranno più con i libri Kindle KFX se l'app Kindle per PC viene aggiornata alla versione 2.4.1 (70946). Reinstalla 2.4.70904, che funziona come prima, oppure puoi anche provare a usare Epubor Ultimate come alternativa migliore. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Metodo 2: Rimuovi il DRM da un libro Kindle con Shareware
 
@@ -95,13 +102,6 @@ Passo 2 Avvia Epubor Ultimate sul tuo computer. Una volta aperto, vedrai tutti i
 
 ![kindle drm 2019](https://epubor.com/images/uppic/kindle-drm-2019.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nota: Epubor Ultimate per Mac non funziona per tutti i libri Kindle scaricati tramite l'app Kindle per Mac perché alcuni di essi saranno in formato .kcr, non .azw. Nella maggior parte dei casi, questi libri sono manga o fumetti kindle. 
 
 Per [convertire i fumetti kindle in pdf/epub su Mac](https://tools.techidaily.com/epubor/products/), è meglio utilizzare Epubor Kindle Converter. 
@@ -115,10 +115,10 @@ Passo 3 Aggiungi gli ebooks kindle dalla colonna di sinistra alla finestra princ
 ![epubor kcr rimozione del drm](https://epubor.com/images/uppic/rimozione-del-drm-epubor-kcr.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Rimuovi Kindle DRM dai recenti libri Kindle pubblicati nel 2023 
@@ -411,24 +411,16 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-essential-list-the-10-leading-vimeo-downloaders-web/"><u>[New] 2024 Approved Essential List The 10 Leading Vimeo Downloaders Web</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms/"><u>[New] In 2024, Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-10-steps-to-optimize-your-insta-storytelling-for-2024/"><u>[New] The Ultimate 10 Steps to Optimize Your Insta Storytelling for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-access-an-array-of-personalized-ending-sounds-for-videos-for-2024/"><u>[Updated] Access an Array of Personalized Ending Sounds for Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mobile-youtube-watching-iphone-and-android-edition-for-2024/"><u>[Updated] Mobile YouTube Watching IPhone & Android Edition for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-shade-portraits-with-orbital-illumination-technique-cs/"><u>2024 Approved Shade Portraits with Orbital Illumination Technique CS</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/elige-el-sonido-perfecto-top-8-mejores-microfones-especialmente-disenados-para-crear-contenidos-en-youtube/"><u>Elige El Sonido Perfecto: Top 8 Mejores Microfones Especialmente Diseñados Para Crear Contenidos en YouTube</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/exploring-the-latest-features-of-movavi-video-suite-whats-fresh/"><u>Exploring the Latest Features of Movavi Video Suite: What's Fresh?</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratis-cel-mai-potentialul-ajutor-pentru-editarea-video-software-cel-mai-usor-de-usat-pentru-windows-7-in-anul-2024/"><u>Gratis Cel Mai Potențialul Ajutor Pentru Editarea Video - Software Cel Mai Ușor De Usat Pentru Windows 7 În Anul 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratuit-konvertereen-wmv-naar-3gp-online-movavi-video-converter/"><u>Gratuit Konvertereen WMV Naar 3GP Online - Movavi Video Converter</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/hoe-je-een-zoom-meeting-aanvangt-8-steps-voor-success-kunt-u-ze-leren/"><u>Hoe Je Een Zoom-Meeting Aanvangt: 8 Steps Voor Success - Kunt U Ze Leren?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nubia-z50s-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nubia Z50S Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-oppo-find-x7-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Oppo Find X7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-neowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Neowith/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-t2-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo T2 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/kepfelbedezes-ezert-jar-enkategoriaknal-sokakep-szine-erzsebtortenete-tokeletessege/"><u>Képfelbédezés Ezért Jár Énkategóriáknál Sokakép Színe Erzsebtörténete Tökéletessége</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/onlinelastige-avi-video-conversie-naar-mjpeg-met-movevi-convert-tool/"><u>Onlinelastige AVI-Video-Conversie Naar MJPEG Met MoveVI Convert Tool</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-17-video-editing-software-the-ultimate-guide-for-online-creators/"><u>Top 17 Video Editing Software: The Ultimate Guide for Online Creators</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ogg-mp3/"><u>무료 OGG 오피스 통화를 MP3로 구성하기 – 모바니아 앱 자습금</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unwrapped-in-depth-look-at-screenflow-v4-on-macos/"><u>[New] In 2024, Unwrapped In-Depth Look at ScreenFlow v4 on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/curated-list-of-great-teen-movies-to-watch-on-netflix/"><u>Curated List of Great Teen Movies to Watch on Netflix</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle-for-2024/"><u>Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/download-and-enjoy-free-audiobooks-anytime-anywhere-best-apps-for-android-devices/"><u>Download & Enjoy Free Audiobooks Anytime, Anywhere: Best Apps for Android Devices</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/efficient-methods-for-converting-and-sending-e-books-directly-to-your-amazon-kindle-reader/"><u>Efficient Methods for Converting and Sending E-Books Directly to Your Amazon Kindle Reader</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/exploring-unknown-drm-understanding-digital-rights-management-secrets/"><u>Exploring Unknown DRM: Understanding Digital Rights Management Secrets</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/find-and-order-classic-literature-through-the-google-books-library-collection/"><u>Find and Order Classic Literature Through the Google Books Library Collection</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-v29e-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo V29e Phone | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/how-to-seamlessly-sync-songs-from-your-windows-pc-to-iphone/"><u>How to Seamlessly Sync Songs From Your Windows PC to iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds/"><u>In 2024, Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds</u></a></li>
 </ul></div>
 
