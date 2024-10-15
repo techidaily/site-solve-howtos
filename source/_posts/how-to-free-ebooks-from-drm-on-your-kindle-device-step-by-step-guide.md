@@ -1,7 +1,7 @@
 ---
 title: How to Free Ebooks From DRM on Your Kindle Device - Step by Step Guide
-date: 2024-10-06T17:19:48.101Z
-updated: 2024-10-08T18:24:51.887Z
+date: 2024-10-08T00:04:35.359Z
+updated: 2024-10-14T21:25:44.163Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de84f78ea466db32363417497.jpg
@@ -34,22 +34,15 @@ Ma come si fa? Scommetto che cerchi una soluzione da molto tempo. Non ti preoccu
 2\. Scarica libri Kindle in formato decifrato (vecchio kfx o azw3).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prima cosa da fare: Scaricare gli ebooks Kindle(su PC / Mac)
 
 La primissima cosa da fare è quella di scaricare i libri Kindle sul computer. Se hai un lettore Kindle ti basterà collegare il lettore al pc e scaricare i libri. Se non hai il lettore Kindle, installa il programma Kindle per PC o Mac. Lancia l’app Kindle, fai il login con il tuo account Amazon e attendi che l’app sincronizza tutti i libri che hai comprato. Ti basterà fare doppio clic su ogni libro per scaricarlo. Una volta che tutti i libri sono stati scaricati nell’app Kindle, puoi chiuderla e troverai i files dei libri nelle seguenti cartelle: [Dove sono memorizzati i libri Kindle su PC / MAC / Android.](https://tools.techidaily.com/epubor/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Metodo 1: Rimuovere DRM dagli ebooks Kindle con un plugin di Calibre
 
@@ -67,13 +60,6 @@ Dopo aver avuto successo, il plug-in è stato installato. Calibre aggiungerà qu
 
 ![plugin Tipo di file](https://epubor.com/images/uppic/plugin-tipo-di-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Passo 2: Importa gli ebooks protetti su Calibre.
 
 Se i tuoi libri kindle sono scaricati con la Kindle desktop app, importa i tuoi libri scaricati su Calibre, ed il DRM sarà rimosso automaticamente. Ma se hai aggiunto libri a Calibre prima, è meglio importarli di nuovo. A lavoro fatto, puoi cliccare "Fai clic per aprire" sul lato destro, per avere una preview in Calibre.
@@ -81,6 +67,19 @@ Se i tuoi libri kindle sono scaricati con la Kindle desktop app, importa i tuoi 
 Se i tuoi libri Kindle sono scaricati dal Kindle eReaders, devi personalizzare il plugin ed inserire le informazioni del KSN.
 
 ![Configura il pllugin eInk Kindle](https://epubor.com/images/uppic/configura-il-plugin.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Aggiornamento:** 
 
@@ -102,6 +101,13 @@ Passo 2 Avvia Epubor Ultimate sul tuo computer. Una volta aperto, vedrai tutti i
 
 ![kindle drm 2019](https://epubor.com/images/uppic/kindle-drm-2019.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nota: Epubor Ultimate per Mac non funziona per tutti i libri Kindle scaricati tramite l'app Kindle per Mac perché alcuni di essi saranno in formato .kcr, non .azw. Nella maggior parte dei casi, questi libri sono manga o fumetti kindle. 
 
 Per [convertire i fumetti kindle in pdf/epub su Mac](https://tools.techidaily.com/epubor/products/), è meglio utilizzare Epubor Kindle Converter. 
@@ -113,13 +119,6 @@ Passo 3 Aggiungi gli ebooks kindle dalla colonna di sinistra alla finestra princ
 * Epubor Ultimate è anche in grado di rimuovere DRM da ePub e PDF.
 
 ![epubor kcr rimozione del drm](https://epubor.com/images/uppic/rimozione-del-drm-epubor-kcr.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Rimuovi Kindle DRM dai recenti libri Kindle pubblicati nel 2023 
 
@@ -137,6 +136,13 @@ Per utilizzare questo metodo, attenersi alla seguente procedura:
 * Passo 4: Scarica e installa Epubor Kindle Converter e rimuovi drm con esso.
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
@@ -411,16 +417,16 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unwrapped-in-depth-look-at-screenflow-v4-on-macos/"><u>[New] In 2024, Unwrapped In-Depth Look at ScreenFlow v4 on macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/curated-list-of-great-teen-movies-to-watch-on-netflix/"><u>Curated List of Great Teen Movies to Watch on Netflix</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle-for-2024/"><u>Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/download-and-enjoy-free-audiobooks-anytime-anywhere-best-apps-for-android-devices/"><u>Download & Enjoy Free Audiobooks Anytime, Anywhere: Best Apps for Android Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/efficient-methods-for-converting-and-sending-e-books-directly-to-your-amazon-kindle-reader/"><u>Efficient Methods for Converting and Sending E-Books Directly to Your Amazon Kindle Reader</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/exploring-unknown-drm-understanding-digital-rights-management-secrets/"><u>Exploring Unknown DRM: Understanding Digital Rights Management Secrets</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/find-and-order-classic-literature-through-the-google-books-library-collection/"><u>Find and Order Classic Literature Through the Google Books Library Collection</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-v29e-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo V29e Phone | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-seamlessly-sync-songs-from-your-windows-pc-to-iphone/"><u>How to Seamlessly Sync Songs From Your Windows PC to iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds/"><u>In 2024, Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[New] 2024 Approved The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-sky-drones-their-genres/"><u>[New] In 2024, Sky Drones Their Genres</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy/"><u>[Updated] 2024 Approved The Essentials of Setting Up & Assessing FB Instream Ad Efficacy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-the-process-of-adding-fonts-to-ae-projects/"><u>[Updated] Breaking Down the Process of Adding Fonts to AE Projects</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1726227960967-rw2jpg-movavi/"><u>移動顯示無限制的RW2到JPG圖片 - 利用Movavi自由轉換器</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/can-you-find-chinese-language-audiobooks-on-audible/"><u>Can You Find Chinese Language Audiobooks on Audible?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convert-audio-file-from-aac-to-flac-for-free-on-the-web-with-fastvideoeditingcom/"><u>Convert Audio File From AAC to FLAC for Free on the Web with FastVideoEditing.com</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/dicas-para-criar-aulas-digitais-ativas-e-envolventes-com-movavi/"><u>Dicas Para Criar Aulas Digitais Ativas E Envolventes Com Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-printmanagement-module-missing-on-pcs/"><u>Fixing 'PrintManagement' Module Missing on PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-complet-comprendre-les-fichiers-cr2-et-techniques-pour-les-ouvrir-sans-probleme/"><u>Guide Complet : Comprendre Les Fichiers CR2 Et Techniques Pour Les Ouvrir Sans Problème.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2plus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2+ Phone without Google Account?</u></a></li>
 </ul></div>
 

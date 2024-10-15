@@ -1,7 +1,7 @@
 ---
 title: Free Online MPEG to AVI Converter by Movavi - No Cost, Fast and Reliable
-date: 2024-10-02T17:22:50.102Z
-updated: 2024-10-08T18:20:57.075Z
+date: 2024-10-08T22:47:41.741Z
+updated: 2024-10-14T22:17:11.475Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e745335912f33acca5ea34e31.jpg
@@ -166,13 +166,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -198,6 +191,13 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -243,15 +243,22 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
@@ -283,6 +290,19 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -324,13 +344,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -344,6 +357,13 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -374,16 +394,10 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
@@ -438,10 +452,10 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
@@ -451,13 +465,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -517,10 +524,10 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -546,13 +553,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -607,24 +607,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>[New] 2024 Approved Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficiently-capture-whatsapp-chat-a-step-by-step-tutorial/"><u>[New] 2024 Approved Efficiently Capture WhatsApp Chat A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] In 2024, From Novice to Master The Ultimate Periscope Handbook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-thumbnail-insight-top-picks-for-maximizing-video-visibility/"><u>[New] Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-8-best-facebook-scheduler-to-improve-efficiency/"><u>[Updated] 2024 Approved 8 Best Facebook Scheduler to Improve Efficiency</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-mp4-downloading-vimeo-videos-easily/"><u>[Updated] Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/oggmp4-movavi/"><u>直接在线无限制将OGG转换为MP4 - Movavi 免费射频器</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-poco-c65-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco C65 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/conversion-audio-mpe-vers-mp3-sans-frais-guide-complet-avec-movavi/"><u>Conversion Audio MPE Vers MP3 Sans Frais - Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/converta-imagens-em-formatos-gif-e-flv-sem-custos-com-o-online-conversor-da-movavi/"><u>Converta Imagens Em Formatos GIF E FLV Sem Custos Com O Online Conversor Da Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertidor-en-linea-gratuito-caf-a-formatos-m4amp3-por-movavi-sin-coste-alguno/"><u>Convertidor en Línea Gratuito CAF a Formatos M4A/MP3 Por Movavi Sin Coste Alguno</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertir-musica-flac-a-mp4-facilmente-y-sin-costo-utilizando-movavi/"><u>Convertir Música FLAC a MP4 Fácilmente Y Sin Costo Utilizando Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertissez-gratuitement-des-films-avimp4mov-en-animations-gif-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Des Films AVI/MP4/MOV en Animations GIF en Ligne Avec Movavi</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-aplus-covers-ranking-the-best-photo-making-websites/"><u>Facebook's A+ Covers Ranking the Best Photo Making Websites</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-converter-transform-apng-files-into-png-format-with-ease/"><u>Free Online Converter: Transform APNG Files Into PNG Format with Ease</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-s23plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Itel S23+ to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reviving-rarities-your-guide-to-scanning-and-storing-age-old-photos/"><u>In 2024, Reviving Rarities Your Guide to Scanning and Storing Age-Old Photos</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/online-gratis-conversion-of-mkv-to-flac-formats-movievi/"><u>Online Gratis Conversion of MKV to FLAC Formats - Movievi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/os-melhores-programas-para-transferencia-de-tela-em-2023-analise-detalhada-por-movavi/"><u>Os Melhores Programas Para Transferência De Tela Em 2023 - Análise Detalhada Por Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-freedom-in-editing-the-top-free-fx-websites/"><u>[New] 2024 Approved Freedom in Editing The Top Free FX Websites</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/dvanced-array-manipulations-and-sorting-algorithms/"><u>[New] Advanced Array Manipulations and Sorting Algorithms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>[New] Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-gif-retrieval-3-easy-methods-for-pcs/"><u>[New] In 2024, Twitter Gif Retrieval 3 Easy Methods for PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-transforming-footage-your-guide-to-ken-burns-in-camtasa-9/"><u>2024 Approved Transforming Footage Your Guide to Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aiffm4v-movavi/"><u>無需付錢，網上自行AIFF音樂文件變M4V圖形 - Movavi 解決方案指南</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/accessing-google-play-books-on-your-ipad-a-comprehensive-guide/"><u>Accessing Google Play Books on Your iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/best-methods-for-extracting-drm-from-topaz-books-a-guide-to-freeing-your-content/"><u>Best Methods for Extracting DRM From Topaz Books: A Guide to Freeing Your Content</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/can-you-transfer-your-kindle-unlimited-library-using-epubor-ultimate/"><u>Can You Transfer Your Kindle Unlimited Library Using Epubor Ultimate?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/detailed-analysis-life-in-spiral-with-gear-360-cam/"><u>Detailed Analysis Life in Spiral with Gear 360 Cam</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/easy-conversion-techniques-from-html-to-epub-readers-for-ipad-android-and-more/"><u>Easy Conversion Techniques: From HTML to EPUB Readers for iPad, Android, and More</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/expert-advice-on-bypassing-the-barrier-liberate-your-ebooks-from-nooks-drm-today/"><u>Expert Advice on Bypassing the Barrier: Liberate Your Ebooks From Nook's DRM Today!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-way-to-transform-your-pdfs-into-jpeg-images-on-a-mac/"><u>Free Way to Transform Your PDFs Into JPEG Images on a Mac</u></a></li>
 </ul></div>
 
