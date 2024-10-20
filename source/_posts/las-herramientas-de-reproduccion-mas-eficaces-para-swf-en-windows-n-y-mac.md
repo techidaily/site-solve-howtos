@@ -1,7 +1,7 @@
 ---
 title: Las Herramientas De Reproducción Más Eficaces Para SWF en Windows N Y Mac
-date: 2024-10-10T22:04:53.732Z
-updated: 2024-10-14T20:48:15.741Z
+date: 2024-10-16T00:20:22.982Z
+updated: 2024-10-20T10:03:54.164Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907c56db6f2e6e81070455269a.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -214,6 +221,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,6 +235,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -236,9 +257,23 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -298,13 +333,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -331,20 +359,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -355,23 +376,9 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -430,18 +437,18 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -450,10 +457,10 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -503,19 +510,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -607,24 +601,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/1-free-youtube-playlist-downloaders-onlinepcandroidios-for-2024/"><u>[New] 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS] for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[New] 2024 Approved Behind the Scenes How Much Creators Earn From YouTube Shorts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-growth-in-the-grove-top-7-stardew-valley-addons/"><u>[New] 2024 Approved Growth in the Grove Top 7 Stardew Valley Addons</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-architects-of-online-marvel-adventures/"><u>[New] In 2024, Architects of Online Marvel Adventures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-smart-way-to-store-video-meetings-on-devices/"><u>[Updated] The Smart Way to Store Video Meetings on Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1726226545642-mpeg-movavi/"><u>網路無限MPEG影片格式自由切換服務 - Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/conversion-audio-mpe-vers-mp3-sans-frais-guide-complet-avec-movavi/"><u>Conversion Audio MPE Vers MP3 Sans Frais - Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-conversion-transforming-aif-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming AIF Files Into Ogg Format with Ease</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratis-online-converting-mpe-zu-avi-formaten-mit-movavi-schritt-fur-schritt-anleitung/"><u>Gratis Online Converting MPE Zu Avi-Formaten Mit Movavi: Schritt-Für-Schritt Anleitung</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-para-transferir-videos-al-imovie-elegante-solucion-de-conversion/"><u>Guía Para Transferir Videos Al iMovie: Elegante Solución De Conversión</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apple-can-revive-vision-pro-success-with-three-key-actions-insights/"><u>How Apple Can Revive Vision Pro Success with Three Key Actions - Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-google-pixel-8-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Google Pixel 8 Activity | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 Fingerprint Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-flight-simulator-2020-understanding-and-preventing-sudden-shutdowns-on-pc/"><u>Microsoft Flight Simulator 2020: Understanding and Preventing Sudden Shutdowns on PC</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/online-gratis-rmvb-naar-mov-veronstert-hoe-movavi-helpt-met-uw-videokonversie/"><u>Online Gratis RMVB Naar MOV Veronstert - Hoe Movavi Helpt Met Uw Videokonversie</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-18-procesu-konverzace-video-mp4-na-dvd-windows-mac-a-online-preference/"><u>Top 18 Procesů Konverzace Video MP4 Na DVD - Windows, Mac a Online Preference</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transcodificador-de-video-online-gratuito-cambiar-de-mpeg-a-asf-utilizando-movavi/"><u>Transcodificador De Video Online Gratuito: Cambiar De MPEG a ASF Utilizando Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transform-your-mkv-videos-to-wma-file-type-at-no-cost-quick-guide-by-movieconverters/"><u>Transform Your MKV Videos to WMA File Type at No Cost - Quick Guide by MovieConverters</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/trasforma-file-jpg-in-png-senza-costi-scopri-come-usare-movavi-per-una-conversione-rapida-e-facile-online/"><u>Trasforma File JPG in PNG Senza Costi - Scopri Come Usare Movavi per Una Conversione Rapida E Facile Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-insightful-guide-to-using-showmore-for-professional-screen-recording/"><u>[New] Insightful Guide to Using ShowMore for Professional Screen Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-premium-cutters-the-8-must-have-linux-apps/"><u>[Updated] Premium Cutters The 8 Must-Have Linux Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>[Updated] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/due-metodi-rapidi-per-trasferire-windows-nova-versione-dal-tuo-attuale-ssd-ad-uno-nuovo/"><u>Due Metodi Rapidi per Trasferire Windows Nova Versione Dal Tuo Attuale SSD Ad Uno Nuovo</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/excel-data-recovery-guide-fur-nicht-gespeicherte-dateien-auf-windows-11/"><u>Excel Data Recovery Guide Für Nicht Gespeicherte Dateien Auf Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 13 Pro | Stellar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y36i-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y36i?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/les-6-solutions-pour-resoudre-les-erreurs-de-lecture-du-disque-sous-windows-vista-a-lere-des-versions-modernes/"><u>Les 6 Solutions Pour Résoudre Les Erreurs De Lecture Du Disque Sous Windows Vista À L’ère Des Versions Modernes</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/resolucion-de-problemas-para-la-pantalla-negra-con-el-raton-despues-del-login-en-windows-11/"><u>Resolución De Problemas Para La Pantalla Negra Con El Ratón Después Del Login en Windows 11</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/revive-your-windows-1011-display-top-4-methods-for-changing-wallpaper-and-background/"><u>Revive Your Windows 10/11 Display: Top 4 Methods for Changing Wallpaper & Background</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-ranked-free-software-best-hotmail-data-recovery-apps-on-windows/"><u>Top Ranked Free Software: Best Hotmail Data Recovery Apps on Windows</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/two-effective-methods-for-safeguarding-your-files-backing-up-data-prior-to-hard-drive-swap-on-windows-10/"><u>Two Effective Methods for Safeguarding Your Files: Backing Up Data Prior to Hard Drive Swap on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-optimizing-your-viewing-experience-super-bowl-on-screen/"><u>Ultimate Guide: Optimizing Your Viewing Experience - Super Bowl on Screen</u></a></li>
 </ul></div>
 
