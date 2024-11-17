@@ -1,7 +1,7 @@
 ---
 title: "Understanding Consumer Responses: Insights Into Email Engagement From 2011 Using MassMail Pro"
-date: 2024-11-04T19:43:13.258Z
-updated: 2024-11-06T21:30:22.390Z
+date: 2024-11-11T23:19:16.910Z
+updated: 2024-11-16T16:35:42.619Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,9 +32,23 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,10 +65,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -84,6 +91,13 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -91,13 +105,6 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -107,13 +114,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -122,15 +122,28 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -140,19 +153,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,24 +173,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-compreeved-guide-to-creating-stellar-youtube-outros/"><u>[New] 2024 Approved Compreeved Guide to Creating Stellar YouTube Outros</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamline-your-meetings-the-use-of-snap-camera-on-teams/"><u>[New] 2024 Approved Streamline Your Meetings The Use of Snap Camera on Teams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>2024 Approved Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-eye-popping-fb-ad-videos/"><u>2024 Approved Strategies for Eye-Popping FB Ad Videos</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/2ssd4k/"><u>2つのシンプルな手順でSSD上の4K画像を最適化する</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accelerating-your-internet-connection-expert-tips-for-faster-online-speeds/"><u>Accelerating Your Internet Connection: Expert Tips for Faster Online Speeds</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/background-noise-begone-mastering-audio-editing-in-final-cut-pro-x-for-2024/"><u>Background Noise Begone! Mastering Audio Editing in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/behebung-von-problemen-microsd-karten-hangezeiten-dauerhaft-vermeiden/"><u>Behebung Von Problemen: MicroSD-Karten-Hängezeiten Dauerhaft Vermeiden</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/come-ripristinare-i-tuoi-dati-iphone-senza-un-backup/"><u>Come Ripristinare I Tuoi Dati iPhone Senza Un Backup</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comment-installer-facilement-windows-e-10-en-utilisant-une-cle-usb-et-un-nouvel-disque-dur-tutoriel-etape-par-etape/"><u>Comment Installer Facilement Windows E 10 en Utilisant Une Clé USB Et Un Nouvel Disque Dur - Tutoriel Étape Par Étape</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comparatif-des-systemes-de-fichiers-fat32-vs-exfat-vs-ntfs-explique/"><u>Comparatif Des Systèmes De Fichiers : FAT32 vs exFAT vs NTFS Expliqué</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effizienter-weg-zum-entfernen-von-daten-auf-einer-nvme-ssd-eine-einfache-anleitung/"><u>Effizienter Weg Zum Entfernen Von Daten Auf Einer NVMe SSD: Eine Einfache Anleitung</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976664547-get-the-latest-hp-elitebook-x360-1030-g2-driver-updates-free/"><u>Get the Latest HP EliteBook X360 1030 G2 Driver Updates Free!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-sencilla-para-la-configuracion-segura-y-facil-del-servidor-de-arranque-pxe-en-windows/"><u>Guía Sencilla Para La Configuración Segura Y Fácil Del Servidor De Arranque PXE en Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy F34 5G?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-elevating-video-resolution-in-youtube/"><u>In 2024, Elevating Video Resolution in YouTube</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/pemilihanku-best-softwares-untuk-mengalihubungkan-file-di-komputer-anda-download-gratis/"><u>Pemilihanku Best Softwares Untuk Mengalihubungkan File Di Komputer Anda - Download GRATIS!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/secure-your-vmware-and-hyper-v-365-data-effortlessly-discover-the-power-of-our-complimentary-backup-solution/"><u>Secure Your VMware and Hyper-V 365 Data Effortlessly: Discover the Power of Our Complimentary Backup Solution</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/testing-boundaries-with-seatechs-external-blu-ray-burner-is-it-up-to-par/"><u>Testing Boundaries with SeaTech's External Blu-Ray Burner - Is It Up to Par?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-balancing-bandwidth-for-obs-streams-for-2024/"><u>[Updated] Balancing Bandwidth for OBS Streams for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[Updated] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728493484105-4/"><u>「ごみ箱から飛び出したファイル、これで救える4つの蘇生技術」</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/windows-10-5/"><u>如何高效地在 Windows 10 系统上进行数据/文件备份 - 5 步骤指南</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728462239161-windows/"><u>無成本Windows電腦緊急修復工具選用 - [最新版建議選擇]</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728489799800-sd/"><u>一人で復活! : 自立修理のコツがわかる微小なSDカードのデータ回収法</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aufklarung-und-behebung-von-fehler-0x80070141-das-gerat-kann-nicht-erreicht-werden/"><u>Aufklärung Und Behebung Von 'Fehler 0X80070141: Das Gerät Kann Nicht Erreicht Werden'</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/best-5-leading-ssd-drive-rescue-programs-compare-top-picks/"><u>Best 5 Leading SSD Drive Rescue Programs: Compare Top Picks</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effective-strategies-for-restoring-files-from-a-transcend-external-hdd/"><u>Effective Strategies for Restoring Files From a Transcend External HDD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-narratives-from-cinemas-broad-spectrum/"><u>Elite Narratives From Cinema's Broad Spectrum</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/first-film-recording-analysis-and-comparisons-for-2024/"><u>First Film Recording Analysis & Comparisons for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-nfl-20-pc-game-crashing-issues-solution-guide/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solution Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi 12 5G Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-12-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 12 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728486288502-outlook-5/"><u>Outlook 郵件丟失跑步術：5實用方法簡化解決</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solving-the-puzzle-of-roblox-error-code-277-your-essential-step-by-step-tutorial/"><u>Solving the Puzzle of Roblox Error Code 277: Your Essential Step-by-Step Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-servers-and-equipment-cabinets-the-ultimate-guide-for-2nd4/"><u>Top-Rated Servers & Equipment Cabinets - The Ultimate Guide for 2nD4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/why-virtual-reality-lack-of-content-in-2024/"><u>Why Virtual Reality Lack of Content, In 2024</u></a></li>
 </ul></div>
 
