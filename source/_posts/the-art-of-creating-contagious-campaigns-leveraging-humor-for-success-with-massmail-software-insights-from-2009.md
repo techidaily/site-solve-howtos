@@ -1,7 +1,7 @@
 ---
 title: "The Art of Creating Contagious Campaigns: Leveraging Humor for Success with Massmail Software, Insights From 2009"
-date: 2024-11-24T16:17:12.074Z
-updated: 2024-11-26T16:51:47.123Z
+date: 2024-12-03T01:01:09.246Z
+updated: 2024-12-05T16:02:40.694Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -35,10 +39,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -66,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -73,6 +77,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -87,7 +95,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -95,24 +103,16 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-capture-mastery-a-closer-look-at-recmeister-tech/"><u>[New] 2024 Approved Screen Capture Mastery A Closer Look at Recmeister Tech</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger/"><u>[New] Tackling the Challenge of Video Not Broadcasting via FB Messenger</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-creativity-free-animation-techniques/"><u>2024 Approved Unlocking Creativity Free Animation Techniques</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/elevate-e-commerce-promotion-using-posters-unlock-the-power-of-massmail-software-for-targeted-campaigns/"><u>Elevate E-Commerce Promotion Using Posters: Unlock the Power of MassMail Software for Targeted Campaigns</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/elevate-your-email-outreach-effective-methods-to-attract-subscribers-using-massmail-solutions/"><u>Elevate Your Email Outreach: Effective Methods to Attract Subscribers Using MassMail Solutions</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/email-reputation-and-compliance-understanding-spam-laws-for-effective-outreach-insights-from-the-mmsw-blog/"><u>Email Reputation and Compliance: Understanding Spam Laws for Effective Outreach | Insights From the MMSW Blog</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jumpstart-earnings-a-novice-written-guide-for-2024/"><u>Jumpstart Earnings A Novice’ Written Guide for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/raid-ahci/"><u>RAID と AHCI:どっちのパフォーマンスが上回りますか？</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/sincronizzare-facilmente-il-backup-dei-dati-sul-tuo-mac-usando-aomei-backupper-tutorial-completo/"><u>Sincronizzare Facilmente Il Backup Dei Dati Sul Tuo Mac Usando AOMEI Backupper - Tutorial Completo</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-split-screen-minecraft-on-switch/"><u>Step-by-Step Guide to Split-Screen Minecraft on Switch</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-tutorial-for-fixing-the-ntfs-partition-on-windows-operating-systems-7810/"><u>Step-by-Step Tutorial for Fixing the NTFS Partition on Windows Operating Systems (7/8/10)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-essence-of-unaltered-audio-ffmpegs-precision/"><u>The Essence of Unaltered Audio FFmpeg’s Precision</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-pc-wont-stop-responding-when-i-try-to-turn-off-the-built-in-bluetooth-adapter-any-ideas/"><u>Windows PC Won't Stop Responding when I Try to Turn Off the Built-In Bluetooth Adapter - Any Ideas?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bypass-spotifys-predicted-podcast-selections/"><u>[New] Bypass Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/a-comprehensive-guide-buying-and-storing-crypto-securely-with-yl-computings-tools/"><u>A Comprehensive Guide: Buying & Storing Crypto Securely with YL Computing's Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-unique-online-presence-youtube-edition-for-2024/"><u>Crafting a Unique Online Presence YouTube Edition for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/diagnosing-hardware-woes-why-wont-my-system-acknowledge-its-hard-disk-tips-by-yl-software-experts/"><u>Diagnosing Hardware Woes: Why Won't My System Acknowledge Its Hard Disk? - Tips by YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effective-methods-for-assessing-graphics-card-temperatures-with-yl-software-insights/"><u>Effective Methods for Assessing Graphics Card Temperatures with YL Software Insights</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/essential-beginners-toolkit-starting-your-journey-into-crypto-investment-with-yl-computing-solutions/"><u>Essential Beginner's Toolkit: Starting Your Journey Into Crypto-Investment with YL Computing Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-showcasing-book-trailers/"><u>In 2024, Best Showcasing Book Trailers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instinct-mi1300-gains-traction-as-amd-enhances-sales-expectations-to-4-billion-still-dwarfed-by-nvidias-ambitious-10x-projection-of-40b/"><u>Instinct MI1300 Gains Traction as AMD Enhances Sales Expectations to $4 Billion; Still Dwarfed by Nvidia's Ambitious 10X Projection of $40B</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-transferring-images-from-your-olympus-camera/"><u>Step-by-Step Guide: Transferring Images From Your Olympus Camera</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transforming-files-with-ease-learn-the-conversion-process-from-yl-tech-experts/"><u>Transforming Files with Ease: Learn the Conversion Process From YL Tech Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-software-guide-diagnosing-and-repairing-scanning-device-network-errors-effectively/"><u>YL Software Guide: Diagnosing & Repairing Scanning Device Network Errors Effectively</u></a></li>
 </ul></div>
 

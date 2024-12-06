@@ -1,7 +1,7 @@
 ---
 title: "Understanding Consumer Responses: Insights Into Email Engagement From 2011 Using MassMail Pro"
-date: 2024-11-25T18:25:16.132Z
-updated: 2024-11-26T17:03:51.364Z
+date: 2024-12-04T20:54:43.906Z
+updated: 2024-12-05T22:35:20.004Z
 tags:
   - product
 categories:
@@ -50,10 +50,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,10 +62,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -79,12 +71,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,29 +90,33 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook-for-2024/"><u>[New] Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks/"><u>[Updated] In 2024, Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-motionmaster-win8-version-for-2024/"><u>[Updated] MotionMaster Win8 Version for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-the-editing-process-elevating-your-youtube-content-with-pc/"><u>[Updated] Streamlining the Editing Process Elevating Your YouTube Content with PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028764244-wmv/"><u>高性能WMVコンバーター:結合ソフトとして最適なフリープログラムのトップ４選び - 専門家推薦</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comparing-essentials-bx50-versus-mx500-which-device-wins/"><u>Comparing Essentials: BX50# Versus MX500 - Which Device Wins?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-fix-guide-overcoming-the-challenge-of-error-code-0x80072f8f-in-windows-operating-systems/"><u>Complete Fix Guide: Overcoming the Challenge of Error Code 0X80072F8F in Windows Operating Systems</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/conversion-gratuitte-dun-fichier-trp-a-mpeg-en-ligne-movavi/"><u>Conversion GRATUITTE D'un Fichier TRP À MPEG en Ligne - MOVAVI</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/effortlessly-amassing-house-beats-the-ultimate-trilogy-of-methods-for-downloading-and-storing-tunes-on-any-gadget/"><u>Effortlessly Amassing House Beats: The Ultimate Trilogy of Methods for Downloading and Storing Tunes on Any Gadget</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/endlich-eine-losung-fur-den-abgesturzten-externen-ssd-von-seagate-entdecken-sie-diese-10-bewahrten-ansatze/"><u>Endlich Eine Lösung Für Den Abgestürzten Externen SSD Von Seagate - Entdecken Sie Diese 10 Bewährten Ansätze!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/herstellen-van-de-data-op-je-vrije-festplatte-eenvoudige-cmd-geautomatiseerde-instructies/"><u>Herstellen Van De Data Op Je Vrije Festplatte: Eénvoudige CMD Geautomatiseerde Instructies</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-update-the-driver-for-your-usb-microphoneheadset-in-windows-windows-11-10-and-7/"><u>How To Successfully Update The Driver For Your USB Microphone/Headset in Windows (Windows 11, 10, And 7)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/no-cost-raw-image-restoration-utility-for-hassle-free-hard-drive-troubleshooting/"><u>No-Cost RAW Image Restoration Utility for Hassle-Free Hard Drive Troubleshooting</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/resolving-the-error-code-0xc0000005-on-windows-11-and-10-top-7-fixes/"><u>Resolving the Error Code 0xC0000005 on Windows 11 and 10: Top 7 Fixes</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/seamless-mac-file-synchronization-the-complete-step-by-step-manual/"><u>Seamless Mac File Synchronization: The Complete Step-by-Step Manual</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-5-techniques-to-restore-deleted-files-on-an-hp-computer-hard-disk/"><u>Ultimate Guide: 5 Techniques to Restore Deleted Files on an HP Computer Hard Disk</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728497598195-windows-10/"><u>Windows 10でのデータ保護：ファイル自動バックアップ手順</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/skorostnoj-perenos-dannyh-s-zhestkogo-diska-na-tverdotelnyj-nastolnyj-na-windows-1011-dva-effektivnyh-metoda/"><u>Скоростной Перенос Данных С Жесткого Диска На Твердотельный Настольный На Windows 10/11: Два Эффективных Метода</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-beginner-friendly-approach-to-videography-using-adobe-connect-platform-for-2024/"><u>[Updated] Beginner-Friendly Approach to Videography Using Adobe Connect Platform for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/coca-cola-desktop-wallpapers-high-quality-backgrounds-images-and-design-inspiration-yl-tech-solutions/"><u>Coca-Cola Desktop Wallpapers: High-Quality Backgrounds, Images & Design Inspiration - YL Tech Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/embrace-laughter-and-sorrow-with-these-top-10-meme-igs-for-2024/"><u>Embrace Laughter and Sorrow with These Top 10 Meme IGs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-old-games-adding-new-glory-tips-on-incorporating-trophies-using-retroarch/"><u>Enhancing Old Games, Adding New Glory: Tips on Incorporating Trophies Using Retroarch</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/high-definition-red-bentley-desktop-wallpapers-stunning-graphics-and-inspirational-screensaver-ideas-yl-computing-solutions/"><u>High-Definition Red Bentley Desktop Wallpapers: Stunning Graphics & Inspirational Screensaver Ideas - YL Computing Solutions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/high-definition-skyline-visuals-and-desktop-wraps-premium-graphics-by-yl-computing/"><u>High-Definition Skyline Visuals & Desktop Wraps - Premium Graphics by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-can-i-fix-a-malfunctioning-graphics-card-expert-insights-from-yl-computing/"><u>How Can I Fix a Malfunctioning Graphics Card: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-fix-a-non-responsive-printer-expert-tips-from-yl-computing/"><u>How to Fix a Non-Responsive Printer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-20-free-cloud-storage-service-recommendations-up-to-1tb-included/"><u>In 2024, 20 Free Cloud Storage Service Recommendations! [Up to 1TB Included]</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-gaming-console-use-with-windows-a-guide-to-testing/"><u>Perfecting Gaming Console Use with Windows: A Guide to Testing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/recording-success-how-to-grab-phonescreens-with-snapchat-easily-for-2024/"><u>Recording Success How to Grab Phonescreens with Snapchat Easily for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/scanner-issues-why-it-wont-follow-your-commands-yl-software-insights/"><u>Scanner Issues: Why It Won't Follow Your Commands - YL Software Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-restoring-stability-in-tribes-of-midgard-after-a-sudden-breakdown/"><u>Step-by-Step Solution: Restoring Stability in 'Tribes of Midgard' After a Sudden Breakdown</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tricks-for-speedy-vimeo-streams-for-2024/"><u>Tricks for Speedy Vimeo Streams for 2024</u></a></li>
 </ul></div>
 

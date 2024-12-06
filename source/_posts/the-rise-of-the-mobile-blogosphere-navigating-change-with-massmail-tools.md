@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the Mobile Blogosphere: Navigating Change with MassMail Tools"
-date: 2024-11-21T16:09:37.960Z
-updated: 2024-11-26T16:00:29.661Z
+date: 2024-12-05T05:41:56.331Z
+updated: 2024-12-05T17:58:18.925Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -47,6 +43,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -71,7 +71,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -83,7 +83,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -99,28 +99,24 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-howtos.techidaily.com/wqsg5zue5b6p5oml6acg77ya44oq44od44kv44ki44od44ox5lplusd5a2y5ywi44gm6kgo56s644gv44km44gq44ge5ac05zci44cn/"><u>« 回復手順：バックアップ保存先が表示されない場合」</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-storytellers-edge-integrating-youtube-vids-with-ig/"><u>[Updated] The Storyteller's Edge Integrating YouTube Vids with IG</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/4excel/"><u>4有效於術恢復已經驗證過的Excel文件</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728479083023-windows-11/"><u>高效捡回Windows 11数据:尝试这些顶级磁区救助程序</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-scrutinizing-the-efficacy-of-vidma-for-video-capture-tech/"><u>In 2024, Scrutinizing the Efficacy of Vidma for Video Capture Tech</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-xml-essentials-what-you-need-to-know/"><u>New 2024 Approved FCPX XML Essentials What You Need to Know</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-tutorial-crafting-a-quick-fix-disaster-prevention-tool-for-windows-users/"><u>Step-by-Step Tutorial: Crafting a Quick Fix Disaster Prevention Tool for Windows Users</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-saving-your-data-pc-to-flash-drive-transfer-on-windows-11/"><u>Ultimate Guide: Saving Your Data - PC-to-Flash Drive Transfer on Windows 11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728477213355-windows/"><u>Windowsのクリーンインストール後、ファイル復元手順ガイド</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-twitter-video-series-breakdown-area-format-duration/"><u>[New] 2024 Approved Twitter Video Series Breakdown Area, Format, Duration</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pure-capture-suite-ads-free-version/"><u>[New] Pure Capture Suite Ads-Free Version</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>[Updated] 2024 Approved Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-obs-and-zoom-live-stream-setup/"><u>[Updated] 2024 Approved The Essential Guide to OBS and Zoom Live Stream Setup</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1732519076392-yl/"><u>深入研究：五四运动成功所达到的里程碑及其重要性 - YL科技专栏</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/advancing-mineral-market-dynamics-with-yl-computings-innovative-solutions/"><u>Advancing Mineral Market Dynamics with YL Computing's Innovative Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/alphabet-accuracy-in-sweden-pronunciation-essentials/"><u>Alphabet Accuracy in Sweden: Pronunciation Essentials</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/bmw-x3-xdrive30e-high-definition-desktop-scenery-premium-graphics-and-digital-artwork-powered-by-yl-computing/"><u>BMW X3 xDrive30e High-Definition Desktop Scenery: Premium Graphics & Digital Artwork - Powered by YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y100-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y100 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-a-complete-fix-for-the-minecraft-launcher-on-windows-1110/"><u>Error 0X803F8001 No More - A Complete Fix for the Minecraft Launcher on Windows 11/10</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/high-definition-lion-theme-wallpapers-premium-desktop-backdrops-by-yl-computing/"><u>High-Definition Lion Theme Wallpapers: Premium Desktop Backdrops by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/identifying-and-solving-pc-hardware-problems-in-windows-a-step-by-step-guide-by-yl-computing/"><u>Identifying and Solving PC Hardware Problems in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-cryptocurrency-markets-a-guide-to-technical-analysis-with-yl-computing/"><u>Mastering Cryptocurrency Markets: A Guide to Technical Analysis with YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-mouse-and-trackpad-configuration-expert-advice-from-yl-software-professionals/"><u>Mastering Mouse & Trackpad Configuration: Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/securing-your-digital-assets-top-tips-for-selecting-a-dependable-cryptocurrency-exchange-by-yl-computing/"><u>Securing Your Digital Assets: Top Tips for Selecting a Dependable Cryptocurrency Exchange by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-camera-failure-error-0xa00f4292-explained/"><u>Troubleshooting Guide for Windows Camera Failure - Error 0xA00F4292 Explained</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 </ul></div>
 

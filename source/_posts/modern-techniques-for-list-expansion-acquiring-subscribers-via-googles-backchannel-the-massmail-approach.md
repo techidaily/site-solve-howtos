@@ -1,7 +1,7 @@
 ---
 title: "Modern Techniques for List Expansion: Acquiring Subscribers via Google's Backchannel - The Massmail Approach"
-date: 2024-11-23T18:56:43.114Z
-updated: 2024-11-26T17:13:55.097Z
+date: 2024-12-03T19:30:12.533Z
+updated: 2024-12-06T08:19:54.651Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -41,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -51,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,17 +78,9 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,12 +90,16 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-audioscapes-excellent-microphone-list/"><u>[New] In 2024, Audioscape’s Excellent Microphone List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-prime-your-vlogging-game-top-tier-mac-mp4-editors-reviewed/"><u>[New] In 2024, Prime Your Vlogging Game Top-Tier Mac MP4 Editors Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-gopro-editors-blueprint-to-stunning-colored-images/"><u>[New] The GoPro Editor's Blueprint to Stunning Colored Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms/"><u>[Updated] Ultimate Upscaling Preferred Platforms for Tapping SnapAlert Rhythms</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728493480577-windows/"><u>键入位置：使用外接硬盘在Windows系统下定位照片指南</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/wndows-11usb-ssd6/"><u>探索解决未在Wndows 11系统中出现的USB SSD问题—6个方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-detected-proxy-settings-on-windows-immediately/"><u>Addressing Non-Detected Proxy Settings on Windows Immediately</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/armies-united-exploring-the-ultimate-7-strategy-wars/"><u>Armies United Exploring the Ultimate 7 Strategy Wars</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/dell-alienware2/"><u>Dell Alienware向けパーソナルリカバリメモリ制作手順：2つの推奨方法</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/error-404-unable-to-locate-the-webpage-youre-seeking/"><u>Error 404: Unable to Locate the Webpage You're Seeking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-13-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 13 Pro Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/konnektivitatsprobleme-beheben-bilder-von-ihrer-sd-card-nicht-ladebar-machen/"><u>Konnektivitätsprobleme Beheben: Bilder Von Ihrer SD-Card Nicht Ladebar Machen</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-play-8t-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Play 8T Black and White | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/reconstitution-de-fichiers-et-de-dossiers-avec-aomei-backupper-guide-complet/"><u>Reconstitution De Fichiers Et De Dossiers Avec AOMEI Backupper – Guide Complet</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/resolution-des-problemes-damorcage-sous-windows-11-apres-la-clonation-du-disque-avec-clonezilla-tutoriel-complet-pour-une-restauration-en-douceur/"><u>Résolution Des Problèmes D’amorçage Sous Windows 11 Après La Clonation Du Disque Avec Clonezilla : Tutoriel Complet Pour Une Restauration en Douceur</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-top-five-solutions-for-resolving-windows-10-boot-issues/"><u>Ultimate Guide: Top Five Solutions for Resolving Windows 10 Boot Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-integrating-past-videos-into-current-live-feeds-on-fb/"><u>[New] Integrating Past Videos Into Current Live Feeds on FB</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-no-fee-all-the-music-top-10-sites-for-coprwyfree-soundtracks/"><u>[New] No Fee, All the Music Top 10 Sites for Coprwyfree Soundtracks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>[New] Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-checklist-for-solo-online-stream-success-for-2024/"><u>[New] The Ultimate Checklist for Solo Online Stream Success for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>[Updated] Shoot in Slow Motion Essential GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-college-student-laptop-at-just-299-a-comprehensive-review/"><u>Affordable College Student Laptop at Just $299 - A Comprehensive Review</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/boost-your-computer-speed-with-key-maintenance-tips-insights-by-yl-software-experts/"><u>Boost Your Computer Speed with Key Maintenance Tips: Insights by YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/exploring-the-mechanisms-of-virtual-memory-with-yl-software-insights/"><u>Exploring the Mechanisms of Virtual Memory with YL Software Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-correct-pachyderm-pedal-disorders-during-3d-fabrication/"><u>How to Correct Pachyderm Pedal Disorders During 3D Fabrication</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-host-multi-platform-viewing-parties-with-teleparty-a-complete-guide/"><u>How to Host Multi-Platform Viewing Parties with Teleparty: A Complete Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/implementing-parent-protection-tools-for-windows-systems-expert-tips-from-yl-software/"><u>Implementing Parent Protection Tools for Windows Systems: Expert Tips From YL Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-cryptocurrency-markets-proven-investment-approaches-from-yl-computings-expertise/"><u>Mastering Cryptocurrency Markets: Proven Investment Approaches From YL Computing's Expertise</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mastering-the-rules-of-digital-assets-with-expert-insights-from-yl-computings-software-solutions/"><u>Mastering the Rules of Digital Assets with Expert Insights From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/resolving-dvd-drive-problems-a-step-by-step-guide-tips-from-yl-computing/"><u>Resolving DVD Drive Problems: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211260571-9781501156991-the-mind-illuminated/"><u>The Mind Illuminated | Free Book</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/updating-your-devices-driver-expert-guide-by-yl-computing/"><u>Updating Your Device's Driver - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/wasteland-ii-directors-cut-an-immersive-rpg-revisited-comprehensive-review-and-gameplay-analysis/"><u>Wasteland II Director's Cut: An Immersive RPG Revisited – Comprehensive Review and Gameplay Analysis</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-innovations-interactive-football-gameplay-hd-live-background-and-continuous-video-loops-for-engaging-visuals/"><u>YL Innovations: Interactive Football Gameplay HD Live Background & Continuous Video Loops for Engaging Visuals</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-software-starry-night-visual-collection-premium-walls-photos-and-graphics-for-your-device/"><u>YL Software - Starry Night Visual Collection: Premium Walls, Photos & Graphics for Your Device</u></a></li>
 </ul></div>
 
