@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Text Messaging in 2009: Understanding Client Behavior via MassMail's Data Analysis Tools"
-date: 2024-11-29T03:49:18.598Z
-updated: 2024-12-06T02:48:12.442Z
+date: 2024-12-06T19:04:11.718Z
+updated: 2024-12-11T20:29:24.136Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -54,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -67,7 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -78,12 +82,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -95,16 +103,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-cracking-the-code-to-youtube-income-through-views-for-2024/"><u>[Updated] Cracking the Code to YouTube Income Through Views for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-expert-6-tech-for-cross-lingual-content-shift/"><u>[Updated] Expert 6 Tech for Cross-Lingual Content Shift</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-driven-success-boost-your-sites-traffic-efficiently/"><u>Cookiebot-Driven Success: Boost Your Site's Traffic Efficiently</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-official-asus-pce-ac68-network-adapter-drivers-here/"><u>Download the Official ASUS PCE-AC68 Network Adapter Drivers Here</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ensuring-graphic-card-longevity-tips-and-tricks-from-yl-software-experts/"><u>Ensuring Graphic Card Longevity - Tips & Tricks From YL Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/exploring-security-concerns-in-digital-assets-by-industry-experts-at-yl-software/"><u>Exploring Security Concerns in Digital Assets by Industry Experts at YL Software</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/exploring-the-aftermath-how-the-opium-wars-transformed-chinas-history-and-society-insights-from-yl-computing/"><u>Exploring the Aftermath: How the Opium Wars Transformed China's History and Society - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/faux-chatbot-schemes-how-to-spot-them/"><u>Faux ChatBot Schemes: How to Spot Them</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-oxygen-not-included-crash-errors-a-step-by-cleanup-guide/"><u>How to Overcome 'Oxygen Not Included' Crash Errors: A Step-by-Cleanup Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/maximizing-your-computers-efficiency-top-tips-from-yl-computing/"><u>Maximizing Your Computer's Efficiency: Top Tips From YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/navigating-blockchain-breakthroughs-with-expertise-from-yl-technology-solutions/"><u>Navigating Blockchain Breakthroughs with Expertise From YL Technology Solutions</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/understanding-ransomware-defense-can-microsofts-built-in-security-keep-you-safe-an-analysis-by-yl-software-experts/"><u>Understanding Ransomware Defense: Can Microsoft's Built-In Security Keep You Safe? – An Analysis by YL Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/yl-computings-guide-joining-the-ico-wave-with-confidence/"><u>YL Computing's Guide: Joining the ICO Wave with Confidence</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-easy-guide-tailor-your-windows-taskbar-via-control-panel-tech-solutions-with-yl/"><u>1. Easy Guide: Tailor Your Windows Taskbar via Control Panel - Tech Solutions with YL</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1732514427504-ylyl/"><u>掌握创建原生应用的基础知识 - YL计算机与YL软件</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-content-quality-with-chatgpt-a-comprehamendous-guide-for-innovation/"><u>Boosting Content Quality with ChatGPT - A Comprehamendous Guide for Innovation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-captivating-video-narratives-for-youtube-success-for-2024/"><u>Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/dazzling-4k-resolution-july-2019-desktop-and-mobile-background-graphics-by-yl-computing-immerse-yourself-in-stunning-visuals/"><u>Dazzling 4K Resolution July 2019 Desktop and Mobile Background Graphics by YL Computing – Immerse Yourself in Stunning Visuals</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-f23-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo F23 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-precision-in-crypto-account-balancing-with-yl-computing-solutions/"><u>Ensuring Precision in Crypto Account Balancing with YL Computing Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-preserve-and-export-your-personal-data-with-chatgpt-effectively/"><u>How to Preserve and Export Your Personal Data with ChatGPT Effectively</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/master-the-tech-puzzle-effective-strategies-to-resolve-blue-screen-errors-by-yl-software-experts/"><u>Master the Tech Puzzle: Effective Strategies to Resolve Blue Screen Errors by YL Software Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/music-making-magic-selecting-background-beats-for-vids-for-2024/"><u>Music Making Magic Selecting Background Beats for Vids for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-15-list-of-expert-recommended-gif-maker-apps/"><u>The Ultimate 15 List of Expert-Recommended GIF Maker Apps</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/troubleshooting-failed-driver-installations-on-windows-10-insights-from-yl-computings-expert-guide/"><u>Troubleshooting Failed Driver Installations on Windows 10: Insights From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-gameplay-download-the-newest-rtx-2080-graphics-card-drivers-for-win10win11-systems/"><u>Update Your Gameplay: Download the Newest RTX 2080 Graphics Card Drivers for Win10/Win11 Systems</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-computings-enchanting-bunny-and-butterfly-wallpaper-collection-vibrant-graphics-and-high-res-imagery/"><u>YL Computing's Enchanting Bunny & Butterfly Wallpaper Collection: Vibrant Graphics & High-Res Imagery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-essential-guide-to-mobile-asmr-sounds-for-2024/"><u>Your Essential Guide to Mobile ASMR Sounds for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the Mobile Blogosphere: Navigating Change with MassMail Tools"
-date: 2024-12-05T05:41:56.331Z
-updated: 2024-12-05T17:58:18.925Z
+date: 2024-12-07T09:01:05.433Z
+updated: 2024-12-12T09:44:45.179Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -53,6 +53,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,25 +74,25 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -99,16 +103,12 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-twitter-video-series-breakdown-area-format-duration/"><u>[New] 2024 Approved Twitter Video Series Breakdown Area, Format, Duration</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-pure-capture-suite-ads-free-version/"><u>[New] Pure Capture Suite Ads-Free Version</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>[Updated] 2024 Approved Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-obs-and-zoom-live-stream-setup/"><u>[Updated] 2024 Approved The Essential Guide to OBS and Zoom Live Stream Setup</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1732519076392-yl/"><u>深入研究：五四运动成功所达到的里程碑及其重要性 - YL科技专栏</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/advancing-mineral-market-dynamics-with-yl-computings-innovative-solutions/"><u>Advancing Mineral Market Dynamics with YL Computing's Innovative Solutions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/alphabet-accuracy-in-sweden-pronunciation-essentials/"><u>Alphabet Accuracy in Sweden: Pronunciation Essentials</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/bmw-x3-xdrive30e-high-definition-desktop-scenery-premium-graphics-and-digital-artwork-powered-by-yl-computing/"><u>BMW X3 xDrive30e High-Definition Desktop Scenery: Premium Graphics & Digital Artwork - Powered by YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-y100-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y100 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-a-complete-fix-for-the-minecraft-launcher-on-windows-1110/"><u>Error 0X803F8001 No More - A Complete Fix for the Minecraft Launcher on Windows 11/10</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/high-definition-lion-theme-wallpapers-premium-desktop-backdrops-by-yl-computing/"><u>High-Definition Lion Theme Wallpapers: Premium Desktop Backdrops by YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/identifying-and-solving-pc-hardware-problems-in-windows-a-step-by-step-guide-by-yl-computing/"><u>Identifying and Solving PC Hardware Problems in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-cryptocurrency-markets-a-guide-to-technical-analysis-with-yl-computing/"><u>Mastering Cryptocurrency Markets: A Guide to Technical Analysis with YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-mouse-and-trackpad-configuration-expert-advice-from-yl-software-professionals/"><u>Mastering Mouse & Trackpad Configuration: Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/securing-your-digital-assets-top-tips-for-selecting-a-dependable-cryptocurrency-exchange-by-yl-computing/"><u>Securing Your Digital Assets: Top Tips for Selecting a Dependable Cryptocurrency Exchange by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-camera-failure-error-0xa00f4292-explained/"><u>Troubleshooting Guide for Windows Camera Failure - Error 0xA00F4292 Explained</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-compensated-analysis-the-vlog-perspective-on-goods/"><u>[New] Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-review-best-mac-apps-for-screenshots/"><u>[Updated] Expert Review Best Mac Apps for Screenshots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-initiating-conversations-on-instagram-live-for-2024/"><u>[Updated] Initiating Conversations on Instagram Live for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovative-approaches-to-macos-subtitles-editing-for-2024/"><u>[Updated] Innovative Approaches to macOS Subtitles Editing for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>[Updated] Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/boost-your-computer-speed-with-key-maintenance-tips-insights-by-yl-software-experts/"><u>Boost Your Computer Speed with Key Maintenance Tips: Insights by YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/colorful-compositions-in-a-click-photoshops-guide/"><u>Colorful Compositions in a Click Photoshop's Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effective-techniques-for-removing-dust-from-your-desktop-cpu-expert-tips-by-yl-computing/"><u>Effective Techniques for Removing Dust From Your Desktop CPU - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/efficient-strategies-for-eliminating-clutter-removing-redundant-files-with-ease-insights-from-yl-computings-expertise/"><u>Efficient Strategies for Eliminating Clutter: Removing Redundant Files with Ease - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-guide-inserting-text-on-pcmac-photos/"><u>Essential Guide Inserting Text on PC/Mac Photos</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-fix-a-laptop-battery-that-wont-charge-insights-by-yl-software/"><u>How to Fix a Laptop Battery That Won't Charge? Insights by YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-access-a-step-by-step-guide-to-reviving-your-deactivated-snapchat-profile/"><u>Restoring Access: A Step-by-Step Guide to Reviving Your Deactivated Snapchat Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-speaking-managing-xbox-game-chats/"><u>Secure Speaking: Managing Xbox Game Chats</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unraveling-the-rise-of-chairman-mao-the-path-to-political-dominance-in-modern-china-explored-by-yl-computing/"><u>Unraveling the Rise of Chairman Mao: The Path to Political Dominance in Modern China - Explored by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/updating-your-devices-hardware-drivers-a-simple-guide-tech-tips-by-yl-computing/"><u>Updating Your Device's Hardware Drivers: A Simple Guide - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/why-are-my-scans-dragging-on-quick-fixes-and-advice-from-yl-computing-experts/"><u>Why Are My Scans Dragging On? Quick Fixes and Advice From YL Computing Experts</u></a></li>
 </ul></div>
 

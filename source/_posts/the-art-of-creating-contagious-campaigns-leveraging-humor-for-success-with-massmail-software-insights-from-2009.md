@@ -1,7 +1,7 @@
 ---
 title: "The Art of Creating Contagious Campaigns: Leveraging Humor for Success with Massmail Software, Insights From 2009"
-date: 2024-12-03T01:01:09.246Z
-updated: 2024-12-05T16:02:40.694Z
+date: 2024-12-05T09:36:36.411Z
+updated: 2024-12-11T18:25:25.275Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -54,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -67,7 +75,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -78,33 +86,29 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-bypass-spotifys-predicted-podcast-selections/"><u>[New] Bypass Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/a-comprehensive-guide-buying-and-storing-crypto-securely-with-yl-computings-tools/"><u>A Comprehensive Guide: Buying & Storing Crypto Securely with YL Computing's Tools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-a-unique-online-presence-youtube-edition-for-2024/"><u>Crafting a Unique Online Presence YouTube Edition for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/diagnosing-hardware-woes-why-wont-my-system-acknowledge-its-hard-disk-tips-by-yl-software-experts/"><u>Diagnosing Hardware Woes: Why Won't My System Acknowledge Its Hard Disk? - Tips by YL Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effective-methods-for-assessing-graphics-card-temperatures-with-yl-software-insights/"><u>Effective Methods for Assessing Graphics Card Temperatures with YL Software Insights</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/essential-beginners-toolkit-starting-your-journey-into-crypto-investment-with-yl-computing-solutions/"><u>Essential Beginner's Toolkit: Starting Your Journey Into Crypto-Investment with YL Computing Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-showcasing-book-trailers/"><u>In 2024, Best Showcasing Book Trailers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instinct-mi1300-gains-traction-as-amd-enhances-sales-expectations-to-4-billion-still-dwarfed-by-nvidias-ambitious-10x-projection-of-40b/"><u>Instinct MI1300 Gains Traction as AMD Enhances Sales Expectations to $4 Billion; Still Dwarfed by Nvidia's Ambitious 10X Projection of $40B</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-transferring-images-from-your-olympus-camera/"><u>Step-by-Step Guide: Transferring Images From Your Olympus Camera</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transforming-files-with-ease-learn-the-conversion-process-from-yl-tech-experts/"><u>Transforming Files with Ease: Learn the Conversion Process From YL Tech Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/yl-software-guide-diagnosing-and-repairing-scanning-device-network-errors-effectively/"><u>YL Software Guide: Diagnosing & Repairing Scanning Device Network Errors Effectively</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-audiovisual-alteration-apps-that-revolutionize-vtubing-soundscapes/"><u>[New] 2024 Approved Audiovisual Alteration Apps that Revolutionize Vtubing Soundscapes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-flawless-frameworks-premium-webcams-for-your-podcasts/"><u>2024 Approved Flawless Frameworks Premium Webcams for Your Podcasts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/discover-why-your-pcs-audio-output-drops-in-quality-insights-from-yl-tech-experts/"><u>Discover Why Your PC's Audio Output Drops in Quality: Insights From YL Tech Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-gpu-functionality-a-compreh/"><u>Ensuring Optimal GPU Functionality: A Compreh</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-graphics-card-functionality-tips-from-yl-software-experts/"><u>Ensuring Optimal Graphics Card Functionality - Tips From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/evaluating-your-sound-card-performance-a-guide-for-pc-users-yl-software-insights/"><u>Evaluating Your Sound Card Performance: A Guide for PC Users - YL Software Insights</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-can-you-verify-your-computers-sound-card-works-properly-expert-tips-from-yl-computing/"><u>How Can You Verify Your Computer's Sound Card Works Properly? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-huawei-p60-is-unlocked-by-drfone-android/"><u>How To Check if Your Huawei P60 Is Unlocked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-most-exciting-tiktok-content-to-date/"><u>The Most Exciting TikTok Content to Date</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/troubleshooting-slow-performance-on-your-laptop-after-the-latest-windows-patch-advice-by-yl-computing/"><u>Troubleshooting Slow Performance on Your Laptop After the Latest Windows Patch - Advice by YL Computing</u></a></li>
 </ul></div>
 

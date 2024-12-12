@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craiglist Ads in 2009: Techniques for Successful Listings Without Crossing Into Spamming Using MassMail"
-date: 2024-12-02T18:19:59.105Z
-updated: 2024-12-06T08:41:13.042Z
+date: 2024-12-08T06:36:27.334Z
+updated: 2024-12-12T06:29:40.568Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -35,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -71,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -82,17 +78,21 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -106,10 +106,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -117,6 +113,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,16 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-navigate-like-a-pro-with-top-windows-10-hacks/"><u>[New] In 2024, Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-10-best-tags-analyzing-apps-fb-twt-and-ig-platforms-for-2024/"><u>[Updated] 10 Best Tags Analyzing Apps FB, Twt & IG Platforms for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-counter-image-navigation-in-digital-age-a-facebook-guide-for-2024/"><u>[New] Mastering Counter-Image Navigation in Digital Age A Facebook Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-audacitys-volume-dissipation-features/"><u>[New] Navigating Audacity's Volume Dissipation Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/beginners-guide-to-secure-printer-setup-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-instal307/"><u>Beginner's Guide To Secure Printer Setup - Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
 <li><a href="https://solve-howtos.techidaily.com/comprehensive-guide-how-to-create-compressed-files-with-zipping-yl-computing-solutions/"><u>Comprehensive Guide: How to Create Compressed Files with Zipping - YL Computing Solutions</u></a></li>
 <li><a href="https://solve-howtos.techidaily.com/easy-guide-personalizing-audio-preferences-with-yl-computing-tools/"><u>Easy Guide: Personalizing Audio Preferences with YL Computing Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-auto-play-youtube-content-in-fb/"><u>Mastering the Art of Auto-Play YouTube Content in FB</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-to-nearest-ev-charge-stations-using-google-maps-key-tips-and-tricks/"><u>Navigate to Nearest EV Charge Stations Using Google Maps: Key Tips & Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-roblox-low-memory-messages-on-your-apple-device/"><u>Overcoming Roblox Low Memory Messages on Your Apple Device</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/securing-your-digital-assets-expert-tips-from-yl-computing-a-comprehensive-guide-to-crypto-safety/"><u>Securing Your Digital Assets: Expert Tips From YL Computing - A Comprehensive Guide to Crypto Safety</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>Tech Triad Analysis Unraveling the VR-AR-MR Tapestry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-vpns-influence-gpt-point-to-point-engagement/"><u>How VPNs Influence GPT' Point-to-Point Engagement?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-animated-top-10-software-for-2d-animation-enthusiasts/"><u>New 2024 Approved Get Animated Top 10 Software for 2D Animation Enthusiasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-quieting-the-gusts-innovative-approaches-for-wind-noise-reduction-in-acoustic-files/"><u>New In 2024, Quieting the Gusts Innovative Approaches for Wind Noise Reduction in Acoustic Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-modern-producers-choice-ranking-the-best-8-music-production-software-for-macwindows-for-2024/"><u>New The Modern Producers Choice Ranking the Best 8 Music Production Software for Mac/Windows for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-viewing-images-in-windows-os-tips-from-yl-computing/"><u>Step-by-Step Guide: Viewing Images in Windows OS - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-for-controlling-your-devices-restore-state-in-ios-devices/"><u>The Ultimate Guide for Controlling Your Device's Restore State in iOS Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y100i-power-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y100i Power 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 <li><a href="https://solve-howtos.techidaily.com/troubleshooting-audio-problems-in-windows-os-expert-tips-and-solutions-yl-computing/"><u>Troubleshooting Audio Problems in Windows OS: Expert Tips & Solutions - YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/understanding-the-purpose-and-function-of-computer-registries-insights-from-yl-computing/"><u>Understanding the Purpose and Function of Computer Registries - Insights From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultra-hd-lebron-james-graphics-for-screensaver-clipart-created-by-yl-digital-innovations/"><u>Ultra-HD LeBron James Graphics for Screensaver, Clipart - Created by YL Digital Innovations</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/understanding-the-causes-of-sluggish-printer-performance-insights-from-yl-computing/"><u>Understanding the Causes of Sluggish Printer Performance: Insights From YL Computing</u></a></li>
 </ul></div>
 
