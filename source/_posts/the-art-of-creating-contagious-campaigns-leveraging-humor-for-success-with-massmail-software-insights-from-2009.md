@@ -1,7 +1,7 @@
 ---
 title: "The Art of Creating Contagious Campaigns: Leveraging Humor for Success with Massmail Software, Insights From 2009"
-date: 2024-12-05T09:36:36.411Z
-updated: 2024-12-11T18:25:25.275Z
+date: 2024-12-15T17:08:09.274Z
+updated: 2024-12-18T18:21:01.386Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -39,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -58,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -73,10 +69,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -90,16 +82,12 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -114,13 +102,25 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,18 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-audiovisual-alteration-apps-that-revolutionize-vtubing-soundscapes/"><u>[New] 2024 Approved Audiovisual Alteration Apps that Revolutionize Vtubing Soundscapes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-flawless-frameworks-premium-webcams-for-your-podcasts/"><u>2024 Approved Flawless Frameworks Premium Webcams for Your Podcasts</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/discover-why-your-pcs-audio-output-drops-in-quality-insights-from-yl-tech-experts/"><u>Discover Why Your PC's Audio Output Drops in Quality: Insights From YL Tech Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-gpu-functionality-a-compreh/"><u>Ensuring Optimal GPU Functionality: A Compreh</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-graphics-card-functionality-tips-from-yl-software-experts/"><u>Ensuring Optimal Graphics Card Functionality - Tips From YL Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/evaluating-your-sound-card-performance-a-guide-for-pc-users-yl-software-insights/"><u>Evaluating Your Sound Card Performance: A Guide for PC Users - YL Software Insights</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-can-you-verify-your-computers-sound-card-works-properly-expert-tips-from-yl-computing/"><u>How Can You Verify Your Computer's Sound Card Works Properly? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-huawei-p60-is-unlocked-by-drfone-android/"><u>How To Check if Your Huawei P60 Is Unlocked</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-most-exciting-tiktok-content-to-date/"><u>The Most Exciting TikTok Content to Date</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/troubleshooting-slow-performance-on-your-laptop-after-the-latest-windows-patch-advice-by-yl-computing/"><u>Troubleshooting Slow Performance on Your Laptop After the Latest Windows Patch - Advice by YL Computing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-explore-olden-days-on-facebook-device-friendly-tips/"><u>[Updated] 2024 Approved Explore Olden Days on Facebook - Device-Friendly Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-navigating-vimeo-tiers-free-plus-and-pro-options/"><u>[Updated] 2024 Approved Navigating Vimeo Tiers Free, Plus, and Pro Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-push-the-limits-a-review-of-lgs-27uhd68-freesync-display/"><u>[Updated] Push the Limits A Review of LG’s 27UHD68 FreeSync Display</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dell-inkjet-aio-updater-for-win7/"><u>Dell Inkjet AIO Updater for Win7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuita-conversor-de-archivos-aif-para-wmv-en-linea-herramienta-oficial-de-movavi/"><u>Gratuita Conversor De Archivos AIF Para WMV en Línea - Herramienta Oficial De Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-to-restore-defaults-for-wireless-networks-in-the-control-panel-tips-from-yl-software-experts/"><u>Guide to Restore Defaults for Wireless Networks in the Control Panel – Tips From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-can-you-check-your-monitor-for-dead-pixels-tips-from-yl-computing-and-yl-software/"><u>How Can You Check Your Monitor for Dead Pixels? - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-disable-or-remove-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>How to Disable or Remove Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/immerse-yourself-in-the-world-of-chrollo-with-high-quality-imagery-from-yl-softwares-creative-suite/"><u>Immerse Yourself in the World of Chrollo with High-Quality Imagery From YL Software's Creative Suite!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-deep-dive-into-effective-animoji-utilization-on-iphone-x/"><u>In 2024, A Deep Dive Into Effective Animoji Utilization on iPhone X</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-apples-newest-macbook-a-look-at-the-latest-upgrade/"><u>Introducing Apple's Newest MacBook: A Look at the Latest Upgrade</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/is-your-scanner-due-for-an-update-find-out-how-with-yl-computings-latest-software-solutions/"><u>Is Your Scanner Due for an Update? Find Out How with YL Computing's Latest Software Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-navigating-through-the-best-cricket-livestreams-for-2024/"><u>Masterclass Navigating Through the Best Cricket Livestreams for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/new-hardware-woes-why-your-internet-is-down-after-upgrading-to-the-latest-network-card-expert-fixes-by-yl-software/"><u>New Hardware Woes: Why Your Internet Is Down After Upgrading to the Latest Network Card – Expert Fixes by YL Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solve-your-laptops-failure-to-boot-problem-with-expert-advice-from-yl-software/"><u>Solve Your Laptop's Failure to Boot Problem with Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-house-painting-process-using-these-innovative-applications/"><u>Streamline Your House Painting Process Using These Innovative Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-language-of-cinema-writing-as-an-art/"><u>The Language of Cinema Writing as an Art</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unraveling-the-downfall-key-factors-behind-the-collapse-of-the-qin-empire-insights-by-yl-technologies/"><u>Unraveling the Downfall: Key Factors Behind the Collapse of the Qin Empire - Insights by YL Technologies</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/updating-your-pcs-graphics-driver-a-step-by-step-guide-tech-support-central/"><u>Updating Your PC's Graphics Driver: A Step-by-Step Guide - Tech Support Central</u></a></li>
 </ul></div>
 
