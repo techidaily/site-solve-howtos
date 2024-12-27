@@ -1,7 +1,7 @@
 ---
 title: "Understanding Email Autoresponders: A Deep Dive with MassMail Software"
-date: 2024-12-04T17:01:35.633Z
-updated: 2024-12-11T20:20:43.678Z
+date: 2024-12-24T08:48:21.816Z
+updated: 2024-12-26T19:57:33.553Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,10 +36,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -51,6 +43,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,17 +66,21 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -89,6 +89,10 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -103,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -111,7 +115,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevate-your-marketing-game-high-roi-through-animated-fb-advertising/"><u>[New] In 2024, Elevate Your Marketing Game High ROI Through Animated FB Advertising</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-enhance-iphone-hd-video-clarity-in-premiere-pro-post-production/"><u>[New] In 2024, Enhance iPhone HD Video Clarity in Premiere Pro Post-Production</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-premier-10-youtube-resources-for-business-reports/"><u>[New] Premier 10 YouTube Resources for Business Reports</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insiders-guide-to-personalizing-your-instagram-vocal-style/"><u>[Updated] 2024 Approved The Insider's Guide to Personalizing Your Instagram Vocal Style</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-how-to-find-and-download-user-manuals-for-all-iphone-models/"><u>Complete Guide: How to Find and Download User Manuals for All iPhone Models</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-speed-up-your-computers-startup-process-tips-from-yl-computing/"><u>How to Speed Up Your Computer's Startup Process: Tips From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-verify-your-network-adapter-works-properly-a-comprehensive-guide-yl-computing/"><u>How to Verify Your Network Adapter Works Properly: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/locating-your-pcs-security-a-guide-on-monitoring-windows-defender-activity-insights-from-yl-computing/"><u>Locating Your PC's Security: A Guide on Monitoring Window's Defender Activity - Insights From YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/maximize-system-speed-a-step-by-step-guide-to-freeing-disk-space-yl-software-solutions/"><u>Maximize System Speed: A Step-by-Step Guide to Freeing Disk Space - YL Software Solutions</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/resolving-sound-card-problems-on-windows-a-step-by-step-guide-from-yl-computing/"><u>Resolving Sound Card Problems on Windows - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/solving-your-graphics-card-problems-expert-tips-and-tricks-yl-computing-guide/"><u>Solving Your Graphics Card Problems: Expert Tips & Tricks - YL Computing Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-reasons-for-sluggish-performance-on-your-pc-insights-from-yl-software/"><u>Top Reasons for Sluggish Performance on Your PC: Insights From YL Software</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-13-proplus-5g-video-recovery-recover-deleted-videos-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-video/"><u>Xiaomi Redmi Note 13 Pro+ 5G Video Recovery - Recover Deleted Videos from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/yl-computings-pebble-mind-stunning-backdrop-graphics-and-desktop-scenes/"><u>YL Computing's Pebble Mind - Stunning Backdrop Graphics & Desktop Scenes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>[New] 2024 Approved Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-the-ultimate-in-samsung-gear-vr-entertainment/"><u>[New] In 2024, Discover the Ultimate in Samsung Gear VR Entertainment</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/iuoajoodhplusodvoocvplusiehewogtog44op44oz44k144og44km44kn44ki44gr44ki44kk5pqx5yplus35yyw44gv44km44gf44ov44kh44kk44or44gu5zue5b6p5oml6acg44cnig/"><u>「データ脅威: ランサムウェアにより暗号化されたファイルの回復手順」</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comprehensive-faqs-mastering-the-aomei-partition-assistant-and-its-powerful-boot-tool/"><u>Comprehensive FAQs: Mastering the AOMEI Partition Assistant and Its Powerful BOOT Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-performance-asrocks-fresh-batch-of-arrow-lake-motherboards-includes-a-groundbreaking-taichi-design-equipped-for-camm2-memory/"><u>Experience Next-Level Performance: ASROCK's Fresh Batch of Arrow Lake Motherboards Includes a Groundbreaking Taichi Design Equipped for CAMM2 Memory</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-state-of-decay-2-crashes-ultimate-troubleshooting-guide/"><u>How to Fix State of Decay 2 Crashes – Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-samsungs-galaxy-chromebook-version-2-a-game-changer-for-on-the-go-workers/"><u>In-Depth Analysis: Samsung's Galaxy Chromebook Version 2 - A Game-Changer for On-the-Go Workers</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/maximizing-functionality-with-windows-10-legacy-editions/"><u>Maximizing Functionality with Windows 10 Legacy Editions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/prevent-plagiarism-copyright-check-for-uploading-videos-2e/"><u>Prevent Plagiarism Copyright Check for Uploading Videos (2E)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/recupere-su-sistema-con-bitlocker-en-windows-11-facil-metodo-para-localizar-la-clave/"><u>Recupere Su Sistema Con BitLocker en Windows 11: Fácil Método Para Localizar La Clave</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solucion-formato-de-error-en-mi-unidad-de-almacenamiento-externo-seagate/"><u>Solucion: Formato De Error en Mi Unidad De Almacenamiento Externo Seagate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-for-winning-anime-projects-via-movie-maker-for-2024/"><u>Step-by-Step for Winning Anime Projects via Movie Maker for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/stop-the-endless-pop-ups-mastering-how-to-fix-cmd-issue-on-windows-10-and-11-13-solutions/"><u>Stop the Endless Pop-Ups: Mastering How to Fix CMD Issue on Windows 10 and 11 (13 Solutions)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-definitive-answer-to-your-windows-computers-zoom-black-screen-nightmare-expert-advice-and-fixes/"><u>The Definitive Answer to Your Windows Computer's Zoom Black Screen Nightmare - Expert Advice & Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-long-distance-wifi-routers-buyers-guide/"><u>Top Long-Distance WiFi Routers : Buyer's Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/tutorial-paso-a-paso-para-fabricar-un-instalador-multisistema-pe-and-linux-mediante-aomei-partition-wizard/"><u>Tutorial Paso a Paso Para Fabricar Un Instalador Multisistema PE & Linux Mediante AOMEI Partition Wizard</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-to-transitioning-with-wd-blue-ssd-software-across-windows-versions-win11-win10-win8-win7/"><u>Ultimate Guide to Transitioning with WD Blue SSD Software Across Windows Versions (Win11, Win10, Win8, Win7)</u></a></li>
 </ul></div>
 
