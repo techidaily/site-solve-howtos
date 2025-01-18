@@ -1,7 +1,7 @@
 ---
 title: Effective A/B Testing Strategies for Email CTAs with MassMail Software
-date: 2025-01-04T22:05:44.770Z
-updated: 2025-01-12T02:54:56.968Z
+date: 2025-01-12T03:16:41.052Z
+updated: 2025-01-17T18:21:26.201Z
 tags:
   - product
 categories:
@@ -44,19 +44,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -69,6 +61,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -83,20 +79,20 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,17 +102,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-global-viewership-kings-youtubes-viral-royalty/"><u>[Updated] 2024 Approved Global Viewership Kings YouTube's Viral Royalty</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-what-you-need-to-know-about-vanishing-shorts-thumbnails-on-youtube/"><u>[Updated] What You Need to Know About Vanishing Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comprehensive-guide-understanding-the-meaning-and-significance-of-requiem-qanda/"><u>Comprehensive Guide: Understanding the Meaning and Significance of Requiem - Q&A</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/download-and-enjoy-free-audiobooks-anytime-anywhere-best-apps-for-android-devices/"><u>Download & Enjoy Free Audiobooks Anytime, Anywhere: Best Apps for Android Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/efficient-methods-for-converting-and-sending-e-books-directly-to-your-amazon-kindle-reader/"><u>Efficient Methods for Converting and Sending E-Books Directly to Your Amazon Kindle Reader</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-background-noise-be-gone-mastering-audio-cleanup-in-final-cut-pro-x/"><u>In 2024, Background Noise Be Gone Mastering Audio Cleanup in Final Cut Pro X</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-basic-to-win11-bold-how-to-enhance-your-pcs-capabilities/"><u>In 2024, From Basic to Win11 Bold How to Enhance Your PC's Capabilities</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/incorporating-images-into-your-files-a-step-by-step-guide-from-yl-computing/"><u>Incorporating Images Into Your Files: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-edge-40-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Edge 40 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/unlocking-your-pdfs-step-by-step-guide-to-bypassing-adobes-drm-protection/"><u>Unlocking Your PDFs: Step-by-Step Guide to Bypassing Adobe's DRM Protection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/whats-coming-in-apples-latest-unveiling-spotlight-on-fresh-ipads-and-exciting-innovations/"><u>What's Coming in Apple's Latest Unveiling? Spotlight on Fresh iPads and Exciting Innovations!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-initiate-google-meet-using-your-gadget/"><u>[New] In 2024, Initiate Google Meet Using Your Gadget</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-freeze-laughs-select-the-best-templates/"><u>[Updated] Freeze Laughs Select the Best Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-old-school-giggles-unpacking-goofy-movie/"><u>[Updated] Old School Giggles Unpacking 'Goofy Movie'</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-perfect-guide-for-linking-instagram-to-tiktok/"><u>[Updated] Perfect Guide for Linking Instagram to TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-spotting-absent-communications-on-chatface/"><u>2024 Approved Spotting Absent Communications on Chatface</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-work-from-home-productivity-mastering-the-art-of-enhanced-concentration-insights-from-zdnet/"><u>Boosting Work-From-Home Productivity: Mastering the Art of Enhanced Concentration | Insights From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cutting-edge-streaming-top-5-tools-for-capturing-every-meeting-for-2024/"><u>Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/dazzling-4k-resolution-july-2019-desktop-and-mobile-background-graphics-by-yl-computing-immerse-yourself-in-stunning-visuals/"><u>Dazzling 4K Resolution July 2019 Desktop and Mobile Background Graphics by YL Computing – Immerse Yourself in Stunning Visuals</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-graphic-card-longevity-tips-and-tricks-from-yl-software-experts/"><u>Ensuring Graphic Card Longevity - Tips & Tricks From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/hardware-detection-failures-with-scanners-understanding-and-fixing-the-problems-for-smoother-performance-by-yl-software-experts/"><u>Hardware Detection Failures with Scanners – Understanding and Fixing the Problems for Smoother Performance by YL Software Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/maximizing-your-computers-efficiency-top-tips-from-yl-computing/"><u>Maximizing Your Computer's Efficiency: Top Tips From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/navigating-blockchain-breakthroughs-with-expertise-from-yl-technology-solutions/"><u>Navigating Blockchain Breakthroughs with Expertise From YL Technology Solutions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-tailoring-your-mouse-preferences-via-the-control-panel-insights-from-yl-software-solutions/"><u>Step-by-Step Guide: Tailoring Your Mouse Preferences via the Control Panel - Insights From YL Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-set-up-your-psn-profile-a-beginners-guide/"><u>Steps to Set Up Your PSN Profile: A Beginner's Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/troubleshooting-failed-driver-installations-on-windows-10-insights-from-yl-computings-expert-guide/"><u>Troubleshooting Failed Driver Installations on Windows 10: Insights From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/understanding-ransomware-defense-can-microsofts-built-in-security-keep-you-safe-an-analysis-by-yl-software-experts/"><u>Understanding Ransomware Defense: Can Microsoft's Built-In Security Keep You Safe? – An Analysis by YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-computings-guide-joining-the-ico-wave-with-confidence/"><u>YL Computing's Guide: Joining the ICO Wave with Confidence</u></a></li>
 </ul></div>
 
