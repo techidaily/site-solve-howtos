@@ -1,7 +1,7 @@
 ---
 title: Effective A/B Testing Strategies for Email CTAs with MassMail Software
-date: 2025-01-12T03:16:41.052Z
-updated: 2025-01-17T18:21:26.201Z
+date: 2025-01-22T23:40:19.092Z
+updated: 2025-01-24T07:34:14.415Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -63,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -78,44 +82,44 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-initiate-google-meet-using-your-gadget/"><u>[New] In 2024, Initiate Google Meet Using Your Gadget</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-freeze-laughs-select-the-best-templates/"><u>[Updated] Freeze Laughs Select the Best Templates</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-old-school-giggles-unpacking-goofy-movie/"><u>[Updated] Old School Giggles Unpacking 'Goofy Movie'</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfect-guide-for-linking-instagram-to-tiktok/"><u>[Updated] Perfect Guide for Linking Instagram to TikTok</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-spotting-absent-communications-on-chatface/"><u>2024 Approved Spotting Absent Communications on Chatface</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-work-from-home-productivity-mastering-the-art-of-enhanced-concentration-insights-from-zdnet/"><u>Boosting Work-From-Home Productivity: Mastering the Art of Enhanced Concentration | Insights From ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/cutting-edge-streaming-top-5-tools-for-capturing-every-meeting-for-2024/"><u>Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-7-camcorder-reviews-for-mountain-enthusiasts/"><u>[New] 2024 Approved Top 7 Camcorder Reviews for Mountain Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-understanding-twitters-new-video-format-codes/"><u>[New] 2024 Approved Understanding Twitter's New Video Format Codes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-picture-perfect-how-to-accurately-date-your-photos/"><u>[New] In 2024, Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-proart-pa-329q-examining-a-premium-4k-monitor-for-professionals/"><u>[Updated] 2024 Approved ProArt PA 329Q Examining a Premium 4K Monitor for Professionals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enlightening-editing-paths-to-audience-appealing-descriptors-for-2024/"><u>[Updated] Enlightening Editing Paths to Audience-Appealing Descriptors for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-easy-guide-tailor-your-windows-taskbar-via-control-panel-tech-solutions-with-yl/"><u>1. Easy Guide: Tailor Your Windows Taskbar via Control Panel - Tech Solutions with YL</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1732514427504-ylyl/"><u>掌握创建原生应用的基础知识 - YL计算机与YL软件</u></a></li>
 <li><a href="https://solve-howtos.techidaily.com/dazzling-4k-resolution-july-2019-desktop-and-mobile-background-graphics-by-yl-computing-immerse-yourself-in-stunning-visuals/"><u>Dazzling 4K Resolution July 2019 Desktop and Mobile Background Graphics by YL Computing – Immerse Yourself in Stunning Visuals</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ensuring-graphic-card-longevity-tips-and-tricks-from-yl-software-experts/"><u>Ensuring Graphic Card Longevity - Tips & Tricks From YL Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/hardware-detection-failures-with-scanners-understanding-and-fixing-the-problems-for-smoother-performance-by-yl-software-experts/"><u>Hardware Detection Failures with Scanners – Understanding and Fixing the Problems for Smoother Performance by YL Software Experts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-successfully-download-images-from-icloud-on-ios-1211-ultimate-guide-with-7-pro-tips/"><u>How to Successfully Download Images From iCloud on iOS 12/11 – Ultimate Guide with 7 Pro Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/maximizing-your-computers-efficiency-top-tips-from-yl-computing/"><u>Maximizing Your Computer's Efficiency: Top Tips From YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/navigating-blockchain-breakthroughs-with-expertise-from-yl-technology-solutions/"><u>Navigating Blockchain Breakthroughs with Expertise From YL Technology Solutions</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-tailoring-your-mouse-preferences-via-the-control-panel-insights-from-yl-software-solutions/"><u>Step-by-Step Guide: Tailoring Your Mouse Preferences via the Control Panel - Insights From YL Software Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-set-up-your-psn-profile-a-beginners-guide/"><u>Steps to Set Up Your PSN Profile: A Beginner's Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshoot-like-a-pro-expert-tips-for-effective-system-recovery-in-windows-server-2016-top-techniques/"><u>Troubleshoot Like a Pro: Expert Tips for Effective System Recovery in Windows Server 2016 | Top Techniques</u></a></li>
 <li><a href="https://solve-howtos.techidaily.com/troubleshooting-failed-driver-installations-on-windows-10-insights-from-yl-computings-expert-guide/"><u>Troubleshooting Failed Driver Installations on Windows 10: Insights From YL Computing's Expert Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/understanding-ransomware-defense-can-microsofts-built-in-security-keep-you-safe-an-analysis-by-yl-software-experts/"><u>Understanding Ransomware Defense: Can Microsoft's Built-In Security Keep You Safe? – An Analysis by YL Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/yl-computings-guide-joining-the-ico-wave-with-confidence/"><u>YL Computing's Guide: Joining the ICO Wave with Confidence</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-computings-enchanting-bunny-and-butterfly-wallpaper-collection-vibrant-graphics-and-high-res-imagery/"><u>YL Computing's Enchanting Bunny & Butterfly Wallpaper Collection: Vibrant Graphics & High-Res Imagery</u></a></li>
 </ul></div>
 
