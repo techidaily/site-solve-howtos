@@ -1,7 +1,7 @@
 ---
 title: "The Art of Creating Contagious Campaigns: Leveraging Humor for Success with Massmail Software, Insights From 2009"
-date: 2025-01-27T17:55:10.735Z
-updated: 2025-01-31T17:42:32.537Z
+date: 2025-02-12T08:42:17.373Z
+updated: 2025-02-12T20:26:34.973Z
 tags:
   - product
 categories:
@@ -33,12 +33,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -82,32 +86,32 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elevate-visual-storytelling-with-snapchat-zooming-skills/"><u>[New] 2024 Approved Elevate Visual Storytelling with Snapchat Zooming Skills</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-advanced-techniques-for-precise-online-image-cropping/"><u>[New] In 2024, Advanced Techniques for Precise Online Image Cropping</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-dialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>2024 Approved Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comment-resoudre-le-probleme-decran-blanc-sur-un-pc-ou-ordinateur-portable-sous-windows-11/"><u>Comment Résoudre Le Problème D'Écran Blanc Sur Un PC Ou Ordinateur Portable Sous Windows 11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/error-free-techniques-for-remotely-archiving-sql-data-banks/"><u>Error-Free Techniques for Remotely Archiving SQL Data Banks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-pros-and-cons-of-echo-dot-against-homepod-mini/"><u>Evaluating the Pros & Cons of Echo Dot Against HomePod Mini</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/find-missing-drives-on-windows-1011-a-step-by-step-guide/"><u>Find Missing Drives on Windows 10/11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guarantee-uninterrupted-play-with-these-simple-solutions-for-assassins-creed-odyssey-crashing-on-windows-systems/"><u>Guarantee Uninterrupted Play with These Simple Solutions for Assassin's Creed Odyssey Crashing on Windows Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-asus-rog-phone-8-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Asus ROG Phone 8 Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/it-requires-understanding-technology-law-and-traditional-diplomatic-skills/"><u>It Requires Understanding Technology, Law, and Traditional Diplomatic Skills.</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/solving-laptop-webcam-issues-understanding-the-causes-behind-a-non-functioning-camera/"><u>Solving Laptop Webcam Issues: Understanding the Causes Behind a Non-Functioning Camera</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-steamvrs-troublesome-error-308-issue/"><u>Step-by-Step Guide: Resolving SteamVR's Troublesome Error 308 Issue</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/techniques-pour-evaluer-lauthenticite-des-images-en-ligne/"><u>Techniques Pour Évaluer L'Authenticité Des Images en Ligne</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-essential-guide-to-low-cost-cloud-storage-plans/"><u>The Essential Guide to Low-Cost Cloud Storage Plans</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-maximizing-your-gpus-potential-a-guide-to-achieving-peak-graphics-card-performance-yl-computing/"><u>1. Maximizing Your GPU's Potential: A Guide to Achieving Peak Graphics Card Performance - YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ultra-thin-ipad-models-a-visit-to-the-apple-store-and-assessing-impact-of-just-008-thickness-techspot/"><u>Exploring Ultra-Thin iPad Models: A Visit to the Apple Store and Assessing Impact of Just 0.08 Thickness | TechSpot</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-blockchain-bottlenecks-deter-malicious-activities-insights-from-a-yl-computing-research/"><u>How Blockchain Bottlenecks Deter Malicious Activities - Insights From a YL Computing Research</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>In 2024, In-Depth Analysis Asus ProArt PA 329Q 4K Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-fix-it-x-the-end-of-console-quirks/"><u>Introducing Fix-It X: The End of Console Quirks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-gameplay-fixing-fps-drops-while-playing-resident-evil-village-for-pc-users/"><u>Optimizing Your Gameplay: Fixing Fps Drops While Playing Resident Evil Village for PC Users</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/optimizing-your-pcs-performance-with-windows-11-power-management-techniques-from-yl-software-experts/"><u>Optimizing Your PC's Performance with Windows 11 Power Management Techniques From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/resolving-connection-issues-how-to-fix-your-scanners-pc-link-problem/"><u>Resolving Connection Issues: How to Fix Your Scanner's PC Link Problem</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/story-3-the-misunderstanding-about-electronic-stability-control-esc/"><u>Story 3: The Misunderstanding About Electronic Stability Control (ESC)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/uncover-the-reasons-behind-odd-machine-noises-expert-advice-from-yl-software-specialists/"><u>Uncover the Reasons Behind Odd Machine Noises: Expert Advice From YL Software Specialists</u></a></li>
 </ul></div>
 
