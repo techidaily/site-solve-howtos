@@ -1,7 +1,7 @@
 ---
 title: "Nadere Automatisering en Het Ontwijken Van Overlading: De Toekomst Van Digitale Prullenbakbeheer"
-date: 2025-02-10T00:21:41.910Z
-updated: 2025-02-12T20:52:24.211Z
+date: 2025-02-28T16:18:29.004Z
+updated: 2025-03-04T06:04:24.509Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd051ad18a83009076fc1de06.jpg
@@ -61,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -93,25 +89,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,24 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-immersive-gameplay-capturing-with-camrecorder-pro/"><u>[New] Immersive Gameplay Capturing with CamRecorder Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfecting-slide-deck-sharing-how-to-use-your-webcam/"><u>[New] In 2024, Perfecting Slide Deck Sharing How to Use Your Webcam</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-speedy-tactics-for-disorganized-youtube-song-listings/"><u>[Updated] 2024 Approved Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>[Updated] Audience Favorites Outstanding VR Gaming with Google Cardboard</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1-easyslides-studio-your-ultimate-guide-to-creating-stunning-presentations/"><u>1. EasySlides Studio: Your Ultimate Guide to Creating Stunning Presentations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-poco-x6-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Poco X6 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/site-recorder/"><u>忙しくないときのSITE-RECORDERフリーアクティベーションコード探す！</u></a></li>
-<li><a href="https://article-posts.techidaily.com/action-filmmaking-camera-picks-for-newbies-for-2024/"><u>Action Filmmaking Camera Picks for Newbies for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/cambiar-archivos-de-formato-mpeg-a-aiff-online-sin-coste-guia-de-movavi/"><u>Cambiar Archivos De Formato MPEG a AIFF Online Sin Coste: Guía De Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/conversion-gratuite-de-m1v-en-format-ligne-tapez-a-lordinateur-avec-movavi/"><u>Conversion Gratuite De M1V en Format Ligne - Tapez À L'Ordinateur Avec Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-converter-convert-mpegasf-files-without-cost-use-movavi-now/"><u>Free Online Converter: Convert MPEG/ASF Files Without Cost - Use Movavi Now!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/i-tre-metodi-rapidi-per-accelerare-la-visualizzazione-di-un-video-nel-2024-ottimizzati-per-seo/"><u>I Tre Metodi Rapidi Per Accelerare La Visualizzazione Di Un Video Nel 2024 - Ottimizzati per SEO</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 Phone without PIN</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/passos-faceis-para-solucionar-problemas-de-overcarga-no-software-obs-tutoriais-detalhados/"><u>Passos Fáceis Para Solucionar Problemas De Overcarga No Software OBS: Tutoriais Detalhados</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/quick-trimming-techniques-a-step-by-step-movavi-clips-walkthrough-for-speedy-video-editing-on-android-devices/"><u>Quick Trimming Techniques: A Step-by-Step Movavi Clips Walkthrough for Speedy Video Editing on Android Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-m34-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy M34 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-9-tagliatori-di-video-gratuiti-e-ottimizzati-su-internet/"><u>Top 9 Tagliatori Di Video Gratuiti E Ottimizzati Su Internet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtubes-edge-design-tips-for-compelling-video-thumbnails-for-2024/"><u>YouTube's Edge Design Tips for Compelling Video Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dive-into-ustream-and-others-like-it-for-2024/"><u>[New] Dive Into Ustream & Others Like It for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-undoing-movement-how-to-reverse-video-on-snapchat-for-2024/"><u>[New] Undoing Movement How to Reverse Video on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-5-facebook-video-grabbers/"><u>[Updated] 2024 Approved 5 Facebook Video Grabbers</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/wmv-mp4/"><u>如何迅速地改變 WMV影片格式為 MP4: 快速转换教程</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/mp4-aimp4movavi/"><u>網路直通無限制的MP4格式轉換 - AI到MP4自由版Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/conversione-gratuita-online-da-dng-a-tiff-con-movavi/"><u>Conversione Gratuita Online Da DNG a TIFF Con Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-conversion-transform-vob-files-into-wma-format-with-ease-moveavi/"><u>Free Online Conversion: Transform VOB Files Into WMA Format with Ease - Moveavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gli-strategici-passaggi-di-conversione-da-file-avi-a-mkv-metodi-favolosi-ed-economici/"><u>Gli Strategici Passaggi Di Conversione Da File AVI a MKV: Metodi Favolosi Ed Economici!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-completa-para-transformar-avi-en-mkv-sin-gastos-utiliza-el-servicio-de-conversion-on-line-de-movavi/"><u>Guía Completa Para Transformar AVI en MKV Sin Gastos: Utiliza El Servicio De Conversión On-Line De Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-water-cooler-for-gaming-rigs/"><u>In-Depth Look at the Pros and Cons of the Cooler Master ION 360 AIO Water Cooler for Gaming Rigs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-lighting-deal-alert-get-stunning-personalized-govee-neon-lights-at-a-whopping-30-off-full-guide-and-reviews-cnet/"><u>Labor Day Lighting Deal Alert: Get Stunning, Personalized Govee Neon Lights at a Whopping 30% Off! Full Guide and Reviews | CNET</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-mov-file-editors-the-ultimate-2023-list/"><u>New In 2024, Free MOV File Editors The Ultimate 2023 List</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rolls-royce-group-plc/"><u>Rolls-Royce Group Plc</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-abcs-of-facebook-cover-video-production/"><u>The ABCs of Facebook Cover Video Production</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-videos-into-quality-audio-tracks-quick-guide-for-mp4-to-mp3-conversion-with-free-software/"><u>Transform Your Videos Into Quality Audio Tracks – Quick Guide for MP4 to MP3 Conversion with Free Software.</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/wma-naar-mp4-geconverseerdeheid-winsten-makkelijker-als-je-het-zelf-niet-kunt-gratis-movavi-online-converter/"><u>WMA Naar MP4 Geconverseerdeheid Winsten Makkelijker Als Je Het Zelf Niet Kunt - Gratis Movavi Online Converter</u></a></li>
 </ul></div>
 

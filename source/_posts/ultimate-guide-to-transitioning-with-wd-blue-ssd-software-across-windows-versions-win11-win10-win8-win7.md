@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Transitioning with WD Blue SSD Software Across Windows Versions (Win11, Win10, Win8, Win7)
-date: 2025-02-09T06:16:15.516Z
-updated: 2025-02-13T01:08:19.573Z
+date: 2025-02-28T05:25:44.604Z
+updated: 2025-03-03T20:52:17.324Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb6f2fa2e2f0075e18f87eaf2.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -76,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -92,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -106,25 +94,13 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -133,10 +109,6 @@ If you have used File History to save a copy of your precious data, you can foll
 Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File History**.
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
@@ -156,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -168,19 +136,11 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -256,20 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>2024 Approved Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/converta-imagens-em-formatos-gif-e-flv-sem-custos-com-o-online-conversor-da-movavi/"><u>Converta Imagens Em Formatos GIF E FLV Sem Custos Com O Online Conversor Da Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertir-musica-flac-a-mp4-facilmente-y-sin-costo-utilizando-movavi/"><u>Convertir Música FLAC a MP4 Fácilmente Y Sin Costo Utilizando Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertissez-gratuitement-des-films-avimp4mov-en-animations-gif-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Des Films AVI/MP4/MOV en Animations GIF en Ligne Avec Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-visual-discrepancies-in-gaming-monitors/"><u>Eliminating Visual Discrepancies in Gaming Monitors</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-converter-transform-apng-files-into-png-format-with-ease/"><u>Free Online Converter: Transform APNG Files Into PNG Format with Ease</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guida-completa-alla-scelta-del-tuo-team-di-montaggio-video-scopri-i-vantaggi-nelluscire-dal-lotto-con-movavi/"><u>Guida Completa Alla Scelta Del Tuo Team Di Montaggio Video – Scopri I Vantaggi Nell'uscire Dal Lotto Con Movavi!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/harmonic-richness-at-reasonable-costs-paww-wavesound-3-analysis/"><u>Harmonic Richness at Reasonable Costs: Paww Wavesound 3 Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-magic5-ultimate-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor Magic5 Ultimate Pattern Lock Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-12-mini-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 12 mini? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/online-gratis-conversion-of-mkv-to-flac-formats-movievi/"><u>Online Gratis Conversion of MKV to FLAC Formats - Movievi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/quick-and-simple-edit-mp4-files-using-the-movavi-video-editor/"><u>Quick & Simple: Edit MP4 Files Using the Movavi Video Editor</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/rapid-adjustment-of-youtube-vids-for-mac-screen/"><u>Rapid Adjustment of YouTube Vids for Mac Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pinnacle-of-recording-quality-9-mic-devices-rated-best/"><u>[New] In 2024, Pinnacle of Recording Quality 9 Mic Devices Rated Best</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-checklist-for-webinar-video-documentation/"><u>[New] In 2024, The Ultimate Checklist for Webinar Video Documentation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-insider-guide-whatsapp-audio-talks/"><u>[Updated] The Insider Guide WhatsApp Audio Talks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-advanced-shade-realist-app/"><u>2024 Approved Advanced Shade Realist App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-leaks-on-googles-upcoming-pixel-buds-pro-2-cost-predictions-release-timeline-and-specs-uncovered/"><u>Exclusive Leaks on Google's Upcoming Pixel Buds Pro 2: Cost Predictions, Release Timeline, and Specs Uncovered</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-interpret-and-utilize-the-battery-status-overview-in-windows-11/"><u>How To Interpret And Utilize The Battery Status Overview In Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s18-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S18 Device</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-3-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/resolving-compilation-errors-in-cplusplus-after-electronic-book-software-updates/"><u>Resolving Compilation Errors in C++ After Electronic Book Software Updates</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/seamless-transfer-of-kindle-ebooks-onto-blackberry-devices/"><u>Seamless Transfer of Kindle Ebooks Onto Blackberry Devices</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-on-moving-your-pdf-documents-onto-a-kindle-device/"><u>Step-by-Step Guide on Moving Your PDF Documents Onto a Kindle Device</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-converting-ipublishreader-ebooks-to-offline-format-without-drm/"><u>Step-by-Step Guide: Converting iPublishReader eBooks to Offline Format Without DRM</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-moving-ebook-files-from-laptop-to-nook-device-efficiently/"><u>Step-by-Step Guide: Moving eBook Files From Laptop to Nook Device Efficiently</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-removing-titles-from-your-nook-library/"><u>Step-by-Step Guide: Removing Titles From Your Nook Library</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-apps-on-amazons-kindle-paperwhite-and-kindle-touch-models/"><u>Step-by-Step Tutorial: Downloading and Setting Up Apps on Amazon's Kindle Paperwhite & Kindle Touch Models</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-14-engaging-text-movies-for-creative-experimentation/"><u>Top 14 Engaging Text Movies for Creative Experimentation</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-removing-e-books-from-your-kindle-device/"><u>Ultimate Guide: Removing E-Books From Your Kindle Device</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-steps-to-customize-your-kindle-ebooks-cover-design/"><u>Ultimate Guide: Steps to Customize Your Kindle eBook's Cover Design</u></a></li>
 </ul></div>
 

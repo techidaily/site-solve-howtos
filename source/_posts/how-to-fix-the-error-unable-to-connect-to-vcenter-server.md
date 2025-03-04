@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Error: Unable to Connect to vCenter Server"
-date: 2025-02-08T23:09:48.212Z
-updated: 2025-02-13T00:01:58.561Z
+date: 2025-02-25T06:48:40.724Z
+updated: 2025-03-03T22:36:45.710Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d122aae5cba2e71718d3b50f6.jpg
@@ -45,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -88,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -101,25 +89,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,22 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-howtos.techidaily.com/windowsmacword/"><u>[如何]找回Windows和Mac电脑中缺失Word数据的技巧</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-deciphering-the-maximum-duration-for-instagram-videos/"><u>[New] 2024 Approved Deciphering the Maximum Duration for Instagram Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-podcast-logo-basics-key-principles-for-striking-art/"><u>[New] In 2024, Podcast Logo Basics Key Principles for Striking Art</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-perfect-full-screen-display-on-fb-videos-step-by-step-for-2024/"><u>[New] Perfect Full-Screen Display on FB Videos, Step by Step for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-diy-iphone-audio-memos-step-by-step/"><u>[Updated] DIY iPhone Audio Memos Step by Step</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-restored-full-screen-happy-obs-users-for-2024/"><u>[Updated] Restored Full Screen, Happy OBS Users for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-revolutionary-tangle-free-usb-c-cord-transforms-my-travel-experience-why-everyone-should-try/"><u>1. Revolutionary 'Tangle-Free' USB-C Cord Transforms My Travel Experience - Why Everyone Should Try</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-sources-for-free-online-cooking-tutorials-and-guide-to-downloading-them-for-off-site-viewing/"><u>Best Sources for Free Online Cooking Tutorials & Guide to Downloading Them for Off-Site Viewing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/bypassing-windows-11-startup-glitches-a-guide-to-fixing-the-stuck-ready-for-activation-page-with-ease/"><u>Bypassing Windows 11 Startup Glitches: A Guide to Fixing the Stuck 'Ready for Activation' Page with Ease</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/chromium-also-contributes-to-high-temperature-strength-allowing-steel-alloys-to-maintain-their-mechanical-properties-even-at-elevated-temperatures-this-is-p181/"><u>Chromium Also Contributes to High-Temperature Strength, Allowing Steel Alloys to Maintain Their Mechanical Properties Even at Elevated Temperatures. This Is Particularly Important in Applications Such as Jet Engines or Power Plants.</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/clearing-out-windows-11s-shadow-copies-discover-four-efficient-techniques-for-a-clean-system/"><u>Clearing Out Windows 11'S Shadow Copies: Discover Four Efficient Techniques for a Clean System</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/creating-a-backup-of-your-google-drive-data-two-effective-methods/"><u>Creating a Backup of Your Google Drive Data - Two Effective Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/fixing-steam-remote-play-malfunctions-effective-strategies-inside/"><u>Fixing Steam Remote Play Malfunctions: Effective Strategies Inside</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-paso-a-paso-para-crear-una-copia-de-windows-11-en-un-nuevo-disco-duro/"><u>Guía Paso a Paso Para Crear Una Copia De Windows 11 en Un Nuevo Disco Duro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-pc-parts-with-toms-guide-to-hardware/"><u>Navigating PC Parts with Tom's Guide to Hardware</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/professionelle-losungen-fur-die-rettung-von-daten-auf-einem-gespaltenen-datentrager/"><u>Professionelle Lösungen Für Die Rettung Von Daten Auf Einem Gespaltenen Datenträger</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/sauvegardez-votre-fichier-microsoft-outlook-en-deux-mouvements-simples-dvd-ou-cle-usb/"><u>Sauvegardez Votre Fichier Microsoft Outlook en Deux Mouvements Simples: DVD Ou Clé USB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inshots-competitors-for-pclaptop-editors/"><u>[Updated] 2024 Approved Inshot's Competitors for PC/Laptop Editors</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-kontosperre-im-apple-store-and-itunes-was-zu-tun-ist-wenn-ihr-konto-deaktiviert-wird/"><u>1. Kontosperre Im Apple-Store & iTunes: Was Zu Tun Ist, Wenn Ihr Konto Deaktiviert Wird?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1-restoring-lost-images-a-guide-to-retrieving-deleted-pictures-from-your-seagate-portable-drive/"><u>1. Restoring Lost Images: A Guide to Retrieving Deleted Pictures From Your Seagate Portable Drive</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-asus-rog-phone-7-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Asus ROG Phone 7? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-mb168b-driver-download-for-windows-10-7-and-8/"><u>ASUS MB168B Driver Download for Windows 10, 7 & 8</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-moto-g-powers-unmatched-endurance-and-superior-capability/"><u>Comprehensive Review: Moto G Power's Unmatched Endurance & Superior Capability</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-eficaz-para-quitar-fotografias-indeseadas-de-su-telefono-o-pc/"><u>Guía Eficaz Para Quitar Fotografías Indeseadas De Su Teléfono O PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discovering-free-screen-recorders-insightful-review-best-picks/"><u>In 2024, Discovering Free Screen Recorders – Insightful Review, Best Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-windows-11-workflow-activating-outlook-preview-app/"><u>Master Windows 11 Workflow: Activating Outlook Preview App</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-5-methods-to-fix-the-black-screen-of-death-on-windows-7-8-and-10/"><u>Top 5 Methods to Fix the Black Screen of Death on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/two-proven-methods-to-optimize-your-seagate-cloud-backup-process/"><u>Two Proven Methods to Optimize Your Seagate Cloud Backup Process</u></a></li>
 </ul></div>
 

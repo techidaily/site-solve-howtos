@@ -1,7 +1,7 @@
 ---
 title: Maximizing Functionality with Windows 10 Legacy Editions
-date: 2025-02-07T09:52:42.022Z
-updated: 2025-02-12T23:33:13.951Z
+date: 2025-03-03T02:40:27.750Z
+updated: 2025-03-03T18:43:03.365Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a9868bdf923c96ee4b76c8aaef.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -85,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -117,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -137,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,14 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-complete-protocol-never-revisit-your-tiktok-account/"><u>[New] 2024 Approved Complete Protocol Never Revisit Your TikTok Account</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>[New] In 2024, How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-16-best-free-video-players-for-pc/"><u>[Updated] Top 16 Best Free Video Players for PC</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/oggmp4-movavi/"><u>直接在线无限制将OGG转换为MP4 - Movavi 免费射频器</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/conversion-audio-mpe-vers-mp3-sans-frais-guide-complet-avec-movavi/"><u>Conversion Audio MPE Vers MP3 Sans Frais - Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertidor-en-linea-gratuito-caf-a-formatos-m4amp3-por-movavi-sin-coste-alguno/"><u>Convertidor en Línea Gratuito CAF a Formatos M4A/MP3 Por Movavi Sin Coste Alguno</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-poco-c51-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco C51 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-keep-your-intel-hd-graphics-5500-drivers-updated-with-our-quick-fix-guide/"><u>How to Keep Your Intel HD Graphics 5500 Drivers Updated with Our Quick Fix Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/os-melhores-programas-para-transferencia-de-tela-em-2023-analise-detalhada-por-movavi/"><u>Os Melhores Programas Para Transferência De Tela Em 2023 - Análise Detalhada Por Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-deciphering-the-maximum-duration-for-instagram-videos/"><u>[New] 2024 Approved Deciphering the Maximum Duration for Instagram Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-decoding-vimeos-variety-of-subscription-plans-and-their-advantages/"><u>[Updated] Decoding Vimeo's Variety of Subscription Plans and Their Advantages</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-quick-tips-for-professional-adjustments-in-ps/"><u>[Updated] Quick Tips for Professional Adjustments in PS</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/best-5-complimentary-tools-for-crafting-e-books-a-top-ranked-guide/"><u>Best 5 Complimentary Tools For Crafting E-Books: A Top Ranked Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/conversion-rate-optimization-improving-failed-conversions/"><u>Conversion Rate Optimization: Improving Failed Conversions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/discover-who-we-are-a-closer-look-at-our-team-and-mission/"><u>Discover Who We Are: A Closer Look at Our Team and Mission</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-we-test-phones-at-zdnet/"><u>How We Test Phones at ZDNET .</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-f34-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy F34 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-lost-keys-with-2e-top-sound-wave-tracker-picks-for-a-hassle-free-2024/"><u>Say Goodbye to Lost Keys with 2E – Top Sound Wave Tracker Picks for a Hassle-Free 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-c51-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco C51 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-simple-videos-text-addition-in-windows-10s-photos-software-for-2024/"><u>Transforming Simple Videos Text Addition in Windows 10'S Photos Software for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-where-to-find-and-secure-your-kindle-devices-custom-desktop-backgrounds/"><u>Ultimate Guide: Where to Find and Secure Your Kindle Device's Custom Desktop Backgrounds</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-digital-restrictions-on-ebooks-a-guide-to-removing-drm-focus-on-chapter-14/"><u>Unlocking Digital Restrictions on eBooks - A Guide to Removing DRM (Focus on Chapter 14)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-the-perfect-algorithm-your-ultimate-guide/"><u>Unlocking the Perfect Algorithm: Your Ultimate Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/urgent-steps-how-to-bypass-protection-and-remove-drm-from-pdfs/"><u>Urgent Steps: How To Bypass Protection And Remove DRM From PDFs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-redmi-note-13-proplus-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi Redmi Note 13 Pro+ 5G Phones</u></a></li>
 </ul></div>
 

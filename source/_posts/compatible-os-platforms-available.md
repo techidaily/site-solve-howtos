@@ -1,7 +1,7 @@
 ---
 title: Compatible OS Platforms Available
-date: 2025-02-06T20:24:46.652Z
-updated: 2025-02-13T07:15:55.756Z
+date: 2025-02-26T17:13:45.562Z
+updated: 2025-03-03T21:28:49.706Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d831c81a6f2628b843ff494a.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
@@ -74,17 +70,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -97,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -122,17 +106,9 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -165,17 +141,9 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -188,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -268,19 +232,19 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-clout-not-content-efficient-video-length-reduction/"><u>[Updated] 2024 Approved Cutting Clout, Not Content Efficient Video Length Reduction</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-tailoring-social-interaction-the-art-of-snapchat-pins-for-2024/"><u>[Updated] Tailoring Social Interaction The Art of Snapchat Pins for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/discover-fresh-hits-with-out-of-the-woods-karaoke-cloud-pros-top-pick-from-new-releases/"><u>Discover Fresh Hits with Out Of The Woods – Karaoke Cloud Pro's Top Pick From New Releases!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effective-methods-for-assessing-graphics-card-temperatures-with-yl-software-insights/"><u>Effective Methods for Assessing Graphics Card Temperatures with YL Software Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-redmi-12-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi 12 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/master-straightforward-pc-refresh-methods-with-yl-software-solutions/"><u>Master Straightforward PC Refresh Methods with YL Software Solutions</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/minimizing-background-applications-effects-on-performance-insights-from-yl-software/"><u>Minimizing Background Applications' Effects on Performance - Insights From YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-tecno-pova-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Pova 5? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/solving-the-mystery-of-fuzzy-printouts-a-comprehensive-guide-by-yl-computing-software-experts/"><u>Solving the Mystery of Fuzzy Printouts: A Comprehensive Guide by YL Computing Software Experts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-adjusting-your-windows-defense-tools-through-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Windows Defense Tools Through Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailored-transmission-terminal-podcasters-hub/"><u>Tailored Transmission Terminal Podcaster's Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-your-systems-ram-with-windows/"><u>Unlocking the Full Potential of Your System's RAM with Windows</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/yl-software-guide-diagnosing-and-repairing-scanning-device-network-errors-effectively/"><u>YL Software Guide: Diagnosing & Repairing Scanning Device Network Errors Effectively</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1615055-9781405525350-your-body-speaks-your-mind/"><u>Your Body Speaks Your Mind | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-strategies-to-skyrocket-your-fb-video-ad-impact/"><u>[New] In 2024, Strategies to Skyrocket Your FB Video Ad Impact</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-cloud-storage-vendors-a-comparative-pricing-analysis/"><u>[New] Leading Cloud Storage Vendors A Comparative Pricing Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-fixing-windows-lsass-components-issue/"><u>A Guide to Fixing Windows Lsass Components Issue</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-graphic-card-longevity-tips-and-tricks-from-yl-software-experts/"><u>Ensuring Graphic Card Longevity - Tips & Tricks From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/hardware-detection-failures-with-scanners-understanding-and-fixing-the-problems-for-smoother-performance-by-yl-software-experts/"><u>Hardware Detection Failures with Scanners – Understanding and Fixing the Problems for Smoother Performance by YL Software Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-the-ins-and-outs-of-discord-setup-on-a-mac/"><u>Learn the Ins and Outs of Discord Setup on a Mac</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/maximizing-your-computers-efficiency-top-tips-from-yl-computing/"><u>Maximizing Your Computer's Efficiency: Top Tips From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/navigating-blockchain-breakthroughs-with-expertise-from-yl-technology-solutions/"><u>Navigating Blockchain Breakthroughs with Expertise From YL Technology Solutions</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2013-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-tailoring-your-mouse-preferences-via-the-control-panel-insights-from-yl-software-solutions/"><u>Step-by-Step Guide: Tailoring Your Mouse Preferences via the Control Panel - Insights From YL Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergy-unleashed-how-ai-and-5g-are-revolutionizing-tech-innovations-insights-from-zdnet/"><u>Synergy Unleashed: How AI & 5G Are Revolutionizing Tech Innovations | Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-keep-diablo-iv-running-smoothly-on-pc-ps5-and-xbox-devices/"><u>Top Strategies to Keep Diablo IV Running Smoothly on PC, PS5, and Xbox Devices</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-computings-guide-joining-the-ico-wave-with-confidence/"><u>YL Computing's Guide: Joining the ICO Wave with Confidence</u></a></li>
 </ul></div>
 

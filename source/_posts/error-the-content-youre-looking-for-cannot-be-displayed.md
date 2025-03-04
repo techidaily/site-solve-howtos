@@ -1,7 +1,7 @@
 ---
 title: "Error: The Content You're Looking For Cannot Be Displayed"
-date: 2025-02-07T18:09:24.061Z
-updated: 2025-02-12T19:06:47.800Z
+date: 2025-02-28T03:05:37.670Z
+updated: 2025-03-03T17:31:11.100Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bbd0528bdfed36b2cacc46f01.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -100,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -133,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-masterful-examples-of-3d-font-art-available-from-these-9-web-destinations/"><u>[New] Masterful Examples of 3D Font Art Available From These 9 Web Destinations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pinnacle-phones-the-supreme-choices-in-mobile-video-recording-for-2024/"><u>[New] Pinnacle Phones The Supreme Choices in Mobile Video Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mac-users-guide-the-5-most-acclaimed-sniping-apps/"><u>[Updated] In 2024, Mac Users' Guide The 5 Most Acclaimed Sniping Apps</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/windows-server-2019/"><u>如何即時維修 Windows Server 2019 功能表啟動失敗？兩種有效方式</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/addressing-metropolis-mastery-failures-steps-for-launching-skylines-city-builder/"><u>Addressing Metropolis Mastery Failures: Steps for Launching Skylines City Builder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/batch-conversion-of-awb-files-into-mp3-a-comprehensive-guide/"><u>Batch Conversion of AWB Files Into MP3: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comment-resoudre-le-probleme-decran-blanc-sur-un-pc-ou-ordinateur-portable-sous-windows-11/"><u>Comment Résoudre Le Problème D'Écran Blanc Sur Un PC Ou Ordinateur Portable Sous Windows 11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/efficient-bulk-email-retrieval-with-cutting-edge-massmail-technology/"><u>Efficient Bulk Email Retrieval with Cutting-Edge MassMail Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-iphones-stand-by-working-again-with-these-proven-fixes/"><u>Get Your iPhone's Stand-By Working Again with These Proven Fixes</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-can-i-ensure-deleted-text-messages-are-permanently-removed/"><u>How Can I Ensure Deleted Text Messages Are Permanently Removed?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722865646492-how-to-restore-missed-email-delivery-on-yahoo-mail-services-effectively/"><u>How To Restore Missed Email Delivery on Yahoo Mail Services Effectively</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-z-flip-5-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy Z Flip 5 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/in-depth-overview-of-diskdigger-advantages-disadvantages-and-similar-applications/"><u>In-Depth Overview of DiskDigger: Advantages, Disadvantages, and Similar Applications</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-fixes-for-common-hulu-errors-a-comprehensive-troubleshooting-handbook/"><u>Mastering Fixes for Common Hulu Errors: A Comprehensive Troubleshooting Handbook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sony-wireless-earbuds-assessment-unveiling-the-digital-alchemy-behind-their-superior-sound/"><u>Sony Wireless Earbuds Assessment: Unveiling the Digital Alchemy Behind Their Superior Sound</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/tot-alemaal-wegnemen-van-gegevensverlies-bij-instaplot-herstelprojecten/"><u>Tot Alemaal - Wegnemen Van Gegevensverlies Bij Instaplot-Herstelprojecten</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transform-heic-photos-into-jpg-using-dropbox-a-step-by-step-tutorial-for-ios-and-windows-users/"><u>Transform HEIC Photos Into JPG Using Dropbox - A Step-by-Step Tutorial for iOS & Windows Users</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/understanding-the-challenges-of-effective-marketing-with-massmail-tools/"><u>Understanding the Challenges of Effective Marketing with Massmail Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-50plus-text-wonders-in-video-editing/"><u>[New] In 2024, 50+ Text Wonders in Video Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-visionary-tools-free-environmental-props/"><u>[Updated] In 2024, Visionary Tools Free Environmental Props</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-windows-10-features-for-seamless-video-editing/"><u>[Updated] Navigating Windows 10 Features for Seamless Video Editing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-hidden-drain-unearthing-deceptive-likes-costs/"><u>[Updated] The Hidden Drain Unearthing Deceptive Likes' Costs</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728493484105-4/"><u>「ごみ箱から飛び出したファイル、これで救える4つの蘇生技術」</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/5bco6iiq6ycg5zcr5qc85byp5yyw56gs56kf55qe5q245yqf77ya5pwr5zue5yig5ymy5y2a5lit55qe5pw45poa/"><u>導航逆向格式化硬碟的歸功：救回分割區中的數據</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/windows-10-5/"><u>如何高效地在 Windows 10 系统上进行数据/文件备份 - 5 步骤指南</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728462239161-windows/"><u>無成本Windows電腦緊急修復工具選用 - [最新版建議選擇]</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728489799800-sd/"><u>一人で復活! : 自立修理のコツがわかる微小なSDカードのデータ回収法</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aufklarung-und-behebung-von-fehler-0x80070141-das-gerat-kann-nicht-erreicht-werden/"><u>Aufklärung Und Behebung Von 'Fehler 0X80070141: Das Gerät Kann Nicht Erreicht Werden'</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/best-5-leading-ssd-drive-rescue-programs-compare-top-picks/"><u>Best 5 Leading SSD Drive Rescue Programs: Compare Top Picks</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effective-strategies-for-restoring-files-from-a-transcend-external-hdd/"><u>Effective Strategies for Restoring Files From a Transcend External HDD</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-typing-efficiency-with-filter-keys-settings/"><u>Empowering Typing Efficiency with Filter Keys Settings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-a-smooth-play-overcoming-psychonauts-2s-crash-problems-on-pc/"><u>Expert Advice for a Smooth Play: Overcoming Psychonauts 2'S Crash Problems on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitech-g-pro-x-cracking-popping-noise-on-pc-2024-tips/"><u>How to Fix Logitech G Pro X Cracking/ Popping Noise on PC - 2024 Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>In 2024, Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-productivity-microsoft-enhances-windows-11-with-ai-taskbar-partner/"><u>Reimagining Productivity: Microsoft Enhances Windows 11 with AI Taskbar Partner</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solving-the-puzzle-of-roblox-error-code-277-your-essential-step-by-step-tutorial/"><u>Solving the Puzzle of Roblox Error Code 277: Your Essential Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-sicherheitshelfer-fur-cloud-daten-erfolgreiches-open-source-software/"><u>Top-Sicherheitshelfer Für Cloud-Daten: Erfolgreiches Open-Source Software</u></a></li>
 </ul></div>
 

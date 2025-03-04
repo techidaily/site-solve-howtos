@@ -1,7 +1,7 @@
 ---
 title: Guide D’installation De La Machine Virtuelle Compatible Avec Windows 11 Et Windows 10 - Bits 32 Et Vecteur.
-date: 2025-02-07T08:57:53.481Z
-updated: 2025-02-13T07:30:23.429Z
+date: 2025-02-25T00:57:56.549Z
+updated: 2025-03-03T18:03:13.133Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8b2bf719cd3aff87104df8bb.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -50,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -77,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -88,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -124,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,22 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos-for-2024/"><u>[New] Cultivating Productive Collaboration A Pathway to Effective Collab Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-creative-potential-in-lyric-videos-with-lyric-video-maker/"><u>[New] Unlocking Creative Potential in Lyric Videos with Lyric Video Maker</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-stealthy-facebook-video-navigator-for-2024/"><u>[Updated] Stealthy Facebook Video Navigator for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-best-online-church-streaming-options/"><u>2024 Approved Uncover The Best Online Church Streaming Options</u></a></li>
-<li><a href="https://solve-help.techidaily.com/expert-tips-for-reinstating-video-card-drivers-gearup-computing-resources/"><u>Expert Tips for Reinstating Video Card Drivers - GearUp Computing Resources</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y55s-5g-2023-by-drfone-android/"><u>How to Bypass FRP from Vivo Y55s 5G (2023)?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a60-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A60 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/novice-networking-necessities-affordable-monetized-platforms-for-2024/"><u>Novice Networking Necessities Affordable Monetized Platforms for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-on-moving-your-pdf-documents-onto-a-kindle-device/"><u>Step-by-Step Guide on Moving Your PDF Documents Onto a Kindle Device</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-converting-ipublishreader-ebooks-to-offline-format-without-drm/"><u>Step-by-Step Guide: Converting iPublishReader eBooks to Offline Format Without DRM</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-moving-ebook-files-from-laptop-to-nook-device-efficiently/"><u>Step-by-Step Guide: Moving eBook Files From Laptop to Nook Device Efficiently</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-removing-titles-from-your-nook-library/"><u>Step-by-Step Guide: Removing Titles From Your Nook Library</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-apps-on-amazons-kindle-paperwhite-and-kindle-touch-models/"><u>Step-by-Step Tutorial: Downloading and Setting Up Apps on Amazon's Kindle Paperwhite & Kindle Touch Models</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-7-unbeatable-black-friday-bargains-on-apple-airpods-find-your-perfect-fit/"><u>Top 7 Unbeatable Black Friday Bargains on Apple AirPods - Find Your Perfect Fit</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-removing-e-books-from-your-kindle-device/"><u>Ultimate Guide: Removing E-Books From Your Kindle Device</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-steps-to-customize-your-kindle-ebooks-cover-design/"><u>Ultimate Guide: Steps to Customize Your Kindle eBook's Cover Design</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-where-to-find-and-secure-your-kindle-devices-custom-desktop-backgrounds/"><u>Ultimate Guide: Where to Find and Secure Your Kindle Device's Custom Desktop Backgrounds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crafting-a-submission-that-works-on-apples-platform/"><u>[New] 2024 Approved Crafting a Submission that Works on Apple's Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-motion-audit-2023/"><u>[New] Total Motion Audit 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-vid-lifting-made-simple-top-5-free-downloaders-for-pinterest-users/"><u>2024 Approved Vid Lifting Made Simple Top 5 Free Downloaders for Pinterest Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-restoring-a-computer-without-any-indicators-of-functionality/"><u>Diagnosing and Restoring a Computer Without Any Indicators of Functionality</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-to-restore-defaults-for-wireless-networks-in-the-control-panel-tips-from-yl-software-experts/"><u>Guide to Restore Defaults for Wireless Networks in the Control Panel – Tips From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-disable-or-remove-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>How to Disable or Remove Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi 14 Ultra?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-enhance-user-experience-top-free-speech-to-text-apps-for-mac-revealed/"><u>In 2024, Enhance User Experience Top Free Speech-to-Text Apps for Mac Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-pros-picks-best-microphones-for-asmr-recording/"><u>In 2024, Pros' Picks Best Microphones for ASMR Recording</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/is-your-scanner-due-for-an-update-find-out-how-with-yl-computings-latest-software-solutions/"><u>Is Your Scanner Due for an Update? Find Out How with YL Computing's Latest Software Solutions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/locating-your-pcs-security-a-guide-on-monitoring-windows-defender-activity-insights-from-yl-computing/"><u>Locating Your PC's Security: A Guide on Monitoring Window's Defender Activity - Insights From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/new-hardware-woes-why-your-internet-is-down-after-upgrading-to-the-latest-network-card-expert-fixes-by-yl-software/"><u>New Hardware Woes: Why Your Internet Is Down After Upgrading to the Latest Network Card – Expert Fixes by YL Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unraveling-the-downfall-key-factors-behind-the-collapse-of-the-qin-empire-insights-by-yl-technologies/"><u>Unraveling the Downfall: Key Factors Behind the Collapse of the Qin Empire - Insights by YL Technologies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-8-best-music-production-software-for-mac-and-windows/"><u>Updated 2024 Approved 8 Best Music Production Software for Mac and Windows</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/updating-your-pcs-graphics-driver-a-step-by-step-guide-tech-support-central/"><u>Updating Your PC's Graphics Driver: A Step-by-Step Guide - Tech Support Central</u></a></li>
 </ul></div>
 

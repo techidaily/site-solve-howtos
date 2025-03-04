@@ -1,7 +1,7 @@
 ---
 title: 如何即時維修 Windows Server 2019 功能表啟動失敗？兩種有效方式
-date: 2025-02-10T03:55:21.217Z
-updated: 2025-02-13T08:26:25.060Z
+date: 2025-03-01T06:13:37.802Z
+updated: 2025-03-04T00:00:32.115Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb11efd7a5c77057696af7ee4.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -39,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -51,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -76,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -108,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,18 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-your-one-stop-guide-30-prime-websites-offering-free-vectr-and-graphic-services/"><u>[New] In 2024, Your One-Stop Guide 30 Prime Websites Offering Free Vectr & Graphic Services</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-investors-handbook-for-monetized-youtubers-for-2024/"><u>[Updated] The Investor's Handbook for Monetized Youtubers for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-dell-unveils-new-lightweight-gaming-laptop-the-perfect-hybrid-for-gamers-and-professionals-at-work/"><u>1. Dell Unveils New Lightweight Gaming Laptop: The Perfect Hybrid for Gamers and Professionals at Work!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-analysis-for-youtube-promotion-for-2024/"><u>Budget Analysis for YouTube Promotion for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-t2-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo T2 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/can-upgrading-your-pcs-memory-boost-its-performance-in-depth-analysis-by-yl-tech/"><u>Can Upgrading Your PC's Memory Boost Its Performance? - In-Depth Analysis by YL Tech</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-performance-verifying-hard-drive-functionality-with-tips-from-yl-software/"><u>Ensuring Optimal Performance: Verifying Hard Drive Functionality with Tips From YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/resolving-critical-errors-in-windows-insights-into-the-blue-screens-from-professionals-at-yl-software/"><u>Resolving Critical Errors in Windows: Insights Into the Blue Screens From Professionals at YL Software</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/securing-your-system-essential-tips-to-defend-against-viruses-and-cyber-threats-expert-advice-from-yl-computing/"><u>Securing Your System: Essential Tips to Defend Against Viruses & Cyber Threats - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/troubleshooting-your-unbootable-pc-essential-steps-according-to-yl-computing-software-specialists/"><u>Troubleshooting Your Unbootable PC: Essential Steps According to YL Computing Software Specialists</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-tutorial-mastering-optical-media-burning-using-yls-windows-tools/"><u>Ultimate Tutorial: Mastering Optical Media Burning Using YL's Windows Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/user-guide-maximizing-your-experience-with-google-maps-on-iphones/"><u>User Guide: Maximizing Your Experience with Google Maps on iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-constructing-a-premium-video-editing-pc-from-the-ground-up/"><u>[New] Constructing a Premium Video Editing PC From the Ground Up</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>[Updated] 2024 Approved Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-ground-with-2023s-samsung-k850u-revision/"><u>[Updated] Breaking Ground with 2023’S Samsung K850U Revision</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-guiding-audio-dimming-in-fl-studio/"><u>[Updated] Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-beyond-photography-an-exhaustive-review-of-the-toolwiz-app-2023/"><u>[Updated] In 2024, Beyond Photography An Exhaustive Review of the Toolwiz App, 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-scrutinizing-the-premier-collection-of-affordable-lut-files/"><u>[Updated] Scrutinizing the Premier Collection of Affordable LUT Files</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728491322748-6/"><u>「アップルパソコンで削除されたファイルの6つの回復手段」</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/5-effective-techniques-to-copy-entire-google-drive-directory-hierarchy-seamlessly/"><u>5 Effective Techniques to Copy Entire Google Drive Directory Hierarchy Seamlessly</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-complet-solutions-miracle-pour-arreter-les-demarrages-en-boucle-dans-windows-7-methodes-n1-a-4/"><u>Guide Complet : Solutions Miracle Pour Arrêter Les Démarrages en Boucle Dans Windows 7 - Méthodes N°1 À 4</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-simple-et-sur-pour-copier-votre-contenu-de-carte-sd-vers-une-cle-usb/"><u>Guide Simple Et Sûr Pour Copier Votre Contenu De Carte SD Vers Une Clé USB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-depth-zoom-techniques-for-exceptional-podcasts/"><u>In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-von-buffalo-cloud-sicherung/"><u>Schritt-Für-Schritt-Anleitung Zum Einrichten Von Buffalo Cloud Sicherung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-enhancing-download-performance-on-origin-platforms-this-year/"><u>Top Strategies for Enhancing Download Performance on Origin Platforms This Year</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-say-goodbye-to-boring-videos-top-time-lapse-apps-for-iphone-and-android-users/"><u>Updated 2024 Approved Say Goodbye to Boring Videos Top Time-Lapse Apps for iPhone and Android Users</u></a></li>
 </ul></div>
 

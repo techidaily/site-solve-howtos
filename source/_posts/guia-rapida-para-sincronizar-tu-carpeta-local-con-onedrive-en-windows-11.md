@@ -1,7 +1,7 @@
 ---
 title: Guía Rápida Para Sincronizar Tu Carpeta Local Con OneDrive en Windows 11
-date: 2025-02-10T23:49:57.025Z
-updated: 2025-02-13T09:49:23.356Z
+date: 2025-02-27T03:12:51.826Z
+updated: 2025-03-03T18:18:19.981Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366c449e4d477fdb61f162967a.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -89,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -108,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,17 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>2024 Approved Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/como-convertirte-rapidamente-tu-audio-wav-al-formato-wma-gratis-usando-la-herramienta-en-linea-de-movavi/"><u>Cómo Convertirte Rápidamente Tu Audio WAV Al Formato WMA Gratis Usando La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/descubra-as-maiores-ferramentas-de-filtro-slow-motion-no-android-e-ios-numero-1-a-10/"><u>Descubra as Maiores Ferramentas De Filtro Slow-Motion No Android E iOS: Número 1 a 10</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-mpeg-to-avi-converter-by-movavi-no-cost-fast-and-reliable/"><u>Free Online MPEG to AVI Converter by Movavi - No Cost, Fast and Reliable</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/movavi-mov-and-wmv/"><u>Movavi: [オンライン] MOV & WMVファイル変換を手軽に、かつ[無料]に楽しめるツール</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-a18-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo A18)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-quest-for-artifice-intelligence-success-deciphering-the-turing-test/"><u>The Quest for Artifice Intelligence Success: Deciphering the Turing Test</u></a></li>
-<li><a href="https://windows11.techidaily.com/tricks-for-efficient-memory-management-in-windows/"><u>Tricks for Efficient Memory Management in Windows</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/vergelijkende-analyse-van-movavi-vrije-betaalmethoden-wilsbekendheid-en-efficient/"><u>Vergelijkende Analyse Van Movavi-Vrije Betaalmethoden: Wilsbekendheid en Efficiënt</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v27-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V27 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winning-the-battle-against-windows-10-high-ram-drain-tips-and-tricks/"><u>Winning the Battle Against Windows 10 High RAM Drain - Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-angular-adjustments-in-vlc-player-for-2024/"><u>[New] Mastering Angular Adjustments in VLC Player for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comprehensive-guide-understanding-the-meaning-and-significance-of-requiem-qanda/"><u>Comprehensive Guide: Understanding the Meaning and Significance of Requiem - Q&A</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-techkey-bluetooth-adapter-drivers-on-windows-10-7-or-8/"><u>Easy Install Techkey Bluetooth Adapter Drivers on Windows 10, 7 or 8</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/gratuit-verbeteren-van-ts-naar-avi-onlinerekening-veejournalisten/"><u>Gratuit Verbeteren Van Ts Naar Avi - Onlinerekening Veejournalisten</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/guia-completa-para-desinstalar-una-unidad-usb-en-windows-11-con-tres-metodos-principales/"><u>Guía Completa Para Desinstalar Una Unidad USB en Windows 11 Con Tres Métodos Principales</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pova-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pova 5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-made-downloads-selecting-your-perfect-4k-app-for-2024/"><u>Tailor-Made Downloads Selecting Your Perfect 4K App for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-kindle-library-how-to-bypass-drm-on-azw3-books-for-the-newest-edition-year-2024/"><u>Unlocking Your Kindle Library: How to Bypass DRM on AZW3 Books for the Newest Edition (Year 2024)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-pdfs-step-by-step-guide-to-bypassing-adobes-drm-protection/"><u>Unlocking Your PDFs: Step-by-Step Guide to Bypassing Adobe's DRM Protection</u></a></li>
 </ul></div>
 

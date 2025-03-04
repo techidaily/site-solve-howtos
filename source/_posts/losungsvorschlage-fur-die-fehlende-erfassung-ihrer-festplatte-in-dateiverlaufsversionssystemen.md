@@ -1,7 +1,7 @@
 ---
 title: Lösungsvorschläge Für Die Fehlende Erfassung Ihrer Festplatte in Dateiverlaufsversionssystemen
-date: 2025-02-06T03:19:14.485Z
-updated: 2025-02-13T05:02:59.823Z
+date: 2025-02-28T04:34:47.687Z
+updated: 2025-03-03T22:56:21.903Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b7faf838f32af6539b7e71cf.jpg
@@ -18,27 +18,15 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -60,17 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -98,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -126,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -141,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -168,10 +136,6 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
@@ -190,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -256,20 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leading-spots-for-stunning-3d-metallic-type-creations/"><u>[New] 2024 Approved Leading Spots for Stunning 3D Metallic Type Creations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-discovering-facebooks-quintessential-updates/"><u>[Updated] 2024 Approved Discovering Facebook's Quintessential Updates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-significant-details-in-asmr-recording-art/"><u>[Updated] 2024 Approved Significant Details in ASMR Recording Art</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1-easy-guide-tailor-your-windows-taskbar-via-control-panel-tech-solutions-with-yl/"><u>1. Easy Guide: Tailor Your Windows Taskbar via Control Panel - Tech Solutions with YL</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1732514427504-ylyl/"><u>掌握创建原生应用的基础知识 - YL计算机与YL软件</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-game-enhancing-pc-fps-in-windows-11/"><u>Boost Your Game: Enhancing PC FPS in Windows 11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/dazzling-4k-resolution-july-2019-desktop-and-mobile-background-graphics-by-yl-computing-immerse-yourself-in-stunning-visuals/"><u>Dazzling 4K Resolution July 2019 Desktop and Mobile Background Graphics by YL Computing – Immerse Yourself in Stunning Visuals</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/hardware-detection-failures-with-scanners-understanding-and-fixing-the-problems-for-smoother-performance-by-yl-software-experts/"><u>Hardware Detection Failures with Scanners – Understanding and Fixing the Problems for Smoother Performance by YL Software Experts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-f54-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy F54 5G Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovation-showcase-leading-4k-recorders-of-the-year-for-2024/"><u>Innovation Showcase Leading 4K Recorders of the Year for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/maximizing-your-firefox-multitasking-with-ffxp-for-2024/"><u>Maximizing Your Firefox Multitasking with FFXP for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/meet-the-upgraded-revo-uninstaller-pro-5-for-optimal-pc-maintenance/"><u>Meet the Upgraded Revo Uninstaller Pro 5 for Optimal PC Maintenance</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-tailoring-your-mouse-preferences-via-the-control-panel-insights-from-yl-software-solutions/"><u>Step-by-Step Guide: Tailoring Your Mouse Preferences via the Control Panel - Insights From YL Software Solutions</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/troubleshooting-failed-driver-installations-on-windows-10-insights-from-yl-computings-expert-guide/"><u>Troubleshooting Failed Driver Installations on Windows 10: Insights From YL Computing's Expert Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/yl-computings-enchanting-bunny-and-butterfly-wallpaper-collection-vibrant-graphics-and-high-res-imagery/"><u>YL Computing's Enchanting Bunny & Butterfly Wallpaper Collection: Vibrant Graphics & High-Res Imagery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-tags-to-amplify-your-youtube-gaming-channel/"><u>[New] 2024 Approved Essential Tags to Amplify Your YouTube Gaming Channel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-key-practices-for-soundless-media-gathering-for-2024/"><u>[New] Key Practices for Soundless Media Gathering for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sensation-tiktoks-top-10-per-share/"><u>[Updated] 2024 Approved Social Media Sensation TikTok's Top 10 Per Share</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-openers-to-increase-views/"><u>[Updated] Free Video Openers to Increase Views</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/compreran-a-deep-dive-into-the-logitech-4k-pro-webcam-for-2024/"><u>Compreran a Deep Dive Into the Logitech 4K Pro Webcam for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/decoding-visual-glitches-why-are-you-seeing-artifacts-on-your-computer-screen/"><u>Decoding Visual Glitches: Why Are You Seeing Artifacts on Your Computer Screen?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-gpu-functionality-a-compreh/"><u>Ensuring Optimal GPU Functionality: A Compreh</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ensuring-optimal-graphics-card-functionality-tips-from-yl-software-experts/"><u>Ensuring Optimal Graphics Card Functionality - Tips From YL Software Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/evaluating-your-sound-card-performance-a-guide-for-pc-users-yl-software-insights/"><u>Evaluating Your Sound Card Performance: A Guide for PC Users - YL Software Insights</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/fixing-graphics-card-problems-effectively-expert-advice-from-yl-computings-tech-team/"><u>Fixing Graphics Card Problems Effectively: Expert Advice From YL Computing's Tech Team</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/watcher-to-writer-how-to-set-up-a-sports-channel-on-macos-for-2024/"><u>From Watcher to Writer How to Set Up a Sports Channel on macOS for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-can-you-verify-your-computers-sound-card-works-properly-expert-tips-from-yl-computing/"><u>How Can You Verify Your Computer's Sound Card Works Properly? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aggregating-users-experiences-with-vllo/"><u>In 2024, Aggregating Users' Experiences with VLLO</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-social-spheres-new-picks-explore-these-8-trends/"><u>In 2024, The Social Sphere's New Picks Explore These 8 Trends</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/samsung-data-transfer-duration-estimated-time-required/"><u>Samsung Data Transfer Duration: Estimated Time Required</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-1-live-music-broadcasts/"><u>Top 1 Live Music Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-13-ultimate-dvd-player-apps-compatible-with-windows-11-the-best-free-options/"><u>Top 13 Ultimate DVD Player Apps Compatible with Windows 11: The Best FREE Options</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/trouble-installing-your-program-expert-solutions-from-yl-computing/"><u>Trouble Installing Your Program? Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/troubleshooting-slow-performance-on-your-laptop-after-the-latest-windows-patch-advice-by-yl-computing/"><u>Troubleshooting Slow Performance on Your Laptop After the Latest Windows Patch - Advice by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficient Guide to Formatting the C Drive on a Windows 10 PC: Step-by-Step Instructions"
-date: 2025-02-06T07:26:35.142Z
-updated: 2025-02-12T18:02:42.945Z
+date: 2025-03-02T22:40:26.219Z
+updated: 2025-03-04T04:46:57.322Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -60,10 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -76,20 +68,12 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -113,15 +97,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -166,10 +142,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -178,10 +150,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -215,10 +183,6 @@ For backup and restore features, you have 4 corresponding options plus two premi
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs about Norton Ghost
 
 **1\. Is Norton Ghost still available?**
@@ -244,10 +208,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -298,22 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-taming-the-obs-timeline-glitches/"><u>[New] 2024 Approved Taming the OBS Timeline Glitches</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevating-emotion-the-art-of-tiktok-effects-for-2024/"><u>[New] Elevating Emotion The Art of TikTok Effects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-extended-review-for-uncomplicated-hdr-techniques/"><u>[New] Extended Review for Uncomplicated HDR Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-aligning-podcast-drop-dates-with-listener-patterns/"><u>[Updated] Aligning Podcast Drop Dates with Listener Patterns</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-11dvd-dvdavi-mp4-h264androidiphone/"><u>针对Windows 11系统的优化DVD转码器 - 高效无损地将DVD转为AVI MP4 H264格式，专业制作的Android、iPhone和平板免费工具</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-unlock-kindle-books-and-bypass-amazons-drm-a-guide-for-personal-consumption/"><u>How to Unlock Kindle Books and Bypass Amazon's DRM: A Guide for Personal Consumption</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/liberamente-converte-i-tuoi-video-mp4-a-ottime-foto-jpeg-facile-strategia-online-usando-movavi/"><u>Liberamente Converte I Tuoi Video MP4 a Ottime Foto JPEG - Facile Strategia Online Usando Movavi</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-ebooks-on-amazon-kindle-comprehensive-guide-to-compatible-formats/"><u>Mastering eBooks on Amazon Kindle: Comprehensive Guide to Compatible Formats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-harmonizing-hits-the-best-melodies-to-complement-cinematic-short-films-and-videos/"><u>New Harmonizing Hits The Best Melodies to Complement Cinematic Short Films and Videos</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782287-9781620550472-primal-awareness/"><u>Primal Awareness | Free Book</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/resolving-compilation-errors-in-cplusplus-after-electronic-book-software-updates/"><u>Resolving Compilation Errors in C++ After Electronic Book Software Updates</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/seamless-transfer-of-kindle-ebooks-onto-blackberry-devices/"><u>Seamless Transfer of Kindle Ebooks Onto Blackberry Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-on-moving-your-pdf-documents-onto-a-kindle-device/"><u>Step-by-Step Guide on Moving Your PDF Documents Onto a Kindle Device</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-converting-ipublishreader-ebooks-to-offline-format-without-drm/"><u>Step-by-Step Guide: Converting iPublishReader eBooks to Offline Format Without DRM</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-moving-ebook-files-from-laptop-to-nook-device-efficiently/"><u>Step-by-Step Guide: Moving eBook Files From Laptop to Nook Device Efficiently</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-removing-titles-from-your-nook-library/"><u>Step-by-Step Guide: Removing Titles From Your Nook Library</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-10-websites-to-download-free-sound-clips-for-videos/"><u>Updated Top 10 Websites to Download Free Sound Clips for Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-effortless-audio-integration-for-inshot-devices/"><u>[Updated] 2024 Approved Effortless Audio Integration for InShot Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-accelerated-image-viewer-in-windows-environment-for-2024/"><u>[Updated] Accelerated Image Viewer in Windows Environment for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726028434227-usb/"><u>「USBを使って車載でも音楽再生方法！専門家による簡単チュートリアル」</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-clicks-youtube-thumbnail-sizes-explored-for-2024/"><u>Enhancing Clicks YouTube Thumbnail Sizes Explored for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-disable-or-remove-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>How to Disable or Remove Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-speed-up-your-computers-startup-process-tips-from-yl-computing/"><u>How to Speed Up Your Computer's Startup Process: Tips From YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-verify-your-network-adapter-works-properly-a-comprehensive-guide-yl-computing/"><u>How to Verify Your Network Adapter Works Properly: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-downloader-seamless-mp4-conversion/"><u>In 2024, FB Video Downloader Seamless MP4 Conversion</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/is-your-scanner-due-for-an-update-find-out-how-with-yl-computings-latest-software-solutions/"><u>Is Your Scanner Due for an Update? Find Out How with YL Computing's Latest Software Solutions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/locating-your-pcs-security-a-guide-on-monitoring-windows-defender-activity-insights-from-yl-computing/"><u>Locating Your PC's Security: A Guide on Monitoring Window's Defender Activity - Insights From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-cpu-load-wmi-worker-fixes/"><u>Lowering Cpu Load: WMI Worker Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-inconsistent-swipe-commands-on-windows-tablets/"><u>Mastering Inconsistent Swipe Commands on Windows Tablets</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-expert-picks-best-text-animation-and-tracking-software-2023-for-2024/"><u>New Expert Picks Best Text Animation and Tracking Software 2023 for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/new-hardware-woes-why-your-internet-is-down-after-upgrading-to-the-latest-network-card-expert-fixes-by-yl-software/"><u>New Hardware Woes: Why Your Internet Is Down After Upgrading to the Latest Network Card – Expert Fixes by YL Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-watermark-free-video-editing-top-10-online-tools-you-need-to-know/"><u>New In 2024, Watermark-Free Video Editing Top 10 Online Tools You Need to Know</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-reasons-for-sluggish-performance-on-your-pc-insights-from-yl-software/"><u>Top Reasons for Sluggish Performance on Your PC: Insights From YL Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/updating-your-pcs-graphics-driver-a-step-by-step-guide-tech-support-central/"><u>Updating Your PC's Graphics Driver: A Step-by-Step Guide - Tech Support Central</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yl-computings-pebble-mind-stunning-backdrop-graphics-and-desktop-scenes/"><u>YL Computing's Pebble Mind - Stunning Backdrop Graphics & Desktop Scenes</u></a></li>
 </ul></div>
 

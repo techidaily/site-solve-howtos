@@ -1,7 +1,7 @@
 ---
 title: Comment Utiliser ASUS Secure Erase Et Quelles Sont Les Options Préférées Comparées?
-date: 2025-02-12T01:56:56.987Z
-updated: 2025-02-13T04:58:04.505Z
+date: 2025-03-02T19:10:22.178Z
+updated: 2025-03-04T04:48:40.532Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/762eb58aca659c7ab398016eac456ae67d371642f3000355e426b137b3698ca6.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -69,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -101,17 +89,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,18 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-live-streaming-360-video-to-youtube/"><u>[New] In 2024, How to Live Streaming 360 Video to Youtube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nitiate-investment-cost-effective-youtube-monetization-options-for-2024/"><u>[New] Initiate Investment Cost-Effective YouTube Monetization Options for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-latest-hit-a-guide-to-todays-top-8-online-videos/"><u>[Updated] The Latest Hit A Guide to Today's Top 8 Online Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/9-effective-strategies-leveraging-chatgpt-for-improved-wellness/"><u>9 Effective Strategies: Leveraging ChatGPT for Improved Wellness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/blizzards-battlenet-server-status-how-to-distinguish-between-personal-and-global-connectivity-errors/"><u>Blizzard's Battle.net Server Status - How to Distinguish Between Personal and Global Connectivity Errors</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convert-mp43gp-files-free-with-movavis-web-based-format-changer/"><u>Convert MP4/3GP Files FREE with Movavi's Web-Based Format Changer</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guvenli-web-platformlarla-kaynactirici-movavi-bilgi-teknolojisi-ilerleyisi-ve-yazilim-gozlemleri/"><u>Güvenli Web Platformlarla Kaynaçtırıcı Movavi - Bilgi Teknolojisi İlerleyişi Ve Yazılım Gözlemleri</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/movmp4movavi/"><u>MOV到MP4無成本在線轉換解決方法，以Movavi工具為最佳選擇</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-windows-experience-key-cmd-commands-for-efficiency/"><u>Optimize Windows Experience: Key CMD Commands for Efficiency</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ess-integration-offline-watching-of-youtube-via-ios-for-2024/"><u>Seamless Integration Offline Watching of YouTube via iOS for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/swf-mp3-movavi/"><u>SWF 파일에서 MP3로 바꾸기: 온라인 가용성과 동시에 – Movavi 소개</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/titre-strategies-de-reussite-pour-les-bons-plans-et-coupons-deconomie-avec-movavi/"><u>Titre: « Stratégies De Réussite Pour Les Bons Plans Et Coupons D'économie Avec Movavi »</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-screen-record-on-iphone-in-an-easy-way/"><u>[New] 2024 Approved How to Screen Record on Iphone in An Easy Way?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>[New] Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-finish-to-start-the-art-of-negative-playback-on-instagram/"><u>[Updated] 2024 Approved From Finish to Start The Art of Negative-Playback on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-immersive-metaverse-adventures-for-group-play-for-2024/"><u>10 Immersive Metaverse Adventures for Group Play for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-cpu-upgrade-vs-gpu-boost-priority/"><u>Choosing: CPU Upgrade Vs. GPU Boost Priority</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/download-and-enjoy-free-audiobooks-anytime-anywhere-best-apps-for-android-devices/"><u>Download & Enjoy Free Audiobooks Anytime, Anywhere: Best Apps for Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-lost-desktop-icons-in-windows-11-top-solutions-revealed/"><u>Easy Fixes for Lost Desktop Icons in Windows 11 - Top Solutions Revealed</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/efficient-methods-for-converting-and-sending-e-books-directly-to-your-amazon-kindle-reader/"><u>Efficient Methods for Converting and Sending E-Books Directly to Your Amazon Kindle Reader</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/exploring-unknown-drm-understanding-digital-rights-management-secrets/"><u>Exploring Unknown DRM: Understanding Digital Rights Management Secrets</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-v-purse-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor V Purse by Name | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-pourquoi-opter-pour-cette-solution-video/"><u>Movavi: Pourquoi Opter Pour Cette Solution Vidéo?</u></a></li>
 </ul></div>
 

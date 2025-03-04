@@ -1,7 +1,7 @@
 ---
 title: "Find Missing Drives on Windows 10/11: A Step-by-Step Guide"
-date: 2025-02-09T01:47:05.731Z
-updated: 2025-02-12T17:39:47.293Z
+date: 2025-02-25T05:38:27.038Z
+updated: 2025-03-04T05:34:13.008Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f319881184a8db53e138fd0a.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -70,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -82,10 +74,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -93,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -129,10 +113,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -167,10 +147,6 @@ Sicherer Download
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Zusammenfassung
 
 Wie kann man den Papierkorb vom Desktop entfernen in Windows 10/11? Sie können sich auf den ersten Teil beziehen.
@@ -180,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -235,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -248,10 +216,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,24 +232,16 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-sharex-review-and-alternatives/"><u>[Updated] ShareX Review and Alternatives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-horizontal-or-vertical-crafting-the-best-fb-video-posts/"><u>2024 Approved Horizontal or Vertical Crafting the Best FB Video Posts</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728466638765-usb/"><u>如何拯救損壞的USB驅動器中的重要文件 - 全面解決方案</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728463504783-aomei-backupper/"><u>AOMEI Backupper - 最も信頼性が高く、完全無料のバックアップソリューション</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comment-nettoyer-et-mettre-a-jour-vos-fichiers-dinstallation-windows-11-en-seulement-trois-etapes/"><u>Comment Nettoyer Et Mettre À Jour Vos Fichiers D'Installation Windows 11 en Seulement Trois Étapes!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-leading-cordless-phone-models-for-202n4/"><u>Discover the Leading Cordless Phone Models for 202N4</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effortless-system-image-backup-for-windows-7-8-and-10-users-two-proven-methods/"><u>Effortless System Image Backup for Windows 7, 8 & 10 Users - Two Proven Methods!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-completa-para-clonar-el-sistema-de-almacenamiento-de-tu-computadora-portatil-hacia-un-ssd-reducido-o-nuevo-hdd/"><u>Guía Completa Para Clonar El Sistema De Almacenamiento De Tu Computadora Portátil Hacia Un SSD Reducido O Nuevo HDD</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/harness-the-power-of-text-messaging-in-2009-understanding-client-behavior-via-massmails-data-analysis-tools/"><u>Harness the Power of Text Messaging in 2009: Understanding Client Behavior via MassMail's Data Analysis Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-asus-rog-phone-7-ultimate-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Asus ROG Phone 7 Ultimate Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-quality-video-summaries-with-smart-templates/"><u>In 2024, Top-Quality Video Summaries with Smart Templates</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/leveraging-search-engine-expertise-for-your-companys-success-using-massmail-tech/"><u>Leveraging Search Engine Expertise for Your Company's Success Using Massmail Tech</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-transform-your-videos-best-time-lapse-editing-apps-for-mobile/"><u>New In 2024, Transform Your Videos Best Time-Lapse Editing Apps for Mobile</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/satire-spectacle-youtubes-top-comedic-talent-list-for-2024/"><u>Satire Spectacle YouTube's Top Comedic Talent List for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/schnell-lernen-zwei-einfache-losungen-fur-die-automatische-verbindung-ihrer-dateien-zu-microsofts-onedrive-service/"><u>Schnell Lernen: Zwei Einfache Lösungen Für Die Automatische Verbindung Ihrer Dateien Zu Microsofts OneDrive-Service</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ultimate-guide-to-linking-dex-iii-with-soundcloud-goplus-for-perfect-music-playlists/"><u>Ultimate Guide to Linking DEX III With SoundCloud Go+ for Perfect Music Playlists</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/windows-10-how-to-troubleshoot-sd-card-formatting-issues/"><u>Windows 10: How to Troubleshoot SD Card Formatting Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/nsv/"><u>비용 부과 없이 인터넷 사이트를 통해 NSV 변환기 - 모바비아</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[New] 2024 Approved Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-innovative-visual-alteration-solutions-pixelpioneers-edge/"><u>[New] In 2024, Innovative Visual Alteration Solutions PixelPioneer's Edge</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-streamline-conferencing-top-tactics-using-zoom-coder/"><u>[Updated] Streamline Conferencing Top Tactics Using Zoom Coder</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728479757196-404/"><u>「未検出のウェブページを見つけるには？: 404エラーの問題解決方法」</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/amazon-cloud-drive/"><u>Amazon Cloud Driveマックファイル同期手順：詳細なステップバイステップガイド</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-can-i-ensure-deleted-text-messages-are-permanently-removed/"><u>How Can I Ensure Deleted Text Messages Are Permanently Removed?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-snag-the-cutting-edge-1amoelpmacbookprowithm3chip-for-500-less-prime-day-deal-awaits/"><u>Limited Time Offer: Snag the Cutting-Edge 1amoelpMacBookProWithM3Chip For $500 Less – Prime Day Deal Awaits!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-scratched-mp4-video-files/"><u>Repairing Scratched MP4 Video Files</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/speicherkarten-bildwiedergutmachung-wie-sie-fotos-wiederfinden-die-sie-unwiderruflich-geloscht-haben/"><u>Speicherkarten-Bildwiedergutmachung – Wie Sie Fotos Wiederfinden, Die Sie Unwiderruflich Gelöscht Haben</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/tecnicas-faciles-de-uso-de-cmd-para-recuperar-documentos-eliminados-en-discos-extraibles-como-hacerlo/"><u>Técnicas Faciles De Uso De CMD Para Recuperar Documentos Eliminados en Discos Extraíbles - ¡Cómo Hacerlo!</u></a></li>
 </ul></div>
 
